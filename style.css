@@ -63,9 +63,10 @@ h1 {
     font-family: 'Rock Salt', cursive;
 }
 
-main p {
-    position: absolute;    font-size: 35px;
+p {
+    font-size: 35px;
     font-family: 'Rock Salt', cursive;
+    text-align: center;
 }
 
 .text {
