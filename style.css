@@ -60,14 +60,12 @@ img {
 
 h1 {
     font-size: 60px;
-    /*font-family: 'Audiowide', cursive;*/
     font-family: 'Rock Salt', cursive;
 }
 
 main p {
-    font-size: 35px;
+    position: absolute;    font-size: 35px;
     font-family: 'Rock Salt', cursive;
-    /*font-family: 'Audiowide', cursive;*/
 }
 
 .text {
@@ -87,4 +85,5 @@ html {
     -o-background-size: cover;
     background-size: cover;
     /*font-family: 'Cantarell', sans-serif;*/
+    /*font-family: 'Audiowide', cursive;*/
 }
