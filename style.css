@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /*border: 1px solid blue;*/
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+    /*border: 1px solid red;*/
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: -125px;
+    float: right;
+}
+
+li {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+li i {
+    transition: 0.25s ease-in-out;
+}
+
+li i:hover {
+    /*transform: scale(1.2);*/
+    /*transform: rotate(20deg);*/
+    transform: translate(0px, 5px);
+}
+
+main {
+    margin-top: 50px;
+    /*border: 1px solid black;*/
+    display: none;
+}
+
+figure {
+    /*visibility: hidden;*/
+    /*display: none;*/
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    border: 2px solid pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 60px;
+    /*font-family: 'Audiowide', cursive;*/
+    font-family: 'Rock Salt', cursive;
+}
+
+main p {
+    font-size: 35px;
+    font-family: 'Rock Salt', cursive;
+    /*font-family: 'Audiowide', cursive;*/
+}
+
+.text {
+    text-align: center;
+    color: #ffe6e6;
+    text-shadow: 2px 2px 3px pink;
+}
+
+.fa {
+  color: #e6f2ff;;
+}
+
+html {
+    background: url(nice.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*font-family: 'Cantarell', sans-serif;*/
+}
