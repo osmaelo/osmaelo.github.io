@@ -69,6 +69,15 @@ p {
     text-align: center;
 }
 
+p a:link, p a:visited {
+    color: #ffe6e6;
+    text-decoration: none;
+}
+
+p a:hover, p a:active {
+    text-decoration: none;
+}
+
 .text {
     text-align: center;
     color: #ffe6e6;
