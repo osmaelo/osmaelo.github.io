@@ -1,99 +1,190 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
+  background-color: rgb(39, 41, 47);
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  /*font-family: 'Cantarell', sans-serif;*/
+  /*font-family: 'Audiowide', cursive;*/
+}
+
+#body {
+  height: 100%;
+}
+
+.navigation {
+  background-color: rgb(39, 41, 47);
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  width: 285px;
+  padding: 60px;
+  /*opacity: .5;*/
+  color: rgb(179, 179, 179);
+}
+
+.navigation-logo {
+  width: 165px;
+  height: 116px;
+  border: 2px red solid;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.navigation-items ul {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.navigation-items a {
+  font-size: 14px;
+  letter-spacing: 3px;
+  font-family: montserrat-reg, arial, sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #b3b3b3;
+  display: block;
+  text-align: right;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s
+}
+
+.navigation-items ul li {
+    width: 155px;
+    height: 28px;
+    margin: 15px;
+}
+
+.navigation-items a.active,
+.navigation-items a:hover {
+    color: #fff
+}
+
+
+.main {
   background: url(nice.JPG) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  /*font-family: 'Cantarell', sans-serif;*/
-  /*font-family: 'Audiowide', cursive;*/
+  border-radius: 10px;
+  margin: 20px;
+  padding: 0;
+  width: auto;
+  overflow: auto;
+  position: absolute;
+  left: 285px;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
-body {
-  margin: 0;
-  padding: 0;
+.header {
+  border: 2px red solid;
+  background-color: rgba(255, 255, 255, 0.3);
   height: 100%;
-  width: 100%;
-  /*border: 1px solid blue;*/
+  position: static;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
-nav {
-  position: fixed;
-  top: 0px;
-  /*border: 1px solid red;*/
-  width: 100%;
+.header img {
+  border: 2px red solid;
+  position: absolute;
+  /*left: 20%;
+  right: 40%;
+  top: 30%;
+  bottom: 50%;*/
+  max-width: 1000px;
+  width: 70%;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  margin-top: -125px;
-  float: right;
+section {
+  background-color: rgb(255, 255, 255);
 }
 
-li {
-  display: inline;
-  margin-left: 10px;
-  margin-right: 10px;
+.introduction {
+  border: 2px yellow solid;
+  height: auto;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
-li i {
-  transition: 0.25s ease-in-out;
-}
-
-li i:hover {
-  /*transform: scale(1.2);*/
-  /*transform: rotate(20deg);*/
-  transform: translate(0px, 5px);
-}
-
-main {
-  margin-top: 50px;
-  /*border: 1px solid black;*/
-  display: none;
-}
-
-figure {
-  /*visibility: hidden;*/
-  /*display: none;*/
-}
-
-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 25%;
-  border: 2px solid pink;
+.introduction article {
+  border: 2px orange solid;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+  width: auto;
+  left: 20%;
+  right: 20%;
+  top: 30%;
+  bottom: 50%;
 }
 
-h1 {
-  font-size: 60px;
-  font-family: 'Rock Salt', cursive;
+
+.featured-work {
+  border: 2px purple solid;
+  height: auto;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
-p {
-  font-size: 35px;
-  font-family: 'Rock Salt', cursive;
+.featured-work article {
+  border: 2px violet solid;
+  display: block;
+  position: absolute;
+  width: auto;
+  left: 20%;
+  right: 20%;
+  top: 30%;
+  bottom: 50%;
+}
+
+
+.featured-work article img {
+  border: 2px purple solid;
+  width: 150px;
+  float: left;
+}
+
+.footer {
+  border: 2px maroon solid;
+  background-color: rgb(243, 243, 243);
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 285px;
+}
+
+.footer-section {
+  border: 2px maroon solid;
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 40%;
+  right: 40%;
+  top: 30%;
+  bottom: 50%;
   text-align: center;
 }
 
-p a:link, p a:visited {
-  color: #ffe6e6;
-  text-decoration: none;
-}
-
-p a:hover, p a:active {
-  text-decoration: none;
-}
-
-.text {
-  text-align: center;
-  color: #ffe6e6;
-  text-shadow: 2px 2px 3px pink;
-}
-
-.fa {
-  color: #e6f2ff;;
+.footer img {
+  border: 2px maroon solid;
+  width: 50px;
 }

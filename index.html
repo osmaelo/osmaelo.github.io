@@ -9,59 +9,114 @@
 
     <title>Ismael Olea</title>
 
+    <!-- CSS Stylesheet -->
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/png" href="favicon.png">
+    <!-- Tab Icon -->
+    <!-- <link rel="icon" type="image/png" href="favicon.png"> -->
 
+    <!-- Fonts -->
     <!-- <link href='https://fonts.googleapis.com/css?family=Cantarell:700italic' rel='stylesheet' type='text/css'> -->
     <!-- <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'> -->
-    <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <!-- <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'> -->
 
+    <!-- BootStrap Font Awesome Logos-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <!-- jQuery v2 -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <!-- jQuery v1 -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 
+    <!-- External javascript -->
+    <script src="./javascript.js"></script>
+
+    <!-- Google Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
       ga('create', 'UA-76961014-1', 'auto');
       ga('send', 'pageview');
     </script>
-
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $("main").fadeIn(2000);
-            $("ul").animate({marginTop:"0px"}, 2500);
-        });
-    </script>
   </head>
 
-  <body>
+  <body id="body">
 
-    <nav>
-      <ul>
-        <li><a href="https://www.linkedin.com/in/ismaeloleaio" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a></li>
-        <li><a href="https://github.com/osmaelo" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
-        <li><i id="email" class="fa fa-envelope fa-2x" aria-hidden="true"></i></li>
-      </ul>
+    <nav id="navigation" class="navigation">
+      <div class="navigation-logo">
+        <p>
+          Logo
+        </p>
+      </div>
+
+      <div class="navigation-items">
+        <ul>
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Portfolio</a>
+          </li>
+          <li>
+            <a href="#">Resume</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+
     </nav>
 
-    <main>
-      <figure><img src="AAMugShot.jpg" alt="Ismael"/></figure>
-      <h1 class="text">Ismael Olea</h1>
-      <p class="text">
-        Software Engineer <a href="https://youtu.be/kaSrpwNyOF8" target="_blank">|</a> San Francisco, California
-      </p>
+    <main id="main" class="main">
+      <header id="header" class="header">
+        <img id="header-logo" src="./header-logo.png" alt="Ismael Olea" />
+      </header>
+
+      <section>
+        <div class="introduction">
+          <article>
+            <h2>Introduction Title</h2>
+            <p>My name is Ismael and I am an aspiring Web Developer/Software Engineer. I hail from Northern California, born<sup>*</sup> and bred.</p>
+            <p>Presently, I'm looking for Front-End/Back-End Web Development opportunities in the San Francisco Bay Area.</p>
+            <a class="button" href="#">Would you like to know more?</a>
+          </article>
+        </div>
+
+        <div class="featured-work">
+          Feature Work 1
+          <article>
+            <img src="./AAMugShot.jpg" alt="feat1" />
+            <p>Description of accomplishment</p>
+            <a class="button" href="#">Would you like to know more?</a>
+          </article>
+        </div>
+
+        <div class="featured-work">
+          Featured Work 2
+          <article>
+            <img src="./AAMugShot.jpg" alt="feat2" />
+            <p>Description of accomplishment</p>
+            <a class="button" href="#">Would you like to know more?</a>
+          </article>
+        </div>
+
+      </section>
+
+      <footer id="footer" class="footer">
+        <div class="footer-section">
+          <img src="./AAMugShot.jpg" alt="Footer Logo" />
+            <p>
+              <a href="#">Link1</a> - <a href="#">Link1</a> - <a href="#">Link1</a>
+            </p>
+          <p class="">I am the footer.</p>
+        </div>
+      </footer>
     </main>
 
-    <!-- Send Email Button -->
-    <script type="text/javascript">
-      document.getElementById('email').onclick = function() {
-          window.open('mailto:olea.ismael@gmail.com');
-      }
-    </script>
   </body>
 
 </html>
