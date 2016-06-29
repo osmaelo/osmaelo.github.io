@@ -7,6 +7,9 @@
     <meta name="author" content="Ismael Olea">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- BootStrap Mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <title>Ismael Olea</title>
 
     <!-- CSS Stylesheet -->
@@ -19,12 +22,17 @@
     <!-- <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'> -->
     <!-- <link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'> -->
 
-    <!-- BootStrap Font Awesome Logos-->
+    <!-- Font Awesome Logos-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <!-- jQuery v2 -->
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <!-- jQuery v1 -->
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <!-- Tether need by BootStrap. Good for position elements -->
+    <!-- <script src="https://www.atlasestateagents.co.uk/javascript/tether.min.js"></script> -->
+    <!-- BootStrap v4 CDN -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script> -->
 
     <!-- External javascript -->
     <script src="./javascript.js"></script>
@@ -44,9 +52,7 @@
 
     <nav id="navigation" class="navigation">
       <div class="navigation-logo">
-        <p>
-          Logo
-        </p>
+        <img id="navigation-logo" src="./images/logos/Logo2Alt.png" alt="IO" />
       </div>
 
       <div class="navigation-items">
@@ -73,32 +79,34 @@
 
     <main id="main" class="main">
       <header id="header" class="header">
-        <img id="header-logo" src="./header-logo.png" alt="Ismael Olea" />
+        <img id="header-logo" src="./images/logos/Logo1.png" alt="Ismael Olea" />
       </header>
 
       <section>
-        <div class="introduction">
-          <article>
-            <h2>Introduction Title</h2>
-            <p>My name is Ismael and I am an aspiring Web Developer/Software Engineer. I hail from Northern California, born<sup>*</sup> and bred.</p>
+        <div id="introduction" class="introduction">
+          <article id="introduction-article" class="text-block">
+            <h2>Hola, Bienvenue, Wilkommen ...</h2>
+            <p>My name is Ismael and I am an aspiring Web Developer/Software Engineer. I hail from Northern California, born<small><sup>*</sup></small> and bred.</p>
             <p>Presently, I'm looking for Front-End/Back-End Web Development opportunities in the San Francisco Bay Area.</p>
             <a class="button" href="#">Would you like to know more?</a>
           </article>
         </div>
 
+        <div id="featured-work-title" class="text-block">
+          <h1>Featured Work</h1>
+        </div>
+
         <div class="featured-work">
-          Feature Work 1
-          <article>
-            <img src="./AAMugShot.jpg" alt="feat1" />
+          <article class="featured-work-article text-block">
+            <img src="./images/AAMugShot.jpg" alt="feat1" />
             <p>Description of accomplishment</p>
             <a class="button" href="#">Would you like to know more?</a>
           </article>
         </div>
 
         <div class="featured-work">
-          Featured Work 2
-          <article>
-            <img src="./AAMugShot.jpg" alt="feat2" />
+          <article class="featured-work-article text-block">
+            <img src="./images/AAMugShot.jpg" alt="feat2" />
             <p>Description of accomplishment</p>
             <a class="button" href="#">Would you like to know more?</a>
           </article>
@@ -106,9 +114,9 @@
 
       </section>
 
-      <footer id="footer" class="footer">
+      <footer id="footer" class="footer text">
         <div class="footer-section">
-          <img src="./AAMugShot.jpg" alt="Footer Logo" />
+          <img src="./images/logos/Logo2.png" alt="Footer Logo" />
             <p>
               <a href="#">Link1</a> - <a href="#">Link1</a> - <a href="#">Link1</a>
             </p>

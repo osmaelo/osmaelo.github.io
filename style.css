@@ -30,11 +30,15 @@ html {
 
 .navigation-logo {
   width: 165px;
-  height: 116px;
-  border: 2px red solid;
+  /*border: 2px red solid;*/
   margin-top: 40px;
   margin-bottom: 60px;
 }
+
+.navigation-logo img {
+  width: 165px;
+}
+
 
 .navigation-items ul {
   list-style: none;
@@ -86,8 +90,8 @@ html {
 }
 
 .header {
-  border: 2px red solid;
-  background-color: rgba(255, 255, 255, 0.3);
+  /*border: 2px red solid;*/
+  background-color: rgba(255, 255, 255, 0.25);
   height: 100%;
   position: static;
   left: 0;
@@ -97,7 +101,7 @@ html {
 }
 
 .header img {
-  border: 2px red solid;
+  /*border: 2px red solid;*/
   position: absolute;
   /*left: 20%;
   right: 40%;
@@ -111,27 +115,72 @@ section {
   background-color: rgb(255, 255, 255);
 }
 
+.text-block {
+  font-family: montserrat-reg, arial, sans-serif;
+  text-decoration: none;
+  color: rgba(39, 41, 47, 1);
+  letter-spacing: 1px;
+  text-align: left;
+  /*line-height: 1.5em;*/
+  /*background-color: rgb(230, 230, 230);*/
+}
+
 .introduction {
-  border: 2px yellow solid;
+  /*border: 2px yellow solid;*/
   height: auto;
   position: relative;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
+
+  flex-direction: column;
+  justify-content: center;
+}
+
+.introduction h2 {
+  padding-bottom: 10px;
+  /*text-align: center;*/
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  font-weight: 300;
 }
 
 .introduction article {
-  border: 2px orange solid;
-  display: block;
-  position: absolute;
-  width: auto;
-  left: 20%;
-  right: 20%;
-  top: 30%;
-  bottom: 50%;
+  max-width: 65%;
+  border-radius: 10px;
+  /*border: 2px orange solid;*/
+  display: inline-block;
+  position: relative;
+  padding: 10px;
 }
 
+.introduction p {
+
+}
+
+.button {
+  border: 1px rgb(39, 41, 47) solid;
+  padding: 5px 10px;
+  font-size: 75%;
+}
+
+
+#featured-work-title {
+  border: 2px grey solid;
+  /*position: relative;*/
+  background-color: rgb(255, 255, 255);
+}
+
+#featured-work-title h1 {
+  text-align: center;
+  border: 2px grey solid;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  font-weight: 300;
+}
 
 .featured-work {
   border: 2px purple solid;
@@ -144,14 +193,17 @@ section {
 }
 
 .featured-work article {
+  border-radius: 10px;
   border: 2px violet solid;
-  display: block;
+  display: inline-block;
   position: absolute;
-  width: auto;
-  left: 20%;
+  padding: 10px;
+  /*width: auto;*/
+
+  /*left: 20%;
   right: 20%;
   top: 30%;
-  bottom: 50%;
+  bottom: 50%;*/
 }
 
 
@@ -161,9 +213,17 @@ section {
   float: left;
 }
 
+.featured-work article p {
+  float: left;
+}
+
+.featured-work article a {
+  display: block;
+}
+
 .footer {
-  border: 2px maroon solid;
-  background-color: rgb(243, 243, 243);
+  /*border: 2px maroon solid;*/
+  background-color: rgb(230, 230, 230);
   position: relative;
   left: 0;
   right: 0;
@@ -173,18 +233,18 @@ section {
 }
 
 .footer-section {
-  border: 2px maroon solid;
+  /*border: 2px maroon solid;*/
   position: absolute;
   width: auto;
   height: auto;
   left: 40%;
   right: 40%;
-  top: 30%;
+  top: 10%;
   bottom: 50%;
   text-align: center;
 }
 
 .footer img {
-  border: 2px maroon solid;
-  width: 50px;
+  /*border: 2px maroon solid;*/
+  width: 165px;
 }
