@@ -56,7 +56,7 @@ html {
   display: block;
   text-align: right;
   -webkit-transition: color 0.3s;
-  transition: color 0.3s
+  transition: color 0.3s;
 }
 
 .navigation-items ul li {
@@ -65,11 +65,18 @@ html {
     margin: 15px;
 }
 
-.navigation-items a.active,
-.navigation-items a:hover {
-    color: #fff
+.navigation-items a {
+  width: auto;
 }
 
+.navigation-items a:hover {
+    color: #fff;
+}
+
+.navigation-items a:active {
+  position: relative;
+  top: 1px;
+}
 
 .main {
   background: url(nice.JPG) no-repeat center center fixed;
@@ -153,7 +160,7 @@ section {
   /*border: 2px orange solid;*/
   display: inline-block;
   position: relative;
-  padding: 10px;
+  /*padding: 10px;*/
 }
 
 .introduction p {
@@ -162,28 +169,56 @@ section {
 
 .button {
   border: 1px rgb(39, 41, 47) solid;
-  padding: 5px 10px;
+  /*border-radius: 5px;*/
+  display: inline-block;
+  padding: 15px 20px;
   font-size: 75%;
+  margin-top: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-transition: background 0.5s linear;
+  transition: background 0.5s linear;
+  -webkit-transition: color 0.5s;
+  transition: color 0.5s;
+}
+
+.button:visited {
+  color: rgba(39, 41, 47, 1);
+}
+
+.button:hover {
+  text-align: center;
+  border: 1px rgb(230, 230, 230) solid;
+  color: rgb(230, 230, 230);
+  background-color: rgb(39, 41, 47);
+}
+
+
+.button:active {
+  color: rgb(230, 230, 230);
+  position: relative;
+  top: 1px;
 }
 
 
 #featured-work-title {
-  border: 2px grey solid;
+  /*border: 2px grey solid;*/
   /*position: relative;*/
   background-color: rgb(255, 255, 255);
 }
 
 #featured-work-title h1 {
+  margin: 0;
   text-align: center;
-  border: 2px grey solid;
   text-transform: uppercase;
   letter-spacing: 4px;
-
   font-weight: 300;
+  display: inline-block;
+  position: relative;
 }
 
 .featured-work {
-  border: 2px purple solid;
+  /*border: 2px purple solid;*/
   height: auto;
   position: relative;
   left: 0;
@@ -193,11 +228,11 @@ section {
 }
 
 .featured-work article {
+  /*border: 2px purple solid;*/
   border-radius: 10px;
-  border: 2px violet solid;
+  /*border: 2px violet solid;*/
   display: inline-block;
-  position: absolute;
-  padding: 10px;
+  position: relative;
   /*width: auto;*/
 
   /*left: 20%;
@@ -208,17 +243,26 @@ section {
 
 
 .featured-work article img {
-  border: 2px purple solid;
-  width: 150px;
-  float: left;
+  display: block;
+  margin: 0 auto;
+  /*border: 2px purple solid;*/
+  max-width: 600px;
+  /*width: 150px;*/
+  /*float: left;*/
+  /*display: inline-block;*/
+  /*position: absolute;*/
+}
+
+.featured-work article h3 {
+
 }
 
 .featured-work article p {
-  float: left;
+
 }
 
 .featured-work article a {
-  display: block;
+
 }
 
 .footer {

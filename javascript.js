@@ -12,32 +12,87 @@ $(window).ready(function() {
     return num + "px";
   };
 
-  // Animate in Font Awesome Logos
-  // $(document).ready(function() {
-  //     $("main").fadeIn(2000);
-  //     $("ul").animate({marginTop:"0px"}, 2500);
-  // });
+  // Resize _____________ to appropriate height upon loading the DOM
+  // introduction
+  var introHeight = Math.round(0.75 * pixToNum($(".header").css("height")));
+  $(".introduction").css( "height", numToPix(introHeight));
+  // featured-work
+  var featWorkHeight = Math.round(0.75 * pixToNum($(".header").css("height")));
+  $(".featured-work").css( "height", numToPix(featWorkHeight));
 
-  // Resize/Change Position upon visiting the site and loading the DOM
+  // Position Header Logo image in Header
+  var headerHeight = pixToNum($("#header").css("height")),
+      headerWidth = pixToNum($("#header").css("width"));
+  var headerImgHeight = pixToNum($("#header-logo").css("height")),
+      headerImgWidth = pixToNum($("#header-logo").css("width"));
+  var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
+      hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
+  $("#header-logo").css("top",hLTopDisp);
+  $("#header-logo").css("left",hLLeftDisp);
 
-  // Resize/Change Position upon resizing the window
 
-  // Features activated upon scrolling
+  // Position introduction article in introduction
+  var introWidth = pixToNum($("#introduction").css("width"));
+  var introArtHeight = pixToNum($("#introduction-article").css("height")),
+      introArtWidth = pixToNum($("#introduction-article").css("width"));
+  var introArtTopDisp = numToPix(introHeight/2 - introArtHeight/2),
+      introArtLeftDisp = numToPix(introWidth/2 - introArtWidth/2);
+  $("#introduction-article").css("top",introArtTopDisp);
+  $("#introduction-article").css("left",introArtLeftDisp);
 
-  // Resize introduction to a different height
-  var introHeight = Math.round(0.75 * pixToNum($(".header").css("height"))) + "px";
-  $(".introduction").css( "height", introHeight);
+  // Position featured-work article in featured-work
+  var featWorkWidth = pixToNum($(".featured-work").css("width"));
+  var featArtHeight = pixToNum($(".featured-work-article").css("height")),
+      featArtWidth = pixToNum($(".featured-work-article").css("width"));
+  var featArtTopDisp = numToPix(featWorkHeight/2 - featArtHeight/2),
+      featArtLeftDisp = numToPix(featWorkWidth/2 - featArtWidth/2);
+  $(".featured-work-article").css("top",featArtTopDisp);
+  $(".featured-work-article").css("left",featArtLeftDisp);
+
+  // Indent featured-work-title
+  $("#featured-work-title h1").css("left",featArtLeftDisp);
+
+
+  // On resizing of window...
   $(window).resize(function () {
-    introHeight = Math.round(0.75 * pixToNum($(".header").css("height"))) + "px";
+    // Resize _____________ to a different height upon window resizing
+    // introduction
+    introHeight = numToPix(Math.round(0.75 * pixToNum($(".header").css("height"))));
     $(".introduction").css( "height", introHeight);
-  });
-
-  // Resize featured-work to a different height
-  var featWorkHeight = Math.round(0.75 * pixToNum($(".header").css("height"))) + "px";
-  $(".featured-work").css( "height", featWorkHeight);
-  $(window).resize(function () {
-    featWorkHeight = Math.round(0.75 * pixToNum($(".header").css("height"))) + "px";
+    // featured-work
+    featWorkHeight = numToPix(Math.round(0.75 * pixToNum($(".header").css("height"))));
     $(".featured-work").css( "height", featWorkHeight);
+
+    // Change position of Header Logo as window is resized
+    var headerHeight = pixToNum($("#header").css("height")),
+        headerWidth = pixToNum($("#header").css("width"));
+    var headerImgHeight = pixToNum($("#header-logo").css("height")),
+        headerImgWidth = pixToNum($("#header-logo").css("width"));
+    var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
+        hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
+    $("#header-logo").css("top",hLTopDisp);
+    $("#header-logo").css("left",hLLeftDisp);
+
+    // Change position of introduction article as window is resized
+    var introWidth = pixToNum($("#introduction").css("width"));
+    var introArtHeight = pixToNum($("#introduction-article").css("height")),
+        introArtWidth = pixToNum($("#introduction-article").css("width"));
+    var introArtTopDisp = numToPix(pixToNum(introHeight)/2 - introArtHeight/2),
+        introArtLeftDisp = numToPix(introWidth/2 - introArtWidth/2);
+    $("#introduction-article").css("top",introArtTopDisp);
+    $("#introduction-article").css("left",introArtLeftDisp);
+
+    // Change position of featured-work article as window is resized
+    var featWorkWidth = pixToNum($(".featured-work").css("width"));
+    var featArtHeight = pixToNum($(".featured-work-article").css("height")),
+        featArtWidth = pixToNum($(".featured-work-article").css("width"));
+    var featArtTopDisp = numToPix(pixToNum(featWorkHeight)/2 - featArtHeight/2),
+        featArtLeftDisp = numToPix(featWorkWidth/2 - featArtWidth/2);
+    $(".featured-work-article").css("top",featArtTopDisp);
+    $(".featured-work-article").css("left",featArtLeftDisp);
+
+    // Change position of featured-work-title as window is resized
+    $("#featured-work-title h1").css("left",featArtLeftDisp);
   });
 
   // Code to change header color and opacity of header and header image as user scrolls
@@ -78,80 +133,35 @@ $(window).ready(function() {
     }
   });
 
-  // Position Header Logo image
-  // First center it and then change it's position as one scrolls
-  var headerHeight = pixToNum($("#header").css("height")),
-      headerWidth = pixToNum($("#header").css("width"));
-  var headerImgHeight = pixToNum($("#header-logo").css("height")),
-      headerImgWidth = pixToNum($("#header-logo").css("width"));
-  var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
-      hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
-  $("#header-logo").css("top",hLTopDisp);
-  $("#header-logo").css("left",hLLeftDisp);
 
+  // Change Text of button on hover
+  var originalText,
+      originalWidth;
+  $(".button").hover(
+    function() {
+      originalText = $(this).text();
+      originalWidth = $(this).css("width");
+      $(this).css("width", originalWidth);
+      $(this).text("Yes");
+      // console.log("inside");
+    }, function() {
+      $(this).text(originalText);
+    }
+  );
 
-
-  // Change position of Header Logo as window is resized
-  $(window).resize(function () {
-    var headerHeight = pixToNum($("#header").css("height")),
-        headerWidth = pixToNum($("#header").css("width"));
-    var headerImgHeight = pixToNum($("#header-logo").css("height")),
-        headerImgWidth = pixToNum($("#header-logo").css("width"));
-    var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
-        hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
-    $("#header-logo").css("top",hLTopDisp);
-    $("#header-logo").css("left",hLLeftDisp);
-  });
-
-  // Position introduction article in introduction
-  // introHeight already defined
-  var introWidth = pixToNum($("#introduction").css("width"));
-  var introArtHeight = pixToNum($("#introduction-article").css("height")),
-      introArtWidth = pixToNum($("#introduction-article").css("width"));
-  var introArtTopDisp = numToPix(pixToNum(introHeight)/2 - introArtHeight/1.5),
-      introArtLeftDisp = numToPix(introWidth/2 - introArtWidth/2);
-  $("#introduction-article").css("top",introArtTopDisp);
-  $("#introduction-article").css("left",introArtLeftDisp);
-
-  // $("#featured-work-title").css("left",introArtLeftDisp);
-
-  // Change position of Header Logo as window is resized
-  $(window).resize(function () {
-    var introWidth = pixToNum($("#introduction").css("width"));
-    var introArtHeight = pixToNum($("#introduction-article").css("height")),
-        introArtWidth = pixToNum($("#introduction-article").css("width"));
-    var introArtTopDisp = numToPix(pixToNum(introHeight)/2 - introArtHeight/1.5),
-        introArtLeftDisp = numToPix(introWidth/2 - introArtWidth/2);
-    $("#introduction-article").css("top",introArtTopDisp);
-    $("#introduction-article").css("left",introArtLeftDisp);
-  });
-
-  // Position introduction article in introduction
-  // featWorkHeight already defined
-  var featWorkWidth = pixToNum($(".featured-work").css("width"));
-  var featArtHeight = pixToNum($(".featured-work-article").css("height")),
-      featArtWidth = pixToNum($(".featured-work-article").css("width"));
-  var featArtTopDisp = numToPix(pixToNum(featWorkHeight)/2 - featArtHeight/1.5),
-      featArtLeftDisp = numToPix(featWorkWidth/2 - featArtWidth/2);
-  $(".featured-work-article").css("top",featArtTopDisp);
-  $(".featured-work-article").css("left",featArtLeftDisp);
-
-  // Change position of Header Logo as window is resized
-  $(window).resize(function () {
-    var featWorkWidth = pixToNum($(".featured-work").css("width"));
-    var featArtHeight = pixToNum($(".featured-work-article").css("height")),
-        featArtWidth = pixToNum($(".featured-work-article").css("width"));
-    var featArtTopDisp = numToPix(pixToNum(featWorkHeight)/2 - featArtHeight/1.5),
-        featArtLeftDisp = numToPix(featWorkWidth/2 - featArtWidth/2);
-    $(".featured-work-article").css("top",featArtTopDisp);
-    $(".featured-work-article").css("left",featArtLeftDisp);
-  });
-
-  // Send Email Button
-  // document.getElementById('email').onclick = function() {
-  //     window.open('mailto:olea.ismael@gmail.com');
-  // };
 });
 
 // Update Later with Template Tag
 // http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element
+
+
+// Animate in Font Awesome Logos
+// $(document).ready(function() {
+//     $("main").fadeIn(2000);
+//     $("ul").animate({marginTop:"0px"}, 2500);
+// });
+
+// Send Email Button
+// document.getElementById('email').onclick = function() {
+//     window.open('mailto:olea.ismael@gmail.com');
+// };
