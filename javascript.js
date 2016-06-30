@@ -20,6 +20,8 @@ $(window).ready(function() {
   var featWorkHeight = Math.round(0.75 * pixToNum($(".header").css("height")));
   $(".featured-work").css( "height", numToPix(featWorkHeight));
 
+  console.log($("#header-logo").css("top"));
+  // debugger
   // Position Header Logo image in Header
   var headerHeight = pixToNum($("#header").css("height")),
       headerWidth = pixToNum($("#header").css("width"));
@@ -29,8 +31,9 @@ $(window).ready(function() {
       hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
   $("#header-logo").css("top",hLTopDisp);
   $("#header-logo").css("left",hLLeftDisp);
-
-
+  console.log($("#header-logo").css("top"));
+  // debugger
+  
   // Position introduction article in introduction
   var introWidth = pixToNum($("#introduction").css("width"));
   var introArtHeight = pixToNum($("#introduction-article").css("height")),
