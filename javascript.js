@@ -1,4 +1,4 @@
-$(window).ready(function() {
+window.onload = function () { 
   // Turns Pixel length into Number
   var pixToNum = window.pixToNum = function(pixStr) {
     var pixStrLen = pixStr.length,
@@ -154,8 +154,7 @@ $(window).ready(function() {
       $(this).text(originalText);
     }
   );
-
-});
+};
 
 // Update Later with Template Tag
 // http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element
