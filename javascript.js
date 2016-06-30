@@ -25,15 +25,18 @@ $(window).ready(function() {
   // Position Header Logo image in Header
   var headerHeight = pixToNum($("#header").css("height")),
       headerWidth = pixToNum($("#header").css("width"));
+  console.log(headerHeight);
   var headerImgHeight = pixToNum($("#header-logo").css("height")),
       headerImgWidth = pixToNum($("#header-logo").css("width"));
+  console.log(headerImgHeight);
   var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
       hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
+  console.log(hLTopDisp);
   $("#header-logo").css("top",hLTopDisp);
   $("#header-logo").css("left",hLLeftDisp);
   console.log($("#header-logo").css("top"));
   // debugger
-  
+
   // Position introduction article in introduction
   var introWidth = pixToNum($("#introduction").css("width"));
   var introArtHeight = pixToNum($("#introduction-article").css("height")),
