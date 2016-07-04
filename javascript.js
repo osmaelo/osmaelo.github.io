@@ -1,4 +1,4 @@
-window.onload = function () { 
+window.onload = function () {
   // Turns Pixel length into Number
   var pixToNum = window.pixToNum = function(pixStr) {
     var pixStrLen = pixStr.length,
@@ -20,22 +20,20 @@ window.onload = function () {
   var featWorkHeight = Math.round(0.75 * pixToNum($(".header").css("height")));
   $(".featured-work").css( "height", numToPix(featWorkHeight));
 
-  console.log($("#header-logo").css("top"));
-  // debugger
   // Position Header Logo image in Header
   var headerHeight = pixToNum($("#header").css("height")),
       headerWidth = pixToNum($("#header").css("width"));
-  console.log(headerHeight);
   var headerImgHeight = pixToNum($("#header-logo").css("height")),
       headerImgWidth = pixToNum($("#header-logo").css("width"));
-  console.log(headerImgHeight);
-  var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
+  var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1),
       hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
-  console.log(hLTopDisp);
   $("#header-logo").css("top",hLTopDisp);
   $("#header-logo").css("left",hLLeftDisp);
-  console.log($("#header-logo").css("top"));
-  // debugger
+  // Prevent header-logo from showing up before
+  $("#header-logo").css("visibility","visible");
+
+  $("#navigation").animate({opacity: 1}, 1500 );
+  $("#header-logo").animate({opacity: 1}, 1500 );
 
   // Position introduction article in introduction
   var introWidth = pixToNum($("#introduction").css("width"));
@@ -74,7 +72,7 @@ window.onload = function () {
         headerWidth = pixToNum($("#header").css("width"));
     var headerImgHeight = pixToNum($("#header-logo").css("height")),
         headerImgWidth = pixToNum($("#header-logo").css("width"));
-    var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1.25),
+    var hLTopDisp = numToPix(headerHeight/2 - headerImgHeight/1),
         hLLeftDisp = numToPix(headerWidth/2 - headerImgWidth/2);
     $("#header-logo").css("top",hLTopDisp);
     $("#header-logo").css("left",hLLeftDisp);

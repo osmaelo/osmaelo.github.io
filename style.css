@@ -24,7 +24,7 @@ html {
   height: 100%;
   width: 285px;
   padding: 60px;
-  /*opacity: .5;*/
+  opacity: 0;
   color: rgb(179, 179, 179);
 }
 
@@ -70,7 +70,7 @@ html {
 }
 
 .navigation-items a:hover {
-    color: #fff;
+  color: #fff;
 }
 
 .navigation-items a:active {
@@ -110,12 +110,14 @@ html {
 .header img {
   /*border: 2px red solid;*/
   position: absolute;
+  visibility: hidden;
   /*left: 20%;
   right: 40%;
   top: 30%;
   bottom: 50%;*/
   max-width: 1000px;
   width: 70%;
+  opacity: 0;
 }
 
 section {
@@ -247,10 +249,7 @@ section {
   margin: 0 auto;
   /*border: 2px purple solid;*/
   max-width: 600px;
-  /*width: 150px;*/
-  /*float: left;*/
-  /*display: inline-block;*/
-  /*position: absolute;*/
+  /*max-height: 250px;*/
 }
 
 .featured-work article h3 {
@@ -276,6 +275,14 @@ section {
   height: 285px;
 }
 
+.footer a {
+  text-decoration: none;
+}
+
+.awesome-icons {
+  letter-spacing: 10px;
+}
+
 .footer-section {
   /*border: 2px maroon solid;*/
   position: absolute;
@@ -291,4 +298,35 @@ section {
 .footer img {
   /*border: 2px maroon solid;*/
   width: 165px;
+}
+
+.credit {
+  font-size: 7px;
+  color: rgba(39, 41, 47, 1);
+}
+
+
+.awesome-icons a:visited {
+  color: rgba(39, 41, 47, 1);
+  border: 2px red solid;
+}
+
+.awesome-icons a:hover {
+
+}
+
+
+.awesome-icons a:active {
+  position: relative;
+  bottom: 1px;
+}
+
+.credit a:visited {
+  color: rgba(39, 41, 47, 1);
+  border: 2px red solid;
+}
+
+.credit a:active {
+  position: relative;
+  bottom: 1px;
 }
