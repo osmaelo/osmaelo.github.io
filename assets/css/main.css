@@ -1634,7 +1634,6 @@
 	a {
 		text-decoration: none;
 		color: inherit;
-		border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
 		-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -1709,7 +1708,7 @@
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: grey;
+			/*background: grey;*/
 		}
 
 			.image.avatar48 img {
@@ -1892,6 +1891,8 @@
 
 /* Button */
 
+
+
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
@@ -1903,7 +1904,8 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		/*background-color: #8ebebc;*/
+		background-color: #212528;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1921,7 +1923,8 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			/*background-color: #9ececc;*/
+			background-color: rgb(136,136,136);
 		}
 
 		input[type="button"]:active,
@@ -1974,6 +1977,25 @@
 
 /* Header */
 
+
+	.header-introduction {
+		/*color: #212528 !important;*/
+		font-size: 125%;
+		color: black !important;
+		background-color: rgba(243, 243, 248, 0.25);
+		border-radius: 0.35em;
+		padding: 1rem;
+	}
+
+	.header-introduction-name {
+		/*color: #212528 !important;*/
+		color: black !important;
+	}
+
+	.mugshot-circle {
+		padding-top: 0.75rem;
+	}
+
 	#header {
 		position: fixed;
 		top: 0;
@@ -2015,7 +2037,8 @@
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					/*color: #fff;*/
+					color: #e27689;
 				}
 
 	#logo {
@@ -2095,6 +2118,7 @@
 		padding: 3em 0 4em 0;
 		box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 		font-size: 0.8em;
+		text-decoration: none;
 	}
 
 		#footer .copyright {
