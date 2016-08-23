@@ -2000,6 +2000,18 @@
 		background-color: rgb(220, 227, 226) !important;
 	}
 
+	.skill-image-ulist li {
+		display: inline;
+	}
+
+	.skill-image {
+		height: 125px;
+	}
+
+	.html5up-note {
+		margin: 0 !important;
+	}
+
 	#header {
 		position: fixed;
 		top: 0;
