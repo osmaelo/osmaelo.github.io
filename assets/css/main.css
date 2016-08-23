@@ -1996,6 +1996,10 @@
 		padding-top: 0.75rem;
 	}
 
+	.preview-site-caption {
+		background-color: rgb(220, 227, 226) !important;
+	}
+
 	#header {
 		position: fixed;
 		top: 0;
