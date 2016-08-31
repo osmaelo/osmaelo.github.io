@@ -1982,70 +1982,19 @@
 		z-index: 5
 	}
 
-	#adelanto-project-1 {
+	.adelanto-project {
 		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
+	  opacity:1;
+	  -webkit-transition: opacity .25s ease;
 	}
 
-	#adelanto-project-1:hover {
-		background-color: #000000;
-		opacity:0.25;
+	.adelanto-project:hover {
+	  background-color: #000000;
+	  opacity:0.25;
 	}
 
-	#adelanto-project-2 {
-		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
-	}
-
-	#adelanto-project-2:hover {
-		background-color: #000000;
-		opacity:0.25;
-	}
-
-	#adelanto-project-3 {
-		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
-	}
-
-	#adelanto-project-3:hover {
-		background-color: #000000;
-		opacity:0.25;
-	}
-
-	#adelanto-project-4 {
-		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
-	}
-
-	#adelanto-project-4:hover {
-		background-color: #000000;
-		opacity:0.25;
-	}
-
-	#adelanto-project-5 {
-		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
-	}
-
-	#adelanto-project-5:hover {
-		background-color: #000000;
-		opacity:0.25;
-	}
-
-	#adelanto-project-6 {
-		background-color: #000000;
-		opacity:1;
-		-webkit-transition: opacity .25s ease;
-	}
-
-	#adelanto-project-6:hover {
-		background-color: #000000;
-		opacity:0.25;
+	.github-project-name {
+		text-decoration: underline!important;
 	}
 
 	.header-introduction {
