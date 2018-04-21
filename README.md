@@ -1,4 +1,4 @@
-# Ismael's Web Homepage
+Ismael's Web Homepage
 
 Some inspirational and interesting ideas worth exploring and current goals:
 
