@@ -2,7 +2,7 @@ Ismael's Web Homepage
 
 Some inspirational and interesting ideas worth exploring and current goals:
 
-* Inspiration for home website's look/aesthetic: [here](http://motherfuckingwebsite.com/), [here](http://bettermotherfuckingwebsite.com/), [here](https://bestmotherfucking.website/), [her](https://thebestmotherfucking.website/), [here](https://evenbettermotherfucking.website/) and [here](https://phrakture.github.io/starting-stretching.html)
+* Inspiration for home website's look/aesthetic: [here](http://motherfuckingwebsite.com/), [here](http://bettermotherfuckingwebsite.com/), [here](https://bestmotherfucking.website/), [here](https://thebestmotherfucking.website/), [here](https://evenbettermotherfucking.website/) and [here](https://phrakture.github.io/starting-stretching.html)
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
 * Lisp/Python [Interpreter](http://norvig.com/lispy.html) found on [here](https://redd.it/7yqcy5)
