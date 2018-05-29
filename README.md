@@ -1,6 +1,6 @@
-# Ismael's Web Homepage
+# Ismael's Github Homepage
 
-## A list of inspirational and interesting ideas worth exploring.
+## A list interesting ideas worth exploring.
 
 ### Business and Finance:
 
