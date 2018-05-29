@@ -1,14 +1,14 @@
-### Ismael's Web Homepage
+# Ismael's Web Homepage
 
 ## A list of inspirational and interesting ideas worth exploring.
 
-# Business and Finance:
+### Business and Finance:
 
 * Accounting [via Reddit](https://www.reddit.com/r/Accounting/wiki/index)
 * Business Analyst [via Wikipedia](https://en.wikipedia.org/wiki/Business_analyst)
 * Books to start/continue/finish: [How to...](http://a.co/2heWQ3q), [BA for D...](http://a.co/9hms2Rz), [Seven Steps...](http://a.co/bYwe6UC), [BA's Mentor...](http://a.co/3zuj6BF), [BA for P...](http://a.co/eDo11Z4), [BABOK](http://a.co/2ytZ4gD), [The BA...](http://a.co/0Ohbw3z), [BA Methodology...](http://a.co/g8T6jgg)
 
-# Programming and Coding:
+### Programming and Coding:
 
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
@@ -24,7 +24,7 @@
 * Books to start/continue/finish: [Code](http://a.co/fNupHBs), [Elements...](http://a.co/2tPAp8A) and [Cracking...](http://a.co/5vvNO7r)
 
 
-# Mathematics and Physics:
+### Mathematics and Physics:
 
 * Books to start/continue/finish: [KK](http://a.co/5fyKlFx), [Strang's LA](http://math.mit.edu/~gs/linearalgebra/) and [Nuts...](http://a.co/hhdp36v)
 * Undergrad Path: [Course 18](http://math.mit.edu/academics/undergrad/major/index.php)
@@ -32,9 +32,11 @@
 * Berkeley Professor's [Past Coursework](http://people.eecs.berkeley.edu/~alexch/coursework.html)
 * Advice [via Reddit](https://redd.it/2kuntb)
 
-# Other:
+### Other:
 
 * Bill Gates recommended books [via Reddit](https://redd.it/8mavhh)
 * How read a compass [via Reddit](https://redd.it/8mdr29)
+
+***
 
 [Markdown Syntax Reference](https://daringfireball.net/projects/markdown/syntax)
