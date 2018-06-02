@@ -2,14 +2,9 @@
 
 ## A list interesting ideas worth exploring.
 
-### Business and Finance:
-
-* Accounting [via Reddit](https://www.reddit.com/r/Accounting/wiki/index)
-* Business Analyst [via Wikipedia](https://en.wikipedia.org/wiki/Business_analyst)
-* Books to start/continue/finish: [How to...](http://a.co/2heWQ3q), [BA for D...](http://a.co/9hms2Rz), [Seven Steps...](http://a.co/bYwe6UC), [BA's Mentor...](http://a.co/3zuj6BF), [BA for P...](http://a.co/eDo11Z4), [BABOK](http://a.co/2ytZ4gD), [The BA...](http://a.co/0Ohbw3z), [BA Methodology...](http://a.co/g8T6jgg)
-
 ### Programming and Coding:
 
+* [a/A Github](https://github.com/appacademy/curriculum)
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
 * Lisp/Python [Interpreter](http://norvig.com/lispy.html) found on [here](https://redd.it/7yqcy5)
@@ -31,6 +26,13 @@
 * 18.100A [via OCW](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/index.htm)
 * Berkeley Professor's [Past Coursework](http://people.eecs.berkeley.edu/~alexch/coursework.html)
 * Advice [via Reddit](https://redd.it/2kuntb)
+
+### Business and Finance:
+
+* Accounting [via Reddit](https://www.reddit.com/r/Accounting/wiki/index)
+* Business Analyst [via Wikipedia](https://en.wikipedia.org/wiki/Business_analyst)
+* Books to explore one day: [How to...](http://a.co/2heWQ3q), [BA for D...](http://a.co/9hms2Rz), [Seven Steps...](http://a.co/bYwe6UC), [BA's Mentor...](http://a.co/3zuj6BF), [BA for P...](http://a.co/eDo11Z4), [BABOK](http://a.co/2ytZ4gD), [The BA...](http://a.co/0Ohbw3z), [BA Methodology...](http://a.co/g8T6jgg)
+
 
 ### Other:
 
