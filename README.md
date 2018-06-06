@@ -38,7 +38,9 @@
 
 * Bill Gates recommended books [via Reddit](https://redd.it/8mavhh)
 * How read a compass [via Reddit](https://redd.it/8mdr29)
-* ...
+* Photography
+* Guitar
+* Fitness
 
 ***
 
