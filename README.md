@@ -16,6 +16,7 @@
 * Portfolio Inspiration [Reddit Portfolio Example](https://redd.it/8dmg13), [Aria](https://www.aria.ai/) and [Netlify](https://www.netlify.com/)
 * Algorithm Review [via Reddit](https://redd.it/8hvyds)
 * Java Review from [Codecademy](https://www.codecademy.com/catalog/language/java), [XY](https://learnxinyminutes.com/docs/java/) and [via Reddit](https://www.reddit.com/r/learnjava/)
+* SQL Review from [Reddit](https://www.reddit.com/r/SQL/wiki/index)
 * Books to start/continue/finish: [Code](http://a.co/fNupHBs), [Elements...](http://a.co/2tPAp8A) and [Cracking...](http://a.co/5vvNO7r)
 
 
