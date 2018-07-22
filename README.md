@@ -17,7 +17,7 @@
 * Algorithm Review [via Reddit](https://redd.it/8hvyds)
 * Java Review from [Codecademy](https://www.codecademy.com/catalog/language/java), [XY](https://learnxinyminutes.com/docs/java/) and [via Reddit](https://www.reddit.com/r/learnjava/)
 * SQL Review from [Reddit](https://www.reddit.com/r/SQL/wiki/index)
-* Linux/macOS project [here](https://blog.nobugware.com/post/2017/back_from_osx_to_linux/) via [Reddi](https://redd.it/8xz5yu)
+* Linux/macOS project [here](https://blog.nobugware.com/post/2017/back_from_osx_to_linux/) via [Reddit](https://redd.it/8xz5yu)
 * Books to start/continue/finish: [Code](http://a.co/fNupHBs), [Elements...](http://a.co/2tPAp8A) and [Cracking...](http://a.co/5vvNO7r)
 
 
