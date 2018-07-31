@@ -4,6 +4,7 @@
 
 ### Programming and Computer Science:
 
+* [Githun's Git Introduction](https://try.github.io/), Start [here](https://lab.github.com/)
 * [a/A Github](https://github.com/appacademy/curriculum)
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
