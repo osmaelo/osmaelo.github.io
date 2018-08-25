@@ -21,6 +21,7 @@
 * Linux/macOS project [here](https://blog.nobugware.com/post/2017/back_from_osx_to_linux/) via [Reddit](https://redd.it/8xz5yu)
 * Books to start/continue/finish: [Code](http://a.co/fNupHBs), [Elements...](http://a.co/2tPAp8A) and [Cracking...](http://a.co/5vvNO7r)
 * Create App by which vocabulary is improved via Vocabulary lists (and Flash Card Use) and API from an online Dictionary Site for English, Spanish, French
+* Another cool example of a homepage designe via [Reddit](https://www.reddit.com/r/web_design/comments/99z49q/portfolio_website_revamp/)
 * [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) via [Reddit](https://www.reddit.com/r/webdev/comments/99mvrh/the_react_tutorial_i_posted_a_few_days_ago_got/e4ov389/)
 
 
