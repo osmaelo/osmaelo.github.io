@@ -24,7 +24,8 @@
 * Another cool example of a homepage designe via [Reddit](https://www.reddit.com/r/web_design/comments/99z49q/portfolio_website_revamp/)
 * [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) via [Reddit](https://www.reddit.com/r/webdev/comments/99mvrh/the_react_tutorial_i_posted_a_few_days_ago_got/e4ov389/)
 * Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode)
-* Password Protected IG Clone (Done w/AWS, Python Backend & React/Vue (?) Front-End)
+* Password Protected IG Clone. Sources: [1](https://www.wikihow.com/Password-Protect-a-Web-Page) (Done w/AWS, Python Backend & React/Vue (?) Front-End), [2](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
+* Create chrome extension. Sources: [1](https://developer.chrome.com/extensions/getstarted), [2](https://developer.chrome.com/apps/api_index), [3](https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153), [3](https://pusher.com/tutorials/instagram-clone-part-1)
 
 
 ### Mathematics and Physics:
@@ -49,6 +50,7 @@
 * Photography
 * Guitar
 * Fitness
+* Music to download: [1](https://flamingosis1.bandcamp.com/album/flight-fantastic), [2](https://flamingosis1.bandcamp.com/album/bright-moments), [3](https://flamingosis1.bandcamp.com/album/a-groovy-thing), [4](https://flamingosis1.bandcamp.com/)
 
 ***
 
