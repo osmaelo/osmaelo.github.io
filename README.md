@@ -1,7 +1,7 @@
 # Ismael's Github Homepage
 
 ## A list interesting ideas worth exploring.
-[Link to Edit](https://github.com/osmaelo/osmaelo.github.io)
+[Link to edit page](https://github.com/osmaelo/osmaelo.github.io)
 
 ### Programming and Computer Science:
 
