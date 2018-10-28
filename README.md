@@ -6,7 +6,7 @@
 ### Programming and Computer Science:
 
 * [Githun's Git Introduction](https://try.github.io/), Start [here](https://lab.github.com/)
-* [a/A Github](https://github.com/appacademy/curriculum)
+* [a/A Github](https://github.com/appacademy/curriculum) and other resources: [Open a/A](https://open.appacademy.io/), [FCB](https://www.freecodecamp.org/), [TOP](https://www.theodinproject.com/)
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
 * Lisp/Python [Interpreter](http://norvig.com/lispy.html) found on [here](https://redd.it/7yqcy5)
@@ -22,7 +22,7 @@
 * Linux/macOS project [here](https://blog.nobugware.com/post/2017/back_from_osx_to_linux/) via [Reddit](https://redd.it/8xz5yu)
 * Books to start/continue/finish: [Code](http://a.co/fNupHBs), [Elements...](http://a.co/2tPAp8A) and [Cracking...](http://a.co/5vvNO7r)
 * Create App by which vocabulary is improved via Vocabulary lists (and Flash Card Use) and API from an online Dictionary Site for English, Spanish, French
-* Another cool example of a homepage designe via [Reddit](https://www.reddit.com/r/web_design/comments/99z49q/portfolio_website_revamp/)
+* Another cool example of a homepage design via [Reddit](https://www.reddit.com/r/web_design/comments/99z49q/portfolio_website_revamp/)
 * [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) via [Reddit](https://www.reddit.com/r/webdev/comments/99mvrh/the_react_tutorial_i_posted_a_few_days_ago_got/e4ov389/)
 * Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode)
 * Password Protected IG Clone. Sources: [1](https://www.wikihow.com/Password-Protect-a-Web-Page) (Done w/AWS, Python Backend & React/Vue (?) Front-End), [2](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
