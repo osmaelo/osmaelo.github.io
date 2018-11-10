@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
 * [Githun's Git Introduction](https://try.github.io/), Start [here](https://lab.github.com/), [here](https://learngitbranching.js.org/) and [here (book)](https://git-scm.com/book/en/v2)
 * [a/A Github](https://github.com/appacademy/curriculum) and other resources: [Open a/A](https://open.appacademy.io/), [FCB](https://www.freecodecamp.org/), [TOP](https://www.theodinproject.com/)
 * How to build [X (Reddit)](https://redd.it/8j0gz3), [X (Github)](https://github.com/osmaelo/build-your-own-x), [Project Based Learning](https://github.com/osmaelo/project-based-learning)
