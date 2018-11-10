@@ -28,6 +28,7 @@
 * Password Protected IG Clone. Sources: [1](https://www.wikihow.com/Password-Protect-a-Web-Page) (Done w/AWS, Python Backend & React/Vue (?) Front-End), [2](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 * Create chrome extension. Sources: [1](https://developer.chrome.com/extensions/getstarted), [2](https://developer.chrome.com/apps/api_index), [3](https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153), [3](https://pusher.com/tutorials/instagram-clone-part-1)
 * [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree), [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
+* [When you request a page from an HTTPS site...](https://www.reddit.com/r/webdev/comments/9ucmsl/why_has_google_moved_from_mapsgooglecom_to/e93gwib/), [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 
 
 ### Mathematics and Physics:
