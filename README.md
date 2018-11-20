@@ -32,6 +32,7 @@
 * [When you request a page from an HTTPS site...](https://www.reddit.com/r/webdev/comments/9ucmsl/why_has_google_moved_from_mapsgooglecom_to/e93gwib/), [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [HTML Kong](https://www.xn--8ws00zhy3a.com/blog/2016/07/html-kong)
 * CSS help: [Learn CSS Grid and Flexbox](https://www.reddit.com/r/webdev/comments/9w7gas/learn_css_grid_and_flexbox_fundamentals_before/), [Flexbox Froggy](https://flexboxfroggy.com/), [Grid Garden](http://cssgridgarden.com/)
+* Great Resource for programming books: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/9x28gm/free_programming_books/), [Source](https://goalkicker.com/)
 
 ### Mathematics and Physics:
 
