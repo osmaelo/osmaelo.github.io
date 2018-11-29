@@ -49,6 +49,7 @@
 * Accounting [via Reddit](https://www.reddit.com/r/Accounting/wiki/index)
 * Business Analyst [via Wikipedia](https://en.wikipedia.org/wiki/Business_analyst)
 * Books to explore one day: [How to...](http://a.co/2heWQ3q), [BA for D...](http://a.co/9hms2Rz), [Seven Steps...](http://a.co/bYwe6UC), [BA's Mentor...](http://a.co/3zuj6BF), [BA for P...](http://a.co/eDo11Z4), [BABOK](http://a.co/2ytZ4gD), [The BA...](http://a.co/0Ohbw3z), [BA Methodology...](http://a.co/g8T6jgg)
+* [Youtube Finance Playlists](https://www.youtube.com/channel/UCDxPUQuaRpfphV1q9-wKvyQ/playlists?disable_polymer=1)
 
 
 ### Other:
