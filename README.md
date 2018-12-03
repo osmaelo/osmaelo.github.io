@@ -35,6 +35,7 @@
 * Great Resource for programming books: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/9x28gm/free_programming_books/), [Source](https://goalkicker.com/)
 * The path to learn [some CS](https://techdevguide.withgoogle.com/)
 * AWS Machine Learning Training: [Reddit Source](https://www.reddit.com/r/learnprogramming/comments/a0qafu/amazon_has_opened_their_internal_machine_learning/), [Amazon Link](https://aws.amazon.com/training/learning-paths/machine-learning/)
+* Required JS Knowledge: https://github.com/leonardomso/33-js-concepts
 
 ### Mathematics and Physics:
 
