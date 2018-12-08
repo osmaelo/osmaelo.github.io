@@ -13,6 +13,7 @@
 * Haseeb's [N-Queen Visualizer](https://github.com/osmaelo/n-queens-visualizer)
 * Lisp/Python [Interpreter](http://norvig.com/lispy.html) found on [here](https://redd.it/7yqcy5)
 * Open source ideas [here](https://summerofcode.withgoogle.com/) and [here](https://github.com/open-source) from [here](https://redd.it/8agu0w)
+* Understanding CSS: [here](https://www.reddit.com/r/webdev/comments/a40d2o/how_to_understand_css_position_absolute_once_and/ebaytay/), [here](https://www.reddit.com/r/css/comments/9zpdnu/how_to_understand_css_position_absolute_once_and/) and [here](http://learnlayout.com/)
 * [Programming Challenges](https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/programmingchallenges.png)
 * Inspiration for home website's look/aesthetic: [MF1](http://motherfuckingwebsite.com/), [MF2](http://bettermotherfuckingwebsite.com/), [MF3](https://bestmotherfucking.website/), [MF4](https://thebestmotherfucking.website/), [MF5](https://evenbettermotherfucking.website/) and [SS](https://phrakture.github.io/starting-stretching.html)
 * [HTTPS for GitHub Pages](https://blog.github.com/2016-06-08-https-for-github-pages/) and [Encryption](https://letsencrypt.org/)
