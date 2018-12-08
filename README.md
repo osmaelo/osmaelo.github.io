@@ -41,6 +41,7 @@
 
 ### Mathematics and Physics:
 
+* [List of Mathematical Symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 * Books to start/continue/finish: [KK](http://a.co/5fyKlFx), [Strang's LA](http://math.mit.edu/~gs/linearalgebra/) and [Nuts...](http://a.co/hhdp36v)
 * Undergrad Path: [Course 18](http://math.mit.edu/academics/undergrad/major/index.php)
 * 18.100A [via OCW](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/index.htm)
