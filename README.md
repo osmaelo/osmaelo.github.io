@@ -5,7 +5,7 @@
 
 ### Programming and Computer Science:
 
-* [Web Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+* [Web Developer Roadmap - 2019](https://github.com/kamranahmedse/developer-roadmap)
 * Web Development in 2019 [here](https://www.youtube.com/watch?v=UnTQVlqmDQ0) and [here](https://www.reddit.com/r/webdev/comments/a841jj/web_development_in_2019_a_practical_guide/)
 * iOS Development [here](https://www.reddit.com/r/cscareerquestions/comments/a98zyb/ios_devs_whats_your_day_to_day_like/) and [here](https://www.youtube.com/watch?v=71pyOB4TPRE)
 * [Githun's Git Introduction](https://try.github.io/), Start [here](https://lab.github.com/), [here](https://learngitbranching.js.org/) and [here (book)](https://git-scm.com/book/en/v2)
