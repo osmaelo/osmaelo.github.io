@@ -7,6 +7,7 @@
 
 * [Web Developer Roadmap - 2019](https://github.com/kamranahmedse/developer-roadmap)
 * Web Development in 2019 [here](https://www.youtube.com/watch?v=UnTQVlqmDQ0) and [here](https://www.reddit.com/r/webdev/comments/a841jj/web_development_in_2019_a_practical_guide/)
+* Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and [Leetcode](https://leetcode.com/) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode)
 * iOS Development [here](https://www.reddit.com/r/cscareerquestions/comments/a98zyb/ios_devs_whats_your_day_to_day_like/) and [here](https://www.youtube.com/watch?v=71pyOB4TPRE)
 * [Githun's Git Introduction](https://try.github.io/), Start [here](https://lab.github.com/), [here](https://learngitbranching.js.org/) and [here (book)](https://git-scm.com/book/en/v2), [gitexplorer](https://gitexplorer.com/)
 * [a/A Github](https://github.com/appacademy/curriculum) and other resources: [Open a/A](https://open.appacademy.io/), [FCB](https://www.freecodecamp.org/), [TOP](https://www.theodinproject.com/)
@@ -29,7 +30,6 @@
 * Create App by which vocabulary is improved via Vocabulary lists (and Flash Card Use) and API from an online Dictionary Site for English, Spanish, French
 * Another cool example of a homepage design via [Reddit](https://www.reddit.com/r/web_design/comments/99z49q/portfolio_website_revamp/)
 * [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) via [Reddit](https://www.reddit.com/r/webdev/comments/99mvrh/the_react_tutorial_i_posted_a_few_days_ago_got/e4ov389/)
-* Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and [Leetcode](https://leetcode.com/) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode)
 * Password Protected IG Clone. Sources: [1](https://www.wikihow.com/Password-Protect-a-Web-Page) (Done w/AWS, Python Backend & React/Vue (?) Front-End), [2](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 * Create chrome extension. Sources: [1](https://developer.chrome.com/extensions/getstarted), [2](https://developer.chrome.com/apps/api_index), [3](https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153), [3](https://pusher.com/tutorials/instagram-clone-part-1)
 * [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree), [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
