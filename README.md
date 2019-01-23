@@ -40,6 +40,7 @@
 * The path to learn [some CS](https://techdevguide.withgoogle.com/)
 * AWS Machine Learning Training: [Reddit Source](https://www.reddit.com/r/learnprogramming/comments/a0qafu/amazon_has_opened_their_internal_machine_learning/), [Amazon Link](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * Required JS Knowledge: https://github.com/leonardomso/33-js-concepts
+* Interesting framework to use: https://www.tensorflow.org/
 
 ### Mathematics and Physics:
 
