@@ -42,6 +42,7 @@
 * Required JS Knowledge: https://github.com/leonardomso/33-js-concepts
 * Interesting framework to use: https://www.tensorflow.org/
 * [RES project](https://www.reddit.com/r/RESAnnouncements/comments/agq2qj/announcement_resredesign_progress_chrome_edge/)
+* Front-End Checklist: [Reddit](https://www.reddit.com/r/web_design/comments/alaak4/the_frontend_checklist_your_best_frontend_tool/), [Site](https://frontendchecklist.io/)
 
 ### Mathematics and Physics:
 
@@ -51,6 +52,7 @@
 * 18.100A [via OCW](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/index.htm)
 * Berkeley Professor's [Past Coursework](http://people.eecs.berkeley.edu/~alexch/coursework.html)
 * Advice [via Reddit](https://redd.it/2kuntb)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### Business and Finance:
 
