@@ -41,6 +41,7 @@
 * AWS Machine Learning Training: [Reddit Source](https://www.reddit.com/r/learnprogramming/comments/a0qafu/amazon_has_opened_their_internal_machine_learning/), [Amazon Link](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * Required JS Knowledge: https://github.com/leonardomso/33-js-concepts
 * Interesting framework to use: https://www.tensorflow.org/
+* [RES project](https://www.reddit.com/r/RESAnnouncements/comments/agq2qj/announcement_resredesign_progress_chrome_edge/)
 
 ### Mathematics and Physics:
 
