@@ -43,6 +43,7 @@
 * Interesting framework to use: https://www.tensorflow.org/
 * [RES project](https://www.reddit.com/r/RESAnnouncements/comments/agq2qj/announcement_resredesign_progress_chrome_edge/)
 * Front-End Checklist: [Reddit](https://www.reddit.com/r/web_design/comments/alaak4/the_frontend_checklist_your_best_frontend_tool/), [Site](https://frontendchecklist.io/)
+* Goalkicker Resource: https://goalkicker.com/
 
 ### Mathematics and Physics:
 
