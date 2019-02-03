@@ -44,6 +44,7 @@
 * [RES project](https://www.reddit.com/r/RESAnnouncements/comments/agq2qj/announcement_resredesign_progress_chrome_edge/)
 * Front-End Checklist: [Reddit](https://www.reddit.com/r/web_design/comments/alaak4/the_frontend_checklist_your_best_frontend_tool/), [Site](https://frontendchecklist.io/)
 * Goalkicker Resource: https://goalkicker.com/
+* Intro to Databases: [Reddit](https://www.reddit.com/r/PostgreSQL/comments/ampavf/what_is_the_best_book_to_learn_postgresql/), [Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 ### Mathematics and Physics:
 
