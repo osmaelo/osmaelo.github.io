@@ -6,6 +6,7 @@
 ### Programming and Computer Science:
 
 * [Web Developer Roadmap - 2019](https://github.com/kamranahmedse/developer-roadmap), also start [here](https://www.reddit.com/r/learnprogramming/comments/afsssy/i_feel_like_im_starting_a_race_in_last_place/ee1dcus/)
+* Another roadmap: [Site](https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/) and [Reddit Source](https://www.reddit.com/r/webdev/comments/apcedl/everything_i_know_as_a_software_developer_without/)
 * Web Development in 2019 [here](https://www.youtube.com/watch?v=UnTQVlqmDQ0) and [here](https://www.reddit.com/r/webdev/comments/a841jj/web_development_in_2019_a_practical_guide/)
 * Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and [Leetcode](https://leetcode.com/) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode)
 * iOS Development [here](https://www.reddit.com/r/cscareerquestions/comments/a98zyb/ios_devs_whats_your_day_to_day_like/) and [here](https://www.youtube.com/watch?v=71pyOB4TPRE)
