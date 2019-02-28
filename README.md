@@ -57,6 +57,7 @@
 * Berkeley Professor's [Past Coursework](http://people.eecs.berkeley.edu/~alexch/coursework.html)
 * Advice [via Reddit](https://redd.it/2kuntb)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* Interactive 18.06 Book: http://immersivemath.com/ila/index.html
 
 ### Business and Finance:
 
