@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Front End Guide 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Web Developer Roadmap - 2019](https://github.com/kamranahmedse/developer-roadmap), also start [here](https://www.reddit.com/r/learnprogramming/comments/afsssy/i_feel_like_im_starting_a_race_in_last_place/ee1dcus/)
 * Another roadmap: [Site](https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/) and [Reddit Source](https://www.reddit.com/r/webdev/comments/apcedl/everything_i_know_as_a_software_developer_without/)
 * Web Development in 2019 [here](https://www.youtube.com/watch?v=UnTQVlqmDQ0) and [here](https://www.reddit.com/r/webdev/comments/a841jj/web_development_in_2019_a_practical_guide/)
