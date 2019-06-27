@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Cool eg](https://math.berkeley.edu/~kmill/toys/heat/heat.html)
 * [Google Deep Dream](https://en.wikipedia.org/wiki/DeepDream)
 * Goal: https://ai.google/research/join-us/
 * [Gyul Hap! Game](https://www.setgame.com/set/puzzle)
