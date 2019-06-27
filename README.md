@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Google Deep Dream](https://en.wikipedia.org/wiki/DeepDream)
 * Goal: https://ai.google/research/join-us/
 * [Gyul Hap! Game](https://www.setgame.com/set/puzzle)
 * Comptetive Programmer's Handbook: [Here](https://cses.fi/book/index.html) and [here](https://www.reddit.com/r/learnprogramming/comments/5wnz2t/competitive_programmers_handbook/)
