@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Gyul Hap! Game](https://www.setgame.com/set/puzzle)
 * Comptetive Programmer's Handbook: [Here](https://cses.fi/book/index.html) and [here](https://www.reddit.com/r/learnprogramming/comments/5wnz2t/competitive_programmers_handbook/)
 * [Udemy's The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/)
 * [Udemy's Automate the Boring Stuff with Python Programming](https://www.udemy.com/automate/)
