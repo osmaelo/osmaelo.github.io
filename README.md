@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* [Udemy Course on ds](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 * [Cool eg](https://math.berkeley.edu/~kmill/toys/heat/heat.html) and [Google CTF](https://capturetheflag.withgoogle.com/)
 * [Google Deep Dream](https://en.wikipedia.org/wiki/DeepDream)
 * Goal: https://ai.google/research/join-us/
