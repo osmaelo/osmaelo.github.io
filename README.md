@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* Introduction to Docker: https://docker-curriculum.com/
 * Git tutorial: https://www.reddit.com/r/learnprogramming/comments/c6pwlj/a_quick_intro_to_git_for_absolute_beginners/ and https://webtuu.com/blog/04/a-laymans-introduction-to-git
 * Personal Website Sources: https://www.reddit.com/r/webdev/comments/c799fv/can_i_build_my_own_websites_and_hire_server_space/
 * [Udemy Course on ds](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
