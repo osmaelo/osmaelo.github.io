@@ -5,6 +5,7 @@
 
 ### Programming and Computer Science:
 
+* Git tutorial: https://www.reddit.com/r/learnprogramming/comments/c6pwlj/a_quick_intro_to_git_for_absolute_beginners/
 * Personal Website Sources: https://www.reddit.com/r/webdev/comments/c799fv/can_i_build_my_own_websites_and_hire_server_space/
 * [Udemy Course on ds](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 * [Cool eg](https://math.berkeley.edu/~kmill/toys/heat/heat.html) and [Google CTF](https://capturetheflag.withgoogle.com/)
