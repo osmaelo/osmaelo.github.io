@@ -6,6 +6,7 @@
 ### Programming and Computer Science:
 
 CHECK ALL YOUR FORKED REPOSITORIES
+* [r/datascience's Top Github Data Science Project Ideas](https://www.reddit.com/r/datascience/comments/c66buk/top_github_data_science_project/)
 * Helsinki AI Course: [Reddit](https://www.reddit.com/r/learnprogramming/comments/c7lkf7/university_of_helsinki_are_offering_free_course/) and [Source](https://www.elementsofai.com/)
 * [How to pick a random number](https://news.ycombinator.com/item?id=20314690) + [Source](https://torvaney.github.io/projects/human-rng)
 * [Introduction to Docker](https://docker-curriculum.com/)
