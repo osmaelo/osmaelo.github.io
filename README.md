@@ -5,10 +5,11 @@
 
 ### Programming and Computer Science:
 
+CHECK ALL YOUR FORKED REPOSITORIES
 * Helsinki AI Course: [Reddit](https://www.reddit.com/r/learnprogramming/comments/c7lkf7/university_of_helsinki_are_offering_free_course/) and [Source](https://www.elementsofai.com/)
 * [How to pick a random number](https://news.ycombinator.com/item?id=20314690) + [Source](https://torvaney.github.io/projects/human-rng)
 * [Introduction to Docker](https://docker-curriculum.com/)
-* Git tutorial: https://www.reddit.com/r/learnprogramming/comments/c6pwlj/a_quick_intro_to_git_for_absolute_beginners/ + [Source](https://webtuu.com/blog/04/a-laymans-introduction-to-git)
+* [Git tutorial](https://www.reddit.com/r/learnprogramming/comments/c6pwlj/a_quick_intro_to_git_for_absolute_beginners/) + [Source](https://webtuu.com/blog/04/a-laymans-introduction-to-git)
 * [Personal Website Sources](https://www.reddit.com/r/webdev/comments/c799fv/can_i_build_my_own_websites_and_hire_server_space/)
 * [Udemy Course on ds](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 * [Cool eg](https://math.berkeley.edu/~kmill/toys/heat/heat.html) and [Google CTF](https://capturetheflag.withgoogle.com/)
@@ -55,11 +56,11 @@
 * Great Resource for programming books: [r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/9x28gm/free_programming_books/), [Source](https://goalkicker.com/)
 * The path to learn [some CS](https://techdevguide.withgoogle.com/)
 * AWS Machine Learning Training: [Reddit Source](https://www.reddit.com/r/learnprogramming/comments/a0qafu/amazon_has_opened_their_internal_machine_learning/), [Amazon Link](https://aws.amazon.com/training/learning-paths/machine-learning/)
-* Required JS Knowledge: https://github.com/leonardomso/33-js-concepts
-* Interesting framework to use: https://www.tensorflow.org/
+* [Required JS Knowledge](https://github.com/leonardomso/33-js-concepts)
+* [Tensor Flow](https://www.tensorflow.org/)
 * [RES project](https://www.reddit.com/r/RESAnnouncements/comments/agq2qj/announcement_resredesign_progress_chrome_edge/)
 * Front-End Checklist: [Reddit](https://www.reddit.com/r/web_design/comments/alaak4/the_frontend_checklist_your_best_frontend_tool/), [Site](https://frontendchecklist.io/)
-* Goalkicker Resource: https://goalkicker.com/
+* [Goalkicker Resource](https://goalkicker.com/)
 * Intro to Databases: [Reddit](https://www.reddit.com/r/PostgreSQL/comments/ampavf/what_is_the_best_book_to_learn_postgresql/), [Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 ### Mathematics and Physics:
