@@ -88,7 +88,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 
 * Bill Gates recommended books [via Reddit](https://redd.it/8mavhh)
 * How read a compass [via Reddit](https://redd.it/8mdr29)
-* Photography
+* Photography: Interesting [AMA](https://www.reddit.com/r/photography/comments/cbjdw1/im_evan_rich_a_wedding_photographer_operating_a/)
 * Guitar
 * Fitness
 * Music to download: [1](https://flamingosis1.bandcamp.com/album/flight-fantastic), [2](https://flamingosis1.bandcamp.com/album/bright-moments), [3](https://flamingosis1.bandcamp.com/album/a-groovy-thing), [4](https://flamingosis1.bandcamp.com/)
