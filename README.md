@@ -64,6 +64,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Front-End Checklist: [Reddit](https://www.reddit.com/r/web_design/comments/alaak4/the_frontend_checklist_your_best_frontend_tool/), [Site](https://frontendchecklist.io/)
 * [Goalkicker Resource](https://goalkicker.com/)
 * Intro to Databases: [Reddit](https://www.reddit.com/r/PostgreSQL/comments/ampavf/what_is_the_best_book_to_learn_postgresql/), [Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+Interesting Read: [Cities: Skylines Is Turing Complete](https://medium.com/@balidani/cities-skylines-is-turing-complete-e5ccf75d1c3a) [YC Hacker New](https://news.ycombinator.com/item?id=20444323)
 
 ### Mathematics and Physics:
 
