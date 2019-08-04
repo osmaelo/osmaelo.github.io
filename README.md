@@ -6,6 +6,7 @@
 ### Programming and Computer Science:
 
 CHECK ALL YOUR FORKED REPOSITORIES
+* [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
 * [r/datascience's Top Github Data Science Project Ideas](https://www.reddit.com/r/datascience/comments/c66buk/top_github_data_science_project/)
 * Helsinki AI Course: [Reddit](https://www.reddit.com/r/learnprogramming/comments/c7lkf7/university_of_helsinki_are_offering_free_course/) and [Source](https://www.elementsofai.com/)
