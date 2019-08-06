@@ -79,6 +79,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Advice [via Reddit](https://redd.it/2kuntb)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Interactive 18.06 Book: http://immersivemath.com/ila/index.html
+* [Code for America](https://www.codeforamerica.org/programs/fellowship)
 
 ### Business and Finance:
 
