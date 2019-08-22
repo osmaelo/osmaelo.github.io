@@ -68,6 +68,10 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Intro to Databases: [Reddit](https://www.reddit.com/r/PostgreSQL/comments/ampavf/what_is_the_best_book_to_learn_postgresql/), [Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * Interesting Read: [Cities: Skylines Is Turing Complete](https://medium.com/@balidani/cities-skylines-is-turing-complete-e5ccf75d1c3a) [YC Hacker New](https://news.ycombinator.com/item?id=20444323)
 * [Scalability](https://github.com/binhnguyennus/awesome-scalability)
+* Explore and Play with [Reddit's API](https://www.reddit.com/dev/api/)
+* Try to earn a [whitehat trophy from Reddit](https://www.reddit.com/wiki/whitehat)
+* Try to participate in [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam)
+* [Google Code Jam Previous Problems](https://code.google.com/codejam/past-contests)
 
 ### Mathematics and Physics:
 
@@ -82,9 +86,6 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Interactive 18.06 Book: http://immersivemath.com/ila/index.html
 * [Code for America](https://www.codeforamerica.org/programs/fellowship)
 * Whatch out for RSI: [YComb News Link](https://news.ycombinator.com/item?id=20662232) & [Wikipedia](https://en.wikipedia.org/wiki/Repetitive_strain_injury). Remember to stretch and take breaks!
-* Explore and Play with [Reddit's API](https://www.reddit.com/dev/api/)
-* Try to earn a [whitehat trophy from Reddit](https://www.reddit.com/wiki/whitehat)
-* Try to participate in [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam)
 
 ### Business and Finance:
 
