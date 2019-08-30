@@ -6,6 +6,7 @@
 ### Programming and Computer Science:
 
 CHECK ALL YOUR FORKED REPOSITORIES
+* Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
 * [r/datascience's Top Github Data Science Project Ideas](https://www.reddit.com/r/datascience/comments/c66buk/top_github_data_science_project/)
