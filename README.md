@@ -109,5 +109,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Music to download: [1](https://flamingosis1.bandcamp.com/album/flight-fantastic), [2](https://flamingosis1.bandcamp.com/album/bright-moments), [3](https://flamingosis1.bandcamp.com/album/a-groovy-thing), [4](https://flamingosis1.bandcamp.com/)
 
 ***
+Make sure to document links from keep.google.com
+***
 
 [Markdown Syntax Reference](https://daringfireball.net/projects/markdown/syntax)
