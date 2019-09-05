@@ -76,6 +76,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [A Crash Course in Interpreted vs Compiled Languages](https://medium.com/@DHGorman/a-crash-course-in-interpreted-vs-compiled-languages-5531978930b6)
 * [Github Pack](https://education.github.com/pack)
 * [Top Ten Coursera Courses](https://medium.com/@onlinecoursesgalore/all-time-top-10-courses-on-coursera-2-45-million-enrollments-in-top-course-790580c5db38)
+* [Reddit, Google Engineer shares experiences](https://medium.com/@alexgolec)
 
 ### Mathematics and Physics:
 
