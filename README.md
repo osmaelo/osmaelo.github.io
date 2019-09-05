@@ -73,6 +73,8 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Try to earn a [whitehat trophy from Reddit](https://www.reddit.com/wiki/whitehat)
 * Try to participate in [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam)
 * [Google Code Jam Previous Problems](https://code.google.com/codejam/past-contests)
+* [A Crash Course in Interpreted vs Compiled Languages](https://medium.com/@DHGorman/a-crash-course-in-interpreted-vs-compiled-languages-5531978930b6)
+* 
 
 ### Mathematics and Physics:
 
