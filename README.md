@@ -75,6 +75,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Google Code Jam Previous Problems](https://code.google.com/codejam/past-contests)
 * [A Crash Course in Interpreted vs Compiled Languages](https://medium.com/@DHGorman/a-crash-course-in-interpreted-vs-compiled-languages-5531978930b6)
 * [Github Pack](https://education.github.com/pack)
+* [Top Ten Coursera Courses](https://medium.com/@onlinecoursesgalore/all-time-top-10-courses-on-coursera-2-45-million-enrollments-in-top-course-790580c5db38)
 
 ### Mathematics and Physics:
 
@@ -89,6 +90,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Interactive 18.06 Book: http://immersivemath.com/ila/index.html
 * [Code for America](https://www.codeforamerica.org/programs/fellowship)
 * Whatch out for RSI: [YComb News Link](https://news.ycombinator.com/item?id=20662232) & [Wikipedia](https://en.wikipedia.org/wiki/Repetitive_strain_injury). Remember to stretch and take breaks!
+* [Quantum Computing's Internals Demystified](https://medium.com/dataseries/quantum-computings-internals-demystified-53326d6c3098)
 
 ### Business and Finance:
 
