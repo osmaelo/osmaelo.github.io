@@ -89,6 +89,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Interactive 18.06 Book: http://immersivemath.com/ila/index.html
 * [Code for America](https://www.codeforamerica.org/programs/fellowship)
 * Whatch out for RSI: [YComb News Link](https://news.ycombinator.com/item?id=20662232) & [Wikipedia](https://en.wikipedia.org/wiki/Repetitive_strain_injury). Remember to stretch and take breaks!
+* [Github Pack](https://education.github.com/pack)
 
 ### Business and Finance:
 
