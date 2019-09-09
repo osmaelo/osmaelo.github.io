@@ -93,6 +93,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Whatch out for RSI: [YComb News Link](https://news.ycombinator.com/item?id=20662232) & [Wikipedia](https://en.wikipedia.org/wiki/Repetitive_strain_injury). Remember to stretch and take breaks!
 * [Quantum Computing's Internals Demystified](https://medium.com/dataseries/quantum-computings-internals-demystified-53326d6c3098)
 * [Leetcode Study Guide](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+* [Math Napkin](http://web.evanchen.cc/napkin.html)
 
 ### Business and Finance:
 
