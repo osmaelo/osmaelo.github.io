@@ -120,3 +120,8 @@ Make sure to document links from keep.google.com and to sort and organize Bookma
 ***
 
 [Markdown Syntax Reference](https://daringfireball.net/projects/markdown/syntax)
+
+***
+
+Sort:
+* https://news.ycombinator.com/item?id=20916749
