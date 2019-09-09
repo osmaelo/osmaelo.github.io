@@ -94,6 +94,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Quantum Computing's Internals Demystified](https://medium.com/dataseries/quantum-computings-internals-demystified-53326d6c3098)
 * [Leetcode Study Guide](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 * [Math Napkin](http://web.evanchen.cc/napkin.html)
+* [The Riemann Hypothesis](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html) + [via hn](https://news.ycombinator.com/item?id=20912380)
 
 ### Business and Finance:
 
