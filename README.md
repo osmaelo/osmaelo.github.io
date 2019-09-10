@@ -126,3 +126,4 @@ Make sure to document links from keep.google.com and to sort and organize Bookma
 Sort:
 * https://news.ycombinator.com/item?id=20916749
 * https://news.ycombinator.com/item?id=20914585
+* https://news.ycombinator.com/item?id=20934347 + http://www.jezzamon.com/fourier/
