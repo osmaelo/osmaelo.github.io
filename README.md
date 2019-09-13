@@ -129,3 +129,4 @@ Sort:
 * https://news.ycombinator.com/item?id=20916749
 * https://news.ycombinator.com/item?id=20914585
 * https://news.ycombinator.com/item?id=20934347 + http://www.jezzamon.com/fourier/
+* https://news.ycombinator.com/item?id=20960832
