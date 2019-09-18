@@ -99,6 +99,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Quantum Computing](https://www.reddit.com/r/Physics/comments/d24vl7/thank_you_rphysics_for_the_support/) + [Textbook](https://community.qiskit.org/textbook/)
 * [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
 * [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
+* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and image _________
 
 ### Business and Finance:
 
