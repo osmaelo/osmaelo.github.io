@@ -97,6 +97,8 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Math Napkin](http://web.evanchen.cc/napkin.html)
 * [The Riemann Hypothesis](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html) + [via hn](https://news.ycombinator.com/item?id=20912380)
 * [Quantum Computing](https://www.reddit.com/r/Physics/comments/d24vl7/thank_you_rphysics_for_the_support/) + [Textbook](https://community.qiskit.org/textbook/)
+* [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
+* [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
 
 ### Business and Finance:
 
