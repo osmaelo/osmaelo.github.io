@@ -78,6 +78,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Top Ten Coursera Courses](https://medium.com/@onlinecoursesgalore/all-time-top-10-courses-on-coursera-2-45-million-enrollments-in-top-course-790580c5db38)
 * [Reddit, Google Engineer shares experiences](https://medium.com/@alexgolec)
 * [Site Reliability Engineer book by Google](https://landing.google.com/sre/sre-book/toc/) + [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/d1iq5w/can_someone_please_explain_understanding_of_the/)
+* Google Machine Learning Comic [Part 1](https://cloud.google.com/products/ai/ml-comic-1/) & [Reddit Source](https://www.reddit.com/r/learnmachinelearning/comments/d4ncpd/learning_machine_learning_an_online_comic_from/)
 
 ### Mathematics and Physics:
 
