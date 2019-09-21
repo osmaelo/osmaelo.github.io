@@ -81,6 +81,9 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * Google Machine Learning Comic [Part 1](https://cloud.google.com/products/ai/ml-comic-1/) & [Reddit Source](https://www.reddit.com/r/learnmachinelearning/comments/d4ncpd/learning_machine_learning_an_online_comic_from/)
 * [Project Euler Projects](https://projecteuler.net) and [Reddit Source](https://www.reddit.com/r/math/comments/d6kdul/project_euler_is_a_website_with_a_series_of/)
 * [Introduction to DevOps](https://travis-ci.org/account/repositories) and [Reddit Source](https://www.reddit.com/r/webdev/comments/d3rjec/does_anyone_know_of_good_resources_to_understand/)
+* ["Self Coding" Website](https://www.strml.net) and [Reddit Source](https://www.reddit.com/r/programming/comments/d72nlb/a_website_coding_itself_live/)
+* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and image _________
+
 
 ### Mathematics and Physics:
 
@@ -102,7 +105,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Quantum Computing](https://www.reddit.com/r/Physics/comments/d24vl7/thank_you_rphysics_for_the_support/) + [Textbook](https://community.qiskit.org/textbook/)
 * [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
 * [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
-* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and image _________
+
 
 ### Business and Finance:
 
