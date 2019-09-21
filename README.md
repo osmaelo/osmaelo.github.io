@@ -79,6 +79,8 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Reddit, Google Engineer shares experiences](https://medium.com/@alexgolec)
 * [Site Reliability Engineer book by Google](https://landing.google.com/sre/sre-book/toc/) + [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/d1iq5w/can_someone_please_explain_understanding_of_the/)
 * Google Machine Learning Comic [Part 1](https://cloud.google.com/products/ai/ml-comic-1/) & [Reddit Source](https://www.reddit.com/r/learnmachinelearning/comments/d4ncpd/learning_machine_learning_an_online_comic_from/)
+* [Project Euler Projects](https://projecteuler.net) and [Reddit Source](https://www.reddit.com/r/math/comments/d6kdul/project_euler_is_a_website_with_a_series_of/)
+* [Introduction to DevOps](https://travis-ci.org/account/repositories) and [Reddit Source](https://www.reddit.com/r/webdev/comments/d3rjec/does_anyone_know_of_good_resources_to_understand/)
 
 ### Mathematics and Physics:
 
