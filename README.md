@@ -82,7 +82,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Project Euler Projects](https://projecteuler.net) and [Reddit Source](https://www.reddit.com/r/math/comments/d6kdul/project_euler_is_a_website_with_a_series_of/)
 * [Introduction to DevOps](https://travis-ci.org/account/repositories) and [Reddit Source](https://www.reddit.com/r/webdev/comments/d3rjec/does_anyone_know_of_good_resources_to_understand/)
 * ["Self Coding" Website](https://www.strml.net) and [Reddit Source](https://www.reddit.com/r/programming/comments/d72nlb/a_website_coding_itself_live/)
-* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and image _________
+* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and [image](https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/excel.jpg)
 
 
 ### Mathematics and Physics:
