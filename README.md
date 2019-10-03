@@ -219,3 +219,5 @@ permalinkembedsavereportreply
 https://news.ycombinator.com/item?id=21115324
 
 https://news.ycombinator.com/item?id=21139508
+
+https://myactivity.google.com/myactivity
