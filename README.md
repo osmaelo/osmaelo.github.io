@@ -83,7 +83,7 @@ CHECK ALL YOUR FORKED REPOSITORIES
 * [Introduction to DevOps](https://travis-ci.org/account/repositories) and [Reddit Source](https://www.reddit.com/r/webdev/comments/d3rjec/does_anyone_know_of_good_resources_to_understand/)
 * ["Self Coding" Website](https://www.strml.net) and [Reddit Source](https://www.reddit.com/r/programming/comments/d72nlb/a_website_coding_itself_live/)
 * [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and [image](https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/excel.jpg)
-
+* AI in Africa: [Link](https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d) & [Source](https://news.ycombinator.com/item?id=21123142)
 
 ### Mathematics and Physics:
 
@@ -140,3 +140,82 @@ Sort:
 * https://news.ycombinator.com/item?id=20934347 + http://www.jezzamon.com/fourier/
 * https://news.ycombinator.com/item?id=20960832
 * https://news.ycombinator.com/item?id=20928570
+
+Work/Stanford:
+
+https://www.reddit.com/r/learnprogramming/comments/cmw9gt/odin_project_vs_freecodecamp_vs_full_stack_open/
+
+https://learn.freecodecamp.org
+https://fullstackopen.com/en/
+https://www.theodinproject.com/dashboard
+
+https://www.coursera.org/learn/machine-learning/home/welcome
+https://www.coursera.org/learn/machine-learning-with-python/home/welcome
+
+https://www.hackerrank.com/dashboard
+https://leetcode.com
+https://codingcompetitions.withgoogle.com/kickstart
+https://codingcompetitions.withgoogle.com/codejam
+https://www.udemy.com/ultimate-javascript-leetcode-interview-bootcamp/
+
+Check docs.google.com for relevant notes 
+Check Bookmarks for relevant pages
+
+https://learnxinyminutes.com/docs/python3/
+(Intro lesson from freecodecamp for Javascript introduction)
+
+https://open.appacademy.io/ (at least for the interview prep stuff if it is even in the open.aa link)
+
+
+github notes from work:
+
+https://old.reddit.com/r/stanford/comments/d63j3h/graduate_pathways_to_stem_gps_2019/
+https://engineering.berkeley.edu/academics/graduate/outreach/graduate-pathways-stem
+https://docs.google.com/forms/d/e/1FAIpQLSegkupH6BPslX2XnOubR4JDCCF00-4aurJmY6_rzuwCJjprMg/viewform
+
+
+https://www.nytimes.com/interactive/2019/07/19/arts/fitness-nyc-park.html
+
+https://www.nytimes.com/2019/07/22/technology/open-ai-microsoft.html
+https://openai.com/jobs/
+https://jobs.lever.co/openai/ca9b4e4f-6781-41c1-9b2c-5fba84dcd534
+https://openai.com/about/
+
+https://en.wikipedia.org/wiki/Bézier_curve
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+https://github.com/iperov/DeepFaceLab
+
+https://summerofcode.withgoogle.com/get-started/
+
+https://www.traversymedia.com
+
+https://news.ycombinator.com/item?id=20878438
+https://news.ycombinator.com/item?id=20992378
+
+https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/index.htm
+
+https://news.ycombinator.com/item?id=21079944
+https://pvigier.github.io/2019/05/06/commit-graph-drawing-algorithms.html
+https://news.ycombinator.com/item?id=21085214
+
+https://news.ycombinator.com/item?id=21113500
+https://news.ycombinator.com/item?id=21087383
+
+https://old.reddit.com/r/stanford/comments/db7fr2/frosh_looking_to_do_research_on_plant_based/
+
+[–]Christian McCaffrey fanboiTinderForMidgets 10 points 14 hours ago 
+I don't know if he takes frosh, but you have to know your shit to get into his lab. He's been on the shortlist for the Nobel Prize for his invention of DNA microarrays for a long time. I'd recommend really reading all of his papers and if you can comment intelligently on them then sending him an email.
+
+permalinkembedsavereportreply
+
+[–]throwaway9834712935 7 points 7 hours ago 
+A quick internet search will show you that Pat Brown is emeritus and no longer has a lab at Stanford. Impossible Foods is his full-time job. If you're interested in that, maybe you could do an internship there. Otherwise, when you look for a lab at Stanford to do research, verify some basic facts: the professor has a lab/research group, which probably has its own webpage, listing grad students and possibly postdocs and research staff, and active projects. If you don't do this homework before contacting them you'll make a bad impression.
+
+permalinkembedsavereportreply
+
+https://news.ycombinator.com/item?id=21115324
+
+https://news.ycombinator.com/item?id=21139508
