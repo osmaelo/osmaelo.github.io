@@ -221,3 +221,5 @@ https://news.ycombinator.com/item?id=21115324
 https://news.ycombinator.com/item?id=21139508
 
 https://myactivity.google.com/myactivity
+
+https://old.reddit.com/r/gradadmissions/comments/dcj5o3/this_probably_has_been_asked_a_lot_low_undergrad/
