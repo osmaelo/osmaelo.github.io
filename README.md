@@ -223,3 +223,5 @@ https://news.ycombinator.com/item?id=21139508
 https://myactivity.google.com/myactivity
 
 https://old.reddit.com/r/gradadmissions/comments/dcj5o3/this_probably_has_been_asked_a_lot_low_undergrad/
+https://old.reddit.com/r/math/comments/bgo6us/is_starting_a_math_phd_at_30_too_old/
+https://old.reddit.com/r/math/comments/ccy0pm/doing_phd_in_us_as_an_international_student_with/
