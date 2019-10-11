@@ -3,6 +3,10 @@
 ## A list interesting ideas worth exploring.
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
+### Proof Book Notes:
+
+https://www.csm.ornl.gov/~sheldon/ds/sec1.2.html
+
 ### Programming and Computer Science:
 
 CHECK ALL YOUR FORKED REPOSITORIES
