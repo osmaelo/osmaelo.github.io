@@ -232,3 +232,5 @@ https://old.reddit.com/r/math/comments/bgo6us/is_starting_a_math_phd_at_30_too_o
 https://old.reddit.com/r/math/comments/ccy0pm/doing_phd_in_us_as_an_international_student_with/
 
 https://news.ycombinator.com/item?id=21163620
+
+Cool dude: https://knzhou.github.io/#lectures
