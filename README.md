@@ -237,3 +237,5 @@ Cool dude: https://knzhou.github.io/#lectures
 
 https://www.workatastartup.com
 https://angel.co
+
+Need to do project: https://news.ycombinator.com/item?id=21263788, https://tspvis.com, https://github.com/jhackshaw/tspvis
