@@ -242,3 +242,5 @@ Need to do project: https://news.ycombinator.com/item?id=21263788, https://tspvi
 
 https://www.objective-see.com/products/ransomwhere.html
 https://news.ycombinator.com/item?id=21267201
+
+http://www.astro.ucla.edu/~wright/cosmology_faq.html
