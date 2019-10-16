@@ -239,3 +239,6 @@ https://www.workatastartup.com
 https://angel.co
 
 Need to do project: https://news.ycombinator.com/item?id=21263788, https://tspvis.com, https://github.com/jhackshaw/tspvis
+
+https://www.objective-see.com/products/ransomwhere.html
+https://news.ycombinator.com/item?id=21267201
