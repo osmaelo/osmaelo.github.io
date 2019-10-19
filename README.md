@@ -9,7 +9,7 @@ https://www.csm.ornl.gov/~sheldon/ds/sec1.2.html
 
 ### Programming and Computer Science:
 
-CHECK ALL YOUR FORKED REPOSITORIES
+CHECK ALL FORKED REPOSITORIES
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
@@ -246,3 +246,5 @@ https://news.ycombinator.com/item?id=21267201
 http://www.astro.ucla.edu/~wright/cosmology_faq.html
 
 https://news.ycombinator.com/item?id=21240435
+
+https://www.reddit.com/r/math/comments/dgxvj4/ultimate_tictactoe/
