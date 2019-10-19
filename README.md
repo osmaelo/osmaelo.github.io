@@ -252,6 +252,9 @@ https://www.reddit.com/r/math/comments/dgxvj4/ultimate_tictactoe/
 Interesting mathematicians and their work:
 
 https://chewisinho.github.io/
+
 http://math.mit.edu/~gweneth/
+
 http://web.stanford.edu/~mattkwan/
+
 http://web.stanford.edu/~lsauerma/
