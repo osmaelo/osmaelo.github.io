@@ -111,6 +111,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Quantum Computing](https://www.reddit.com/r/Physics/comments/d24vl7/thank_you_rphysics_for_the_support/) + [Textbook](https://community.qiskit.org/textbook/)
 * [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
 * [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
+* One more Canvas: [Stanford site](http://web.stanford.edu/~iolea/) and [Instructions 1](https://uit.stanford.edu/service/web/centralhosting/howto_user), [Instructions 2](https://uit.stanford.edu/service/stanfordsites)
 
 
 ### Business and Finance:
