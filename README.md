@@ -89,6 +89,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and [image](https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/excel.jpg)
 * AI in Africa: [Link](https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d) & [Source](https://news.ycombinator.com/item?id=21123142)
 * [List of recommended CS books from Reddit](https://www.reddit.com/r/learnprogramming/comments/dd6e0g/what_are_your_favorite_books_on_general_cs/f2f270w/)
+* Map API Tools: [Site](http://www.geocodezip.com) and [Source](https://www.reddit.com/r/webdev/comments/dkh47k/just_discovered_this_awesome_site_full_of_code/)
 
 ### Mathematics and Physics:
 
