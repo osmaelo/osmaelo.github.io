@@ -112,6 +112,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
 * [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
 * One more Canvas: [Stanford site](http://web.stanford.edu/~iolea/) and [Instructions 1](https://uit.stanford.edu/service/web/centralhosting/howto_user), [Instructions 2](https://uit.stanford.edu/service/stanfordsites)
+* Interesting Math Blog: [Site](https://golem.ph.utexas.edu/category/2019/10/jaynes_on_clever_tricks.html) and [Source](https://www.reddit.com/r/math/comments/dkf9j0/jaynes_on_clever_tricks_section_8124_of_the_book/]
 
 
 ### Business and Finance:
