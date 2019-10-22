@@ -267,3 +267,5 @@ self-hosting: https://news.ycombinator.com/item?id=21235957
 https://news.ycombinator.com/item?id=21326484
 
 https://news.ycombinator.com/item?id=21311302
+
+https://news.ycombinator.com/item?id=21324768
