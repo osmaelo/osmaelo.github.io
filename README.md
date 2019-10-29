@@ -275,3 +275,12 @@ https://news.ycombinator.com/item?id=21283838
 https://news.ycombinator.com/item?id=21348476
 
 https://slack.com/careers/location/san-francisco
+
+https://news.ycombinator.com/item?id=21358883
+
+https://en.wikipedia.org/wiki/Six_nines_in_pi
+
+https://www.smbc-comics.com/comic/the-talk-3
+
+https://news.ycombinator.com/item?id=21379174
+
