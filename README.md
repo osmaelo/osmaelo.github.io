@@ -10,6 +10,7 @@ https://www.csm.ornl.gov/~sheldon/ds/sec1.2.html
 ### Programming and Computer Science:
 
 CHECK ALL FORKED REPOSITORIES
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
