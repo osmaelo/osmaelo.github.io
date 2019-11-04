@@ -276,8 +276,6 @@ https://news.ycombinator.com/item?id=21332072
 
 https://www.coursera.org/professional-certificates/google-it-support
 
-https://news.ycombinator.com/item?id=21283838
-
 https://news.ycombinator.com/item?id=21348476
 
 https://slack.com/careers/location/san-francisco
