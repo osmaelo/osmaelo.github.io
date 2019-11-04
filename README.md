@@ -288,3 +288,5 @@ https://www.smbc-comics.com/comic/the-talk-3
 
 https://news.ycombinator.com/item?id=21379174
 
+https://news.ycombinator.com/item?id=21440932
+
