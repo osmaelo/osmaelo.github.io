@@ -290,3 +290,8 @@ https://news.ycombinator.com/item?id=21379174
 
 https://news.ycombinator.com/item?id=21440932
 
+Laplace: https://news.ycombinator.com/item?id=21449203
+
+Physics: https://news.ycombinator.com/item?id=21453318
+
+Switzerland: https://news.ycombinator.com/item?id=21443349
