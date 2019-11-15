@@ -296,3 +296,14 @@ Laplace: https://news.ycombinator.com/item?id=21449203
 Physics: https://news.ycombinator.com/item?id=21453318
 
 Switzerland: https://news.ycombinator.com/item?id=21443349
+
+React: https://news.ycombinator.com/item?id=21536789
+
+Eigenvectors from eigenvalues: https://news.ycombinator.com/item?id=21542054 + https://www.reddit.com/r/math/comments/ci665j/linear_algebra_question_from_a_physicist/
+
+TT: https://terrytao.wordpress.com/career-advice/
+
+nytimes videos: https://www.nytimes.com/2019/11/14/arts/television/sexual-harassment-videos.html
+
+wunderkind: https://news.ycombinator.com/item?id=21545830 + https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/
+
