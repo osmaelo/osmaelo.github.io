@@ -307,3 +307,4 @@ nytimes videos: https://www.nytimes.com/2019/11/14/arts/television/sexual-harass
 
 wunderkind: https://news.ycombinator.com/item?id=21545830 + https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/
 
+Containers: https://news.ycombinator.com/item?id=21567481
