@@ -312,3 +312,21 @@ Containers: https://news.ycombinator.com/item?id=21567481
 API guidelines: https://news.ycombinator.com/item?id=21609807
 
 AI Future: https://news.ycombinator.com/item?id=21613997
+
+Web Developers: https://news.ycombinator.com/item?id=21585074
+
+AI Snake Oil: https://news.ycombinator.com/item?id=21577156
+
+Interactive Linear Algebra: https://news.ycombinator.com/item?id=21628449
+
+Stanford Math videos: https://mrc.stanford.edu/videos
+
+Career Paths for Mathematicians, Stanford: https://mathematics.stanford.edu/peoplegraduate-students/phd-alumni
+
+Career Paths for Mathematicians, Dartmouth: https://math.dartmouth.edu/graduate-students/recent/
+
+GRE Math Subject Test: https://www.ets.org/gre/subject/about/content/mathematics
+
+National Science Foundation: https://www.nsf.gov/dir/index.jsp?org=MPS
+
+Sumo Math Mingle: http://sumo.stanford.edu/mathmingle.html
