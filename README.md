@@ -330,3 +330,9 @@ GRE Math Subject Test: https://www.ets.org/gre/subject/about/content/mathematics
 National Science Foundation: https://www.nsf.gov/dir/index.jsp?org=MPS
 
 Sumo Math Mingle: http://sumo.stanford.edu/mathmingle.html
+
+Burned out: https://news.ycombinator.com/item?id=21645114
+
+0.300...004: https://news.ycombinator.com/item?id=21686264
+
+Math Pattern: https://news.ycombinator.com/item?id=21687259
