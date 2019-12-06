@@ -336,3 +336,5 @@ Burned out: https://news.ycombinator.com/item?id=21645114
 0.300...004: https://news.ycombinator.com/item?id=21686264
 
 Math Pattern: https://news.ycombinator.com/item?id=21687259
+
+Symplectic Geometry: https://news.ycombinator.com/item?id=21677797
