@@ -93,6 +93,7 @@ CHECK ALL FORKED REPOSITORIES
 * Map API Tools: [Site](http://www.geocodezip.com) and [Source](https://www.reddit.com/r/webdev/comments/dkh47k/just_discovered_this_awesome_site_full_of_code/)
 * Physic Simulator: [Link](https://cemsim.com/) + [Source](https://www.reddit.com/r/Physics/comments/dmxgh3/i_made_a_webbased_interactive_simulator_for/)
 * DS and Algo Checklist and Review: [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
+* [7 Offers](https://www.reddit.com/r/cscareerquestions/comments/e095pv/how_i_got_7_offers_heres_what_i_learned/)
 
 ### Mathematics and Physics:
 
