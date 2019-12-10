@@ -340,3 +340,7 @@ Burned out: https://news.ycombinator.com/item?id=21645114
 Math Pattern: https://news.ycombinator.com/item?id=21687259
 
 Symplectic Geometry: https://news.ycombinator.com/item?id=21677797
+
+Comedy?: https://news.ycombinator.com/item?id=21744785
+
+BootStrap Physics: https://news.ycombinator.com/item?id=21743847  f
