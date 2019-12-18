@@ -344,4 +344,30 @@ Symplectic Geometry: https://news.ycombinator.com/item?id=21677797
 
 Comedy?: https://news.ycombinator.com/item?id=21744785
 
-BootStrap Physics: https://news.ycombinator.com/item?id=21743847  f
+BootStrap Physics: https://news.ycombinator.com/item?id=21743847
+
+Kurt Gödel: https://news.ycombinator.com/item?id=21812581
+
+Eller's Algorithm and Mazes: 
+
+- https://news.ycombinator.com/item?id=21828903
+
+- https://www.jamisbuck.org/mazes/
+
+- https://stackoverflow.com/questions/38502/whats-a-good-algorithm-to-generate-a-maze
+
+- http://datagenetics.com/blog/november22015/index.html
+
+- http://www.astrolog.org/labyrnth/algrithm.htm
+
+- http://mazesforprogrammers.com/#mazes
+
+- http://www.neocomputer.org/projects/eller.html
+
+Supernomral Stimulus: https://www.sparringmind.com/supernormal-stimuli/ https://en.wikipedia.org/wiki/Supernormal_stimulus
+
+TT: https://news.ycombinator.com/item?id=21780068
+
+Probability: https://news.ycombinator.com/item?id=21781785
+
+Turbulance: https://news.ycombinator.com/item?id=21771684
