@@ -122,6 +122,7 @@ CHECK ALL FORKED REPOSITORIES
 * [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [6.854J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 * [6.851](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
+* [Teach Yourself Logic via Reddit](https://www.reddit.com/r/math/comments/e9w52l/teach_yourself_logic_2020_edition_an_annotated/)
 
 
 ### Business and Finance:
