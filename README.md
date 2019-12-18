@@ -371,3 +371,9 @@ TT: https://news.ycombinator.com/item?id=21780068
 Probability: https://news.ycombinator.com/item?id=21781785
 
 Turbulance: https://news.ycombinator.com/item?id=21771684
+
+Learning: https://news.ycombinator.com/item?id=21762640
+
+Front-End: https://news.ycombinator.com/item?id=21764649
+
+Scottish Book: https://news.ycombinator.com/item?id=21747131
