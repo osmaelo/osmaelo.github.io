@@ -377,3 +377,5 @@ Learning: https://news.ycombinator.com/item?id=21762640
 Front-End: https://news.ycombinator.com/item?id=21764649
 
 Scottish Book: https://news.ycombinator.com/item?id=21747131
+
+Future Prospects: https://news.ycombinator.com/item?id=21815123
