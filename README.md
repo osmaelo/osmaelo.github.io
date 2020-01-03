@@ -95,6 +95,8 @@ CHECK ALL FORKED REPOSITORIES
 * DS and Algo Checklist and Review: [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
 * [7 Offers](https://www.reddit.com/r/cscareerquestions/comments/e095pv/how_i_got_7_offers_heres_what_i_learned/)
 * [GS Advice](https://www.reddit.com/r/IAmA/comments/dwaa36/when_i_graduated_college_i_had_interviews_at/)
+* Personal Home and Webpage example: [Monokai](https://monokai.nl/) + [Reddit Source](https://www.reddit.com/r/web_design/comments/ei1b4s/monokai_a_trip_through_japan/)
+* Personal Home and Webpage example: [Stanford Professor](http://statweb.stanford.edu/~candes/)
 
 ### Mathematics and Physics:
 
