@@ -97,6 +97,7 @@ CHECK ALL FORKED REPOSITORIES
 * [GS Advice](https://www.reddit.com/r/IAmA/comments/dwaa36/when_i_graduated_college_i_had_interviews_at/)
 * Personal Home and Webpage example: [Monokai](https://monokai.nl/) + [Reddit Source](https://www.reddit.com/r/web_design/comments/ei1b4s/monokai_a_trip_through_japan/)
 * Personal Home and Webpage example: [Stanford Professor](http://statweb.stanford.edu/~candes/)
+* [Fourier Waves](http://www.jezzamon.com/fourier/index.html)
 
 ### Mathematics and Physics:
 
