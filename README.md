@@ -146,6 +146,9 @@ CHECK ALL FORKED REPOSITORIES
 * Guitar
 * Fitness
 * Music to download: [1](https://flamingosis1.bandcamp.com/album/flight-fantastic), [2](https://flamingosis1.bandcamp.com/album/bright-moments), [3](https://flamingosis1.bandcamp.com/album/a-groovy-thing), [4](https://flamingosis1.bandcamp.com/)
+* [It's later than you think](https://www.linkedin.com/pulse/its-later-than-you-think-j-r-storment/) + [HN Source](https://news.ycombinator.com/item?id=20928570)
+* The Three Bootcamps: [FCC](https://www.freecodecamp.org/learn/), [FSO](https://fullstackopen.com/en/), [Odin](https://www.theodinproject.com/dashboard)
+* Algorithm Question Training: [HackerRank](https://www.hackerrank.com/dashboard), [Leetcode](https://leetcode.com)
 
 ***
 Make sure to document links from keep.google.com and to sort and organize Bookmarks
@@ -156,24 +159,6 @@ Make sure to document links from keep.google.com and to sort and organize Bookma
 
 ***
 
-Sort:
-* https://news.ycombinator.com/item?id=20914585
-* https://news.ycombinator.com/item?id=20960832
-* https://news.ycombinator.com/item?id=20928570
-
-Work/Stanford:
-
-https://www.reddit.com/r/learnprogramming/comments/cmw9gt/odin_project_vs_freecodecamp_vs_full_stack_open/
-
-https://learn.freecodecamp.org
-https://fullstackopen.com/en/
-https://www.theodinproject.com/dashboard
-
-https://www.coursera.org/learn/machine-learning/home/welcome
-https://www.coursera.org/learn/machine-learning-with-python/home/welcome
-
-https://www.hackerrank.com/dashboard
-https://leetcode.com
 https://codingcompetitions.withgoogle.com/kickstart
 https://codingcompetitions.withgoogle.com/codejam
 https://www.udemy.com/ultimate-javascript-leetcode-interview-bootcamp/
