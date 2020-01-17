@@ -366,3 +366,19 @@ Front-End: https://news.ycombinator.com/item?id=21764649
 Scottish Book: https://news.ycombinator.com/item?id=21747131
 
 Future Prospects: https://news.ycombinator.com/item?id=21815123
+
+The Collapsing Empire: https://news.ycombinator.com/item?id=22068826
+
+Back Pain & The McGill Big 3 Stretches (curl up / side plank / bird dog): https://news.ycombinator.com/item?id=22067972
+
+HN Inspiration: https://news.ycombinator.com/item?id=22050802
+
+Physics Foundation 40 Years: https://news.ycombinator.com/item?id=22033864
+
+Mysterious Numbers: https://news.ycombinator.com/item?id=22036058
+
+Applied Cryptography: https://news.ycombinator.com/item?id=22013751 + https://toc.cryptobook.us/
+
+Physics, AI and Higher Dimensions: https://news.ycombinator.com/item?id=22002818
+
+Scientific Discoveries: https://news.ycombinator.com/item?id=21994667
