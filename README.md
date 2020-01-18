@@ -382,3 +382,5 @@ Applied Cryptography: https://news.ycombinator.com/item?id=22013751 + https://to
 Physics, AI and Higher Dimensions: https://news.ycombinator.com/item?id=22002818
 
 Scientific Discoveries: https://news.ycombinator.com/item?id=21994667
+
+Women in STEM: https://news.ycombinator.com/item?id=22077603
