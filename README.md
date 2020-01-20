@@ -3,9 +3,9 @@
 ## A list interesting ideas worth exploring.
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-### Proof Book Notes:
+### Finish Watching Video @ 35m:
 
-https://www.csm.ornl.gov/~sheldon/ds/sec1.2.html
+[Fractions and p-adic numbers | Real numbers and limits Math Foundations 90 | N J Wildberger](https://www.youtube.com/watch?v=XXRwlo_MHnI)
 
 ### Programming and Computer Science:
 
@@ -128,6 +128,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Teach Yourself Logic via Reddit](https://www.reddit.com/r/math/comments/e9w52l/teach_yourself_logic_2020_edition_an_annotated/)
 * CSS Games: [Flexbox Froggy](https://flexboxfroggy.com/) + [Grid Garden](https://cssgridgarden.com/) + [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 * Tracking a card through a shuffle: [Reddit](https://www.reddit.com/r/math/comments/eky67a/tracking_a_card_through_a_shuffled_deck_response/) + [Source](https://possiblywrong.wordpress.com/2020/01/06/tracking-a-card-through-a-shuffled-deck/)
+* Doughnut Packing Problem: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/en08ka/square_donuts_have_27_more_donut_in_each_one_and/) + [Source](https://canmom.github.io/physics/donut-packing)
 
 
 ### Business and Finance:
