@@ -127,6 +127,7 @@ CHECK ALL FORKED REPOSITORIES
 * [6.851](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
 * [Teach Yourself Logic via Reddit](https://www.reddit.com/r/math/comments/e9w52l/teach_yourself_logic_2020_edition_an_annotated/)
 * CSS Games: [Flexbox Froggy](https://flexboxfroggy.com/) + [Grid Garden](https://cssgridgarden.com/) + [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+* Tracking a card through a shuffle: [Reddit][(https://www.reddit.com/r/math/comments/eky67a/tracking_a_card_through_a_shuffled_deck_response/) + [Source](https://possiblywrong.wordpress.com/2020/01/06/tracking-a-card-through-a-shuffled-deck/)
 
 
 ### Business and Finance:
