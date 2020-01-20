@@ -5,7 +5,7 @@
 
 ### Finish Watching Video @ 35m:
 
-[Fractions and p-adic numbers | Real numbers and limits Math Foundations 90 | N J Wildberger](https://www.youtube.com/watch?v=XXRwlo_MHnI)
+[Fractions and p-adic numbers Real numbers and limits Math Foundations 90 N J Wildberger](https://www.youtube.com/watch?v=XXRwlo_MHnI)
 
 ### Programming and Computer Science:
 
