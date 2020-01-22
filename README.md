@@ -387,3 +387,9 @@ Physics, AI and Higher Dimensions: https://news.ycombinator.com/item?id=22002818
 Scientific Discoveries: https://news.ycombinator.com/item?id=21994667
 
 Women in STEM: https://news.ycombinator.com/item?id=22077603
+
+Productivity: https://news.ycombinator.com/item?id=22105229
+
+Highest Number: https://news.ycombinator.com/item?id=22112854
+
+[Math 193](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=MATH%20193:%20Polya%20Problem%20Solving%20Seminar&academicYear=20162017) and [Putnam Competitions](https://www.maa.org/math-competitions/putnam-competition)
