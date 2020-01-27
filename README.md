@@ -395,3 +395,15 @@ Productivity: https://news.ycombinator.com/item?id=22105229
 Highest Number: https://news.ycombinator.com/item?id=22112854
 
 [Math 193](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=MATH%20193:%20Polya%20Problem%20Solving%20Seminar&academicYear=20162017) and [Putnam Competitions](https://www.maa.org/math-competitions/putnam-competition)
+
+https://old.reddit.com/r/dartmouth/comments/esh7mg/it_was_40_degrees_in_miami_beach_today/
+
+https://old.reddit.com/r/dartmouth/comments/eoy8mi/i_want_to_transfer_before_even_starting/
+
+https://old.reddit.com/r/math/comments/esrgs4/is_it_possible_to_skip_doing_a_phd_and_go_into/
+
+https://old.reddit.com/r/math/comments/epcxcx/is_logic_still_an_active_field_of_research/
+
+https://old.reddit.com/r/math/comments/etp3d7/what_do_you_tell_people_when_you_are_asked_what/
+
+
