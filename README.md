@@ -99,6 +99,8 @@ CHECK ALL FORKED REPOSITORIES
 * Personal Home and Webpage example: [Stanford Professor](http://statweb.stanford.edu/~candes/)
 * [HN Source](https://news.ycombinator.com/item?id=20934347) + [Fourier Waves](http://www.jezzamon.com/fourier/index.html)
 * CSS Guide + Javascript + General Guide: [Reddit](https://www.reddit.com/r/web_design/comments/ekadas/use_this_website_if_you_want_to_explore_all_css/) + [CSS](http://overapi.com/css) + [Javascript](http://overapi.com/javascript) + [General](http://overapi.com/) + [CSS Properties List](https://www.web4college.com/css-play/index.php)
+* TLDR Pages: [HN](https://news.ycombinator.com/item?id=22117237) + [Source](https://tldr.sh/) + [Online](http://cht.sh/)
+* Float Toy: [HN]() + [Source](http://evanw.github.io/float-toy/)
 
 ### Mathematics and Physics:
 
