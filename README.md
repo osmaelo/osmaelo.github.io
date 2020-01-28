@@ -406,4 +406,6 @@ https://old.reddit.com/r/math/comments/epcxcx/is_logic_still_an_active_field_of_
 
 https://old.reddit.com/r/math/comments/etp3d7/what_do_you_tell_people_when_you_are_asked_what/
 
+https://old.reddit.com/r/web_design/comments/ev67b3/responsive_pixel_art/
+
 
