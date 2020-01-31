@@ -408,4 +408,4 @@ https://old.reddit.com/r/math/comments/etp3d7/what_do_you_tell_people_when_you_a
 
 https://old.reddit.com/r/web_design/comments/ev67b3/responsive_pixel_art/
 
-
+Set up a server: https://www.reddit.com/r/findapath/comments/ew5vbb/i_now_have_an_associates_degree_in_computer/fg0ccp6/
