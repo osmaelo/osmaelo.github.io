@@ -340,7 +340,7 @@ BootStrap Physics: https://news.ycombinator.com/item?id=21743847
 
 Kurt Gödel: https://news.ycombinator.com/item?id=21812581
 
-Eller's Algorithm and Mazes: 
+**Eller's Algorithm and Mazes:** 
 
 - https://news.ycombinator.com/item?id=21828903
 
