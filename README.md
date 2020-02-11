@@ -413,3 +413,5 @@ Set up a server: https://www.reddit.com/r/findapath/comments/ew5vbb/i_now_have_a
 Docker on Bash: https://news.ycombinator.com/item?id=22244706
 
 Alternate Deployment: https://news.ycombinator.com/item?id=22119828
+
+Polaroid CSS: [Source](https://fossheim.io/writing/posts/css-polaroid-camera/) + [Reddit](https://www.reddit.com/r/web_design/comments/f1q98h/how_i_recreated_a_polaroid_camera_with_css/)
