@@ -415,3 +415,9 @@ Docker on Bash: https://news.ycombinator.com/item?id=22244706
 Alternate Deployment: https://news.ycombinator.com/item?id=22119828
 
 Polaroid CSS: [Source](https://fossheim.io/writing/posts/css-polaroid-camera/) + [Reddit](https://www.reddit.com/r/web_design/comments/f1q98h/how_i_recreated_a_polaroid_camera_with_css/)
+
+Napkin Math: https://news.ycombinator.com/item?id=22287993
+
+Building Links: https://news.ycombinator.com/item?id=22299180 + https://www.nand2tetris.org/course
+
+The Rosetta Stone of Mathematics: https://nuscimag.com/the-rosetta-stone-of-mathematics-8c15ea14652d + https://news.ycombinator.com/item?id=22297448
