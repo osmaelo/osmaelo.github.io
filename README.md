@@ -423,3 +423,5 @@ Building Links: https://news.ycombinator.com/item?id=22299180 + https://www.nand
 The Rosetta Stone of Mathematics: https://nuscimag.com/the-rosetta-stone-of-mathematics-8c15ea14652d + https://news.ycombinator.com/item?id=22297448
 
 Gears: [HN](https://news.ycombinator.com/item?id=22310813) + [Source](https://ciechanow.ski/gears/)
+
+Stanford Site
