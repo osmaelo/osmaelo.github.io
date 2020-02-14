@@ -424,4 +424,4 @@ The Rosetta Stone of Mathematics: https://nuscimag.com/the-rosetta-stone-of-math
 
 Gears: [HN](https://news.ycombinator.com/item?id=22310813) + [Source](https://ciechanow.ski/gears/)
 
-Stanford Site
+Stanford Site + Resume example found on Mac Mini
