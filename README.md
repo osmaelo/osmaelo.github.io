@@ -10,7 +10,7 @@
 ### Programming and Computer Science:
 
 CHECK ALL FORKED REPOSITORIES
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* **[Teach Yourself Computer Science](https://teachyourselfcs.com/)**
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
@@ -24,7 +24,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Cool eg](https://math.berkeley.edu/~kmill/toys/heat/heat.html) and [Google CTF](https://capturetheflag.withgoogle.com/)
 * [Google Deep Dream](https://en.wikipedia.org/wiki/DeepDream)
 * Goal: https://ai.google/research/join-us/
-* [Gyul Hap! Game](https://www.setgame.com/set/puzzle)
+* **[Gyul Hap! Game](https://www.setgame.com/set/puzzle)**
 * Comptetive Programmer's Handbook: [Here](https://cses.fi/book/index.html) and [here](https://www.reddit.com/r/learnprogramming/comments/5wnz2t/competitive_programmers_handbook/)
 * [Udemy's The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/)
 * [Udemy's Automate the Boring Stuff with Python Programming](https://www.udemy.com/automate/)
@@ -422,6 +422,8 @@ Building Links: https://news.ycombinator.com/item?id=22299180 + https://www.nand
 
 The Rosetta Stone of Mathematics: https://nuscimag.com/the-rosetta-stone-of-mathematics-8c15ea14652d + https://news.ycombinator.com/item?id=22297448
 
-Gears: [HN](https://news.ycombinator.com/item?id=22310813) + [Source](https://ciechanow.ski/gears/)
+**Gears: [HN](https://news.ycombinator.com/item?id=22310813) + [Source](https://ciechanow.ski/gears/)**
 
 Stanford Site + Resume example found on Mac Mini
+
+**[Fern](https://en.wikipedia.org/wiki/Barnsley_fern)**
