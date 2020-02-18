@@ -29,7 +29,7 @@ CHECK ALL FORKED REPOSITORIES
 * [Udemy's The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/)
 * [Udemy's Automate the Boring Stuff with Python Programming](https://www.udemy.com/automate/)
 * [Front End Guide 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-* [Web Developer Roadmap - 2020](https://github.com/kamranahmedse/developer-roadmap), also start [here](https://www.reddit.com/r/learnprogramming/comments/afsssy/i_feel_like_im_starting_a_race_in_last_place/ee1dcus/)
+* **[Web Developer Roadmap - 2020](https://github.com/kamranahmedse/developer-roadmap), also start [here](https://www.reddit.com/r/learnprogramming/comments/afsssy/i_feel_like_im_starting_a_race_in_last_place/ee1dcus/)**
 * Another roadmap: [Site](https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/) and [Reddit Source](https://www.reddit.com/r/webdev/comments/apcedl/everything_i_know_as_a_software_developer_without/)
 * Web Development in 2019 [here](https://www.youtube.com/watch?v=UnTQVlqmDQ0) and [here](https://www.reddit.com/r/webdev/comments/a841jj/web_development_in_2019_a_practical_guide/)
 * Improve on [Hackerrank](https://www.hackerrank.com/dashboard) and [Leetcode](https://leetcode.com/) and review for [preparations](https://articles.leetcode.com/hacking-google-interview-from-mit/) and some [steps to follow](https://www.quora.com/Which-one-is-better-HackerRank-or-LeetCode). [More](https://www.reddit.com/r/learnprogramming/comments/c37o7k/a_list_of_all_problem_solving_websites/)
