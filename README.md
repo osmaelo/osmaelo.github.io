@@ -428,4 +428,4 @@ Stanford Site + Resume example found on Mac Mini
 
 **[Fern](https://en.wikipedia.org/wiki/Barnsley_fern)**
 
-MIT Missing Semester of CS Education: [Reddit](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/) + [Source](https://missing.csail.mit.edu/)
+**MIT Missing Semester of CS Education: [Reddit](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/) + [Source](https://missing.csail.mit.edu/)**
