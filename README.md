@@ -441,3 +441,5 @@ Explorables, learning through play: [HN](https://news.ycombinator.com/item?id=22
 JS Page Interactive Walkthrough: [HN](https://news.ycombinator.com/item?id=22364040) + [Source](https://github.com/tagspace/trevor-demo)
 
 Authentication the hardway: [HN](https://news.ycombinator.com/item?id=22355790) + [Source](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-three/)
+
+Computer Vision in Excel: [HN](https://news.ycombinator.com/item?id=22357374) + [Source](https://github.com/osmaelo/computer-vision-basics-in-microsoft-excel)
