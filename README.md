@@ -435,3 +435,9 @@ Stanford Site + Resume example found on Mac Mini
 **[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)**
 
 Algorithm Review: https://kennyzhuang.gitbooks.io/algorithms-collection/content/index.html
+
+Explorables, learning through play: [HN](https://news.ycombinator.com/item?id=22368323) + [Source](https://explorabl.es/)
+
+JS Page Interactive Walkthrough: [HN](https://news.ycombinator.com/item?id=22364040) + [Source](https://github.com/tagspace/trevor-demo)
+
+Authentication the hardway: [HN](https://news.ycombinator.com/item?id=22355790) + [Source](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-three/)
