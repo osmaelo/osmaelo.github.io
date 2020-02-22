@@ -431,3 +431,5 @@ Stanford Site + Resume example found on Mac Mini
 **MIT Missing Semester of CS Education: [Reddit](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/) + [Source](https://missing.csail.mit.edu/)**
 
 **Chess AA - https://github.com/appacademy/curriculum/tree/master/ruby/projects/chess**
+
+**[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)**
