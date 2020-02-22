@@ -430,7 +430,7 @@ Stanford Site + Resume example found on Mac Mini
 
 **MIT Missing Semester of CS Education: [Reddit](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/) + [Source](https://missing.csail.mit.edu/)**
 
-**Chess AA - https://github.com/appacademy/curriculum/tree/master/ruby/projects/chess**
+**[Chess AA](https://github.com/appacademy/curriculum/tree/master/ruby/projects/chess) + [Anagram AA](https://github.com/appacademy/curriculum/tree/master/ruby/projects/anagrams) + [Poker AA](https://github.com/appacademy/curriculum/tree/master/ruby/projects/poker) + [Mancala AA](https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/mancala)**
 
 **[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)**
 
@@ -443,3 +443,5 @@ JS Page Interactive Walkthrough: [HN](https://news.ycombinator.com/item?id=22364
 Authentication the hardway: [HN](https://news.ycombinator.com/item?id=22355790) + [Source](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-three/)
 
 Computer Vision in Excel: [HN](https://news.ycombinator.com/item?id=22357374) + [Source](https://github.com/osmaelo/computer-vision-basics-in-microsoft-excel)
+
+
