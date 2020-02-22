@@ -433,3 +433,5 @@ Stanford Site + Resume example found on Mac Mini
 **Chess AA - https://github.com/appacademy/curriculum/tree/master/ruby/projects/chess**
 
 **[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)**
+
+Algorithm Review: https://kennyzhuang.gitbooks.io/algorithms-collection/content/index.html
