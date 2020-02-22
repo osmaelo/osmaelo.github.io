@@ -444,4 +444,6 @@ Authentication the hardway: [HN](https://news.ycombinator.com/item?id=22355790) 
 
 Computer Vision in Excel: [HN](https://news.ycombinator.com/item?id=22357374) + [Source](https://github.com/osmaelo/computer-vision-basics-in-microsoft-excel)
 
+Maryam Mathematician: https://news.ycombinator.com/item?id=22382942
 
+Gilbert Strang: https://news.ycombinator.com/item?id=22382337
