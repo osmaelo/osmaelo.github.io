@@ -447,3 +447,9 @@ Computer Vision in Excel: [HN](https://news.ycombinator.com/item?id=22357374) + 
 Maryam Mathematician: https://news.ycombinator.com/item?id=22382942
 
 Gilbert Strang: https://news.ycombinator.com/item?id=22382337
+
+[Princeton Professor Work & History](https://scholar.princeton.edu/ctarnita/biocv), Article [1](https://www.quantamagazine.org/corina-tarnita-and-the-deep-mathematics-of-social-insects-20200218/), [2](https://www.quantamagazine.org/a-mathematician-who-decodes-the-patterns-stamped-out-by-life-20171220/)
+
+[QuantaMagazine](https://www.quantamagazine.org/)
+
+**[The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)** (Post to reddit?)
