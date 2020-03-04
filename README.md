@@ -453,3 +453,37 @@ Gilbert Strang: https://news.ycombinator.com/item?id=22382337
 [QuantaMagazine](https://www.quantamagazine.org/)
 
 **[The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)** (Post to reddit?)
+
+http://glench.com/LegibleMathematics/
+
+https://news.ycombinator.com/item?id=22404862
+
+https://ballerina.io/
+
+https://news.ycombinator.com/item?id=22401257
+
+https://habr.com/en/post/489698/
+
+https://news.ycombinator.com/item?id=22405372
+
+https://www.neilwithdata.com/mathematics-self-learner
+
+https://news.ycombinator.com/item?id=22400375
+
+https://dusty.phillips.codes/2020/02/15/on-voice-coding/
+
+https://news.ycombinator.com/item?id=22404264
+
+https://www.forbes.com/sites/startswithabang/2020/02/26/why-string-theory-is-both-a-dream-and-a-nightmare/#6bf236b03b1d
+
+https://news.ycombinator.com/item?id=22424226
+
+https://news.ycombinator.com/item?id=22425779
+
+https://news.ycombinator.com/item?id=22464733
+
+http://nautil.us/issue/82/panpsychism/is-matter-conscious-rp
+
+https://news.ycombinator.com/item?id=22463638
+
+https://www.nytimes.com/2020/03/03/magazine/hideo-kojima-death-stranding-video-game.html?action=click&module=Top%20Stories&pgtype=Homepage
