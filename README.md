@@ -396,6 +396,16 @@ Highest Number: https://news.ycombinator.com/item?id=22112854
 
 [Math 193](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=MATH%20193:%20Polya%20Problem%20Solving%20Seminar&academicYear=20162017) and [Putnam Competitions](https://www.maa.org/math-competitions/putnam-competition)
 
+- [MIT Putnam Prof](http://yufeizhao.com/)
+
+- [18.A34 Fall 2019](http://yufeizhao.com/a34/), [18.A34 Fall 2018](http://yufeizhao.com/a34/fa18/), [18.A34 Fall 2017](http://yufeizhao.com/a34/fa17/)
+
+- [Putnam Homepage](http://math.scu.edu/putnam/)
+
+- [Course 18 Source](https://ocw.mit.edu/courses/find-by-number/)
+
+- Putnam Source Material: [Math StackExchange](https://math.stackexchange.com/questions/1170456/books-preparatory-for-putnam-exam), [Quora](https://www.quora.com/What-is-the-best-way-to-prepare-for-the-Putnam-Competition), [Stanford vs UCLA](https://web.stanford.edu/~cm5/putnam.html)
+
 https://old.reddit.com/r/dartmouth/comments/esh7mg/it_was_40_degrees_in_miami_beach_today/
 
 https://old.reddit.com/r/dartmouth/comments/eoy8mi/i_want_to_transfer_before_even_starting/
