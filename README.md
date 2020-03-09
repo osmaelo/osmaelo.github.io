@@ -497,3 +497,5 @@ http://nautil.us/issue/82/panpsychism/is-matter-conscious-rp
 https://news.ycombinator.com/item?id=22463638
 
 https://www.nytimes.com/2020/03/03/magazine/hideo-kojima-death-stranding-video-game.html?action=click&module=Top%20Stories&pgtype=Homepage
+
+Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ffjfj4/i_just_built_a_collapseready_laptop_what_are_some/) + [Source](https://back7.co/home/raspberry-pi-recovery-kit)
