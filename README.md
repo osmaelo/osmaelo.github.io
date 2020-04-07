@@ -505,3 +505,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Concentric Circle Calendar: [YN](https://news.ycombinator.com/item?id=22591818) + [Source](https://twitter.com/Vector_GL/status/1239512837325758464)
 
 * Outbreak Simulation: [YN](https://news.ycombinator.com/item?id=22596158) + [Source](https://meltingasphalt.com/interactive/outbreak/)
+
+* Introductory Physics Material: Physics Travel Guide [HN](https://news.ycombinator.com/item?id=22757466) + [Source](https://physicstravelguide.com/)
