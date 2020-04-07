@@ -519,3 +519,9 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * How to actually learn CS [Reddit](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
 
 * Math Text Book Source [Reddit](https://www.reddit.com/r/math/comments/fqfyce/i_have_made_a_website_aggregating_free/) + [Source](https://realnotcomplex.com/)
+
+* Set up your own Kubernetes Cluster: [HN](https://news.ycombinator.com/item?id=22661029) + [Source 1](https://k3s.io/) + [Source 2](https://microk8s.io/)
+
+* Three Typefaces for math: [HN](https://news.ycombinator.com/item?id=22660733) + [Source](http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf)
+
+* Beer Distribution Game: [HN](https://news.ycombinator.com/item?id=22663332) + [Wikipedia Source](https://en.wikipedia.org/wiki/Beer_distribution_game)
