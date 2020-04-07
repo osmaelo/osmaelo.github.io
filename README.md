@@ -509,3 +509,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Introductory Physics Material: Physics Travel Guide [HN](https://news.ycombinator.com/item?id=22757466) + [Source](https://physicstravelguide.com/)
 
 * how to manage HTML DOM [HN](https://news.ycombinator.com/item?id=22758218) + [Source](https://htmldom.dev/)
+
+* Stanford's Susskind's The Theoretical Minimum: [HN](https://news.ycombinator.com/item?id=22682837) + [Source](http://theoreticalminimum.com/home)
