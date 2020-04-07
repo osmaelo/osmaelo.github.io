@@ -526,4 +526,4 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 
 * Beer Distribution Game: [HN](https://news.ycombinator.com/item?id=22663332) + [Wikipedia Source](https://en.wikipedia.org/wiki/Beer_distribution_game)
 
-* Cambridge University Math Books: [Reddit](https://www.reddit.com/r/math/comments/fkbzac/psa_all_cambridge_university_texts_textbooks_are/) + [Source](https://www.cambridge.org/core/what-we-publish/textbooks)
+* **Cambridge University Math Books: [Reddit](https://www.reddit.com/r/math/comments/fkbzac/psa_all_cambridge_university_texts_textbooks_are/) + [Source](https://www.cambridge.org/core/what-we-publish/textbooks)**
