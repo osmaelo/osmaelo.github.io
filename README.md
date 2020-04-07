@@ -511,3 +511,7 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * how to manage HTML DOM [HN](https://news.ycombinator.com/item?id=22758218) + [Source](https://htmldom.dev/)
 
 * Stanford's Susskind's The Theoretical Minimum: [HN](https://news.ycombinator.com/item?id=22682837) + [Source](http://theoreticalminimum.com/home)
+
+* Mathematical Concepts - [HN](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians) + [Source](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians)
+
+* When Einstein was just another physicist - [HN](https://news.ycombinator.com/item?id=22681773) + [Source](https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/)
