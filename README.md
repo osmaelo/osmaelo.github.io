@@ -515,3 +515,7 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Mathematical Concepts - [HN](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians) + [Source](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians)
 
 * When Einstein was just another physicist - [HN](https://news.ycombinator.com/item?id=22681773) + [Source](https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/)
+
+* How to actually learn CS [Reddit](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
+
+* Math Text Book Source [Reddit](https://www.reddit.com/r/math/comments/fqfyce/i_have_made_a_website_aggregating_free/) + [Source](https://realnotcomplex.com/)
