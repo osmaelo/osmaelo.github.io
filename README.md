@@ -535,3 +535,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * CSS Grid: https://cssgrid.io/
 
 * Introduction to Logic: [Reddit](https://www.reddit.com/r/math/comments/fymg3p/introduction_to_logic/) + [Stanford Source](http://logic.stanford.edu/intrologic/homepage/index.html)
+
+* MIT How to Speak: [HN](https://news.ycombinator.com/item?id=22848034) + [MIT Source](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
