@@ -533,3 +533,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Understanding Maxwell's Theory: [HN](https://news.ycombinator.com/item?id=22810867) + [Source](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 
 * CSS Grid: https://cssgrid.io/
+
+* Introduction to Logic: [Reddit](https://www.reddit.com/r/math/comments/fymg3p/introduction_to_logic/) + [Stanford Source](http://logic.stanford.edu/intrologic/homepage/index.html)
