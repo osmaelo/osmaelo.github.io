@@ -537,3 +537,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Introduction to Logic: [Reddit](https://www.reddit.com/r/math/comments/fymg3p/introduction_to_logic/) + [Stanford Source](http://logic.stanford.edu/intrologic/homepage/index.html)
 
 * MIT How to Speak: [HN](https://news.ycombinator.com/item?id=22848034) + [MIT Source](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
+
+* Does Time Really Flow? [HN](https://news.ycombinator.com/item?id=22848766) + [Quant Magazine Source](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
