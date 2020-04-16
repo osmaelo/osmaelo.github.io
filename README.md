@@ -539,3 +539,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * MIT How to Speak: [HN](https://news.ycombinator.com/item?id=22848034) + [MIT Source](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
 
 * Does Time Really Flow? [HN](https://news.ycombinator.com/item?id=22848766) + [Quant Magazine Source](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+
+* The New Math Bridge Beyond Fermat’s Last Theorem: [HN1](https://news.ycombinator.com/item?id=22854582) + [HN2](https://news.ycombinator.com/item?id=22809632) + [Source](https://www.wired.com/story/the-new-math-bridge-beyond-fermats-last-theorem/)
