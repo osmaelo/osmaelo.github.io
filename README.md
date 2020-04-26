@@ -543,3 +543,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * The New Math Bridge Beyond Fermat’s Last Theorem: [HN1](https://news.ycombinator.com/item?id=22854582) + [HN2](https://news.ycombinator.com/item?id=22809632) + [Wired Source](https://www.wired.com/story/the-new-math-bridge-beyond-fermats-last-theorem/) + [Quant Source](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
 
 * Codepen for Bezier Curve: https://codepen.io/enotix364/pen/jONmQrE
+
+* The Wolfram Physics Project: https://www.wolframphysics.org/ + https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/ + https://news.ycombinator.com/item?id=22866284
