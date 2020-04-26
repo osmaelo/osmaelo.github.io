@@ -541,3 +541,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Does Time Really Flow? [HN](https://news.ycombinator.com/item?id=22848766) + [Quant Magazine Source](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
 
 * The New Math Bridge Beyond Fermat’s Last Theorem: [HN1](https://news.ycombinator.com/item?id=22854582) + [HN2](https://news.ycombinator.com/item?id=22809632) + [Wired Source](https://www.wired.com/story/the-new-math-bridge-beyond-fermats-last-theorem/) + [Quant Source](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
+
+* Codepen for Bezier Curve: https://codepen.io/enotix364/pen/jONmQrE
