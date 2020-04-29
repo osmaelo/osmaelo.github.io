@@ -545,3 +545,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * Codepen for Bezier Curve: https://codepen.io/enotix364/pen/jONmQrE
 
 * The Wolfram Physics Project: https://www.wolframphysics.org/ + https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/ + https://news.ycombinator.com/item?id=22866284
+
+* What to know about React: https://bitsofco.de/what-i-wish-i-knew-about-react/ + https://news.ycombinator.com/item?id=23005929
