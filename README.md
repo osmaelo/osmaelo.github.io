@@ -549,3 +549,5 @@ Collapse Ready Laptop: [Reddit](https://www.reddit.com/r/DataHoarder/comments/ff
 * What to know about React: https://bitsofco.de/what-i-wish-i-knew-about-react/ + https://news.ycombinator.com/item?id=23005929
 
 * https://www.linkedin.com/learning/learning-the-python-3-standard-library/welcome?u=2968794
+
+* [The Tech Article on journey of student, grad student then professor at MIT](https://thetech.com/2020/05/14/jason-ku-reflects)
