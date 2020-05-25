@@ -558,3 +558,9 @@ Tips for the D: https://news.ycombinator.com/item?id=22536437
 
 Corporate Research Labs and their death: https://news.ycombinator.com/item?id=23246672
 
+Small Website Steps: https://www.reddit.com/r/learnprogramming/comments/gmbkif/a_nononsense_guide_how_to_code_and_launch_your/
+
+Conway Knot Problem Solved: [Quanta Magazine](https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/) + [Reddit](https://www.reddit.com/r/math/comments/gmxm3i/graduate_student_solves_decadesold_conway_knot/) + [HN](https://news.ycombinator.com/item?id=23236599)
+
+Regex Training: https://refrf.shreyasminocha.me/
+
