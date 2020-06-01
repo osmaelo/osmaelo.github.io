@@ -569,3 +569,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * NandGame: [Source](http://nandgame.com/) + [Reddit](https://www.reddit.com/r/gifs/comments/gtegtc/logic_gates_using_fluid/)
 
 * Reddit's [ThePlace](https://www.reddit.com/r/place/comments/66bwda/rplace_has_been_archived/)
+
+* Codepen: [Heart](https://codepen.io/chrisgannon/pen/BaNoGMN), [Squares](https://codepen.io/soju22/pen/jOErGWO)
