@@ -571,3 +571,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Reddit's [ThePlace](https://www.reddit.com/r/place/comments/66bwda/rplace_has_been_archived/)
 
 * Codepen: [Heart](https://codepen.io/chrisgannon/pen/BaNoGMN), [Squares](https://codepen.io/soju22/pen/jOErGWO)
+
+* [Readme Advice](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/)
