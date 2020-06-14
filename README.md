@@ -577,3 +577,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) + [HN](https://news.ycombinator.com/item?id=23474846) + [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
 * [PhD at 66](https://news.ycombinator.com/item?id=23453087)
+
+* [How not to do Cryptography via Brown](https://news.ycombinator.com/item?id=23384227)
