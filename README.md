@@ -575,3 +575,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Readme Advice](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/)
 
 * [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) + [HN](https://news.ycombinator.com/item?id=23474846) + [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+
+* [PhD at 66](https://news.ycombinator.com/item?id=23453087)
