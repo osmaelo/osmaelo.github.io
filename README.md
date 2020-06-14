@@ -581,3 +581,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [How not to do Cryptography via Brown](https://news.ycombinator.com/item?id=23384227)
 
 * [MIT Theoretical Physics Olympiad](https://thetech.com/2020/05/29/mit-team-wins-itpo-2020)
+
+* [Learn more about the terminal](https://astrobiomike.github.io/unix/modifying_your_path)!!!
