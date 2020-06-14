@@ -579,3 +579,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [PhD at 66](https://news.ycombinator.com/item?id=23453087)
 
 * [How not to do Cryptography via Brown](https://news.ycombinator.com/item?id=23384227)
+
+* [MIT Theoretical Physics Olympiad](https://thetech.com/2020/05/29/mit-team-wins-itpo-2020)
