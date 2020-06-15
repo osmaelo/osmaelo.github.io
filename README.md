@@ -585,3 +585,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Learn more about the terminal](https://astrobiomike.github.io/unix/modifying_your_path)!!!
 
 * [Webcamp in 2020?](https://pi.reddit.com/r/learnprogramming/comments/fjgcya/the_odin_project_still_worth_to_go_through_in_2020/)
+
+* [Ghosn Escape](https://www.bloomberg.com/news/features/2020-01-14/how-nissan-s-carlos-ghosn-was-smuggled-out-of-japan)
