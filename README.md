@@ -583,3 +583,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [MIT Theoretical Physics Olympiad](https://thetech.com/2020/05/29/mit-team-wins-itpo-2020)
 
 * [Learn more about the terminal](https://astrobiomike.github.io/unix/modifying_your_path)!!!
+
+* [Webcamp in 2020?](https://pi.reddit.com/r/learnprogramming/comments/fjgcya/the_odin_project_still_worth_to_go_through_in_2020/)
