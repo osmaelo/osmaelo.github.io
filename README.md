@@ -591,3 +591,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Simple CSS: [HN](https://news.ycombinator.com/item?id=23220081) + [Source](https://newcss.net) +[Github](https://github.com/dohliam/dropin-minimal-css)
 
 * CSS Hexagon: [HN](https://news.ycombinator.com/item?id=23577061) + [Source](https://ninjarockstar.dev/css-hex-grids/)
+
+* [Copenhagen](https://energymachines.com/en/contact/)
