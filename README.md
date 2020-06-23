@@ -593,3 +593,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * CSS Hexagon: [HN](https://news.ycombinator.com/item?id=23577061) + [Source](https://ninjarockstar.dev/css-hex-grids/)
 
 * [Copenhagen](https://energymachines.com/en/contact/)
+
+* [Math Geneology via Reddit](https://www.reddit.com/r/math/comments/hdkv34/the_mathematics_geneology_project_website_is_down/)
