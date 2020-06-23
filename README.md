@@ -595,3 +595,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Copenhagen](https://energymachines.com/en/contact/)
 
 * [Math Geneology via Reddit](https://www.reddit.com/r/math/comments/hdkv34/the_mathematics_geneology_project_website_is_down/)
+
+* [HN Security Cam](https://news.ycombinator.com/item?id=23593439)
