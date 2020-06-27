@@ -599,3 +599,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [HN Security Cam](https://news.ycombinator.com/item?id=23593439)
 
 * [Wikipedia SPARQL](https://news.ycombinator.com/item?id=23639090)
+
+* [A Physicist Trying to Fix Quantum Mechanics via nytimes](https://news.ycombinator.com/item?id=23648753)
