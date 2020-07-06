@@ -603,3 +603,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [A Physicist Trying to Fix Quantum Mechanics via nytimes](https://news.ycombinator.com/item?id=23648753)
 
 * [SVG Patterns with JS](https://news.ycombinator.com/item?id=23673534) + [Source](https://riccardoscalco.it/textures/)
+
+* Poker API: [Source](https://www.pokerapi.dev/) + [AI](https://news.ycombinator.com/item?id=23741229)
