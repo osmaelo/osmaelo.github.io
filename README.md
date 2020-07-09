@@ -7,6 +7,8 @@
 
 [Fractions and p-adic numbers Real numbers and limits Math Foundations 90 N J Wildberger](https://www.youtube.com/watch?v=XXRwlo_MHnI)
 
+[6 Bit Memory](https://www.youtube.com/watch?v=mD8bo7a3zF4)
+
 ### Programming and Computer Science:
 
 CHECK ALL FORKED REPOSITORIES
