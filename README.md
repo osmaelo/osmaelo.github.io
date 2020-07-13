@@ -609,3 +609,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Poker API: [Source](https://www.pokerapi.dev/) + [AI](https://news.ycombinator.com/item?id=23741229)
 
 * Ridiculous Math Problems: [Brown](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html) + [HN](https://news.ycombinator.com/item?id=23739243)
+
+* Acute Triangle: https://www.reddit.com/r/math/comments/hp1uar/whats_the_probability_that_a_random_triangle_is/
