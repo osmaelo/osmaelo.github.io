@@ -611,3 +611,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Ridiculous Math Problems: [Brown](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html) + [HN](https://news.ycombinator.com/item?id=23739243)
 
 * Acute Triangle: https://www.reddit.com/r/math/comments/hp1uar/whats_the_probability_that_a_random_triangle_is/
+
+* [Data Structures and Algos Used at work](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
