@@ -613,3 +613,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Acute Triangle: https://www.reddit.com/r/math/comments/hp1uar/whats_the_probability_that_a_random_triangle_is/
 
 * [Data Structures and Algos Used at work](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+
+* Github Gems via Reddit: https://www.reddit.com/r/web_design/comments/htpm7z/githubio_gems/
+
+* Random Reddit Interviewing Tips: https://www.reddit.com/r/cscareerquestions/comments/htrai2/how_to_get_a_software_engineering_internship_at_a/
