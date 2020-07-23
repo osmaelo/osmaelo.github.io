@@ -617,3 +617,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Github Gems via Reddit: https://www.reddit.com/r/web_design/comments/htpm7z/githubio_gems/
 
 * Random Reddit Interviewing Tips: https://www.reddit.com/r/cscareerquestions/comments/htrai2/how_to_get_a_software_engineering_internship_at_a/
+
+* Seattle Kraken: https://www.seattlekrakenhockey.com/
