@@ -629,3 +629,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Prime Numbers: [HN](https://news.ycombinator.com/item?id=23917367) + [Quant Magazine](https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/)
 
 * Quantum Toolbox in Python QuTiP: http://qutip.org/
+
+* Law of UX for the Web: https://redd.it/i2l0gg and https://redd.it/i2fp1e
