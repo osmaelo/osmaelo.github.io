@@ -623,3 +623,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Hiring Without Whiteboards: https://news.ycombinator.com/item?id=23981795
 
 * Portfolio Example: https://www.reddit.com/r/web_design/comments/huiiyf/one_of_the_best_portfolios_ive_seen/
+
+* New Multiplication: [HN](https://news.ycombinator.com/item?id=23919869) + [Quant Magazine](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
