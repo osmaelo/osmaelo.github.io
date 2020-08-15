@@ -639,3 +639,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Write your own virtual machine: [HN](https://news.ycombinator.com/item?id=24166137) + [Source](https://justinmeiners.github.io/lc3-vm/)
 
 * Unicode in Five Minutes: [HN](https://news.ycombinator.com/item?id=24157201) + [Source](https://richardjharris.github.io/unicode-in-five-minutes.html)
+
+* Fogg Model Behavior for Procrastination: https://news.ycombinator.com/item?id=24120275
+
+* Simon's Algorithm: [HN](https://news.ycombinator.com/item?id=24072037) + [Source](https://leimao.github.io/blog/Simon-Algorithm/)
