@@ -636,4 +636,6 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * Homepage Example: https://gkoberger.com/ + [Source](https://news.ycombinator.com/item?id=24135032)
 
-* Write your own virtual machine: [HN]() + [Source](https://justinmeiners.github.io/lc3-vm/)
+* Write your own virtual machine: [HN](https://news.ycombinator.com/item?id=24166137) + [Source](https://justinmeiners.github.io/lc3-vm/)
+
+* Unicode in Five Minutes: [HN](https://news.ycombinator.com/item?id=24157201) + [Source](https://richardjharris.github.io/unicode-in-five-minutes.html)
