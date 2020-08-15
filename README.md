@@ -635,3 +635,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Law of UX for the Web: https://redd.it/i2l0gg and https://redd.it/i2fp1e
 
 * Homepage Example: https://gkoberger.com/ + [Source](https://news.ycombinator.com/item?id=24135032)
+
+* Write your own virtual machine: [HN]() + [Source](https://justinmeiners.github.io/lc3-vm/)
