@@ -633,3 +633,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Quantum Toolbox in Python QuTiP: http://qutip.org/
 
 * Law of UX for the Web: https://redd.it/i2l0gg and https://redd.it/i2fp1e
+
+* Homepage Example: https://gkoberger.com/ + [Source](https://news.ycombinator.com/item?id=24135032)
