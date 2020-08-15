@@ -9,6 +9,8 @@
 
 [6 Bit Memory](https://www.youtube.com/watch?v=mD8bo7a3zF4)
 
+Online Photoshop Alternative, Photopea: [Reddit](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/) + [photopea.com](https://www.photopea.com/)
+
 ### Programming and Computer Science:
 
 CHECK ALL FORKED REPOSITORIES
