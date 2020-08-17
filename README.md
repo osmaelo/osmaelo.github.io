@@ -645,3 +645,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Simon's Algorithm: [HN](https://news.ycombinator.com/item?id=24072037) + [Source](https://leimao.github.io/blog/Simon-Algorithm/)
 
 * Oh Sh!t, Git: https://news.ycombinator.com/item?id=24173238 + https://ohshitgit.com/
+
+* MicroPython for embedded systems: https://news.ycombinator.com/item?id=24166861 + https://micropython.org/
