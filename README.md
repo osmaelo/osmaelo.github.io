@@ -647,3 +647,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Oh Sh!t, Git: https://news.ycombinator.com/item?id=24173238 + https://ohshitgit.com/
 
 * MicroPython for embedded systems: https://news.ycombinator.com/item?id=24166861 + https://micropython.org/
+
+* Work from Home Advice: https://news.ycombinator.com/item?id=24196433
+
+* Video Game Systems Architecture: https://www.copetti.org/projects/consoles/ + https://news.ycombinator.com/item?id=24195751
