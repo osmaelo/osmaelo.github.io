@@ -655,3 +655,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Kindergarden Quantum Mechanics:  https://news.ycombinator.com/item?id=24130443
 
 * German Self Taught Developer: https://www.reddit.com/r/cscareerquestionsEU/comments/hv4uuc/selftaught_developer_from_germany_can_i_have_some/ + https://larapollehn.de/
+
+* Learn C++: https://www.learncpp.com/ + https://www.codecademy.com/learn/learn-c-plus-plus
