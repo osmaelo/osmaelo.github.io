@@ -651,3 +651,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Work from Home Advice: https://news.ycombinator.com/item?id=24196433
 
 * Video Game Systems Architecture: https://www.copetti.org/projects/consoles/ + https://news.ycombinator.com/item?id=24195751
+
+* Kindergarden Quantum Mechanics:  https://news.ycombinator.com/item?id=24130443
