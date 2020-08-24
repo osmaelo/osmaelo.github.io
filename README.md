@@ -653,3 +653,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Video Game Systems Architecture: https://www.copetti.org/projects/consoles/ + https://news.ycombinator.com/item?id=24195751
 
 * Kindergarden Quantum Mechanics:  https://news.ycombinator.com/item?id=24130443
+
+* German Self Taught Developer: https://www.reddit.com/r/cscareerquestionsEU/comments/hv4uuc/selftaught_developer_from_germany_can_i_have_some/ + https://larapollehn.de/
