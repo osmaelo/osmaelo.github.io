@@ -659,3 +659,13 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Learn C++: https://www.learncpp.com/ + https://www.codecademy.com/learn/learn-c-plus-plus
 
 * [Source to Encourage Learning Python Learning](https://www.reddit.com/r/learnprogramming/comments/ic8hls/why_this_sub_is_so_important_take_advantage_people/) + [Python Learning Source](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
+
+* Minimal Web Development: https://news.ycombinator.com/item?id=24294171 + https://meiert.com/en/blog/minimal-web-development/
+
+* Syllabus for Eric's PhD Students: https://news.ycombinator.com/item?id=24274699
+
+* Great personal page example: http://eegilbert.org/ (note: look for the previously saved Stanford professor one with great drawings)
+
+* WSJ short short article: http://archive.is/xbOuG + I Never Thought I’d Write This: I Am a Female Bodybuilder: http://archive.is/HhdeD
+
+* 
