@@ -673,3 +673,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Remembering what you Read: Zettelkasten vs. P.A.R.A: https://news.ycombinator.com/item?id=24251068 + https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/
 
 * Why You Will Marry the Wrong Person: http://archive.is/aa6wF + https://news.ycombinator.com/item?id=24260004
+
+* Fourteen Eyes: https://news.ycombinator.com/item?id=24272244 + https://www.privacytools.io/providers/#ukusa
+
+* Loading a URL: https://news.ycombinator.com/item?id=24270093 + https://danluu.com/navigate-url/
