@@ -668,4 +668,8 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * WSJ short short article: http://archive.is/xbOuG + I Never Thought I’d Write This: I Am a Female Bodybuilder: http://archive.is/HhdeD
 
-* 
+* Mechanical Turing Machine in Wood: https://news.ycombinator.com/item?id=24259765 + https://www.youtube.com/watch?v=vo8izCKHiF0
+
+* Remembering what you Read: Zettelkasten vs. P.A.R.A: https://news.ycombinator.com/item?id=24251068 + https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/
+
+* Why You Will Marry the Wrong Person: http://archive.is/aa6wF + https://news.ycombinator.com/item?id=24260004
