@@ -679,3 +679,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Loading a URL: https://news.ycombinator.com/item?id=24270093 + https://danluu.com/navigate-url/
 
 * I've reviewed thousands of applications for university recruiting at a startup. Here’s a bit of what I look for when reviewing an application. [Part 1](https://www.reddit.com/r/cscareerquestions/comments/inrex1/ive_reviewed_thousands_of_applications_for/) [Part 2](https://www.reddit.com/r/cscareerquestions/comments/irjodn/ive_reviewed_thousands_of_applications_for/)
+
+* Euclid Numbers: [reddit](https://www.reddit.com/r/math/comments/ip69e7/just_discovered_an_interesting_number_that_was/) + [prime factors](https://www.integers.co/questions-answers/what-is-the-prime-factorization-of-the-number-30031.html)
