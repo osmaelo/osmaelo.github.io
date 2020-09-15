@@ -683,3 +683,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Euclid Numbers: [reddit](https://www.reddit.com/r/math/comments/ip69e7/just_discovered_an_interesting_number_that_was/) + [prime factors](https://www.integers.co/questions-answers/what-is-the-prime-factorization-of-the-number-30031.html)
 
 * Math Research: [Reddit](https://www.reddit.com/r/math/comments/ikoz8u/does_good_research_get_noticed/) + https://arxiv.org/
+
+* Raspberry Pi as a local server: https://news.ycombinator.com/item?id=24474309 + https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/
