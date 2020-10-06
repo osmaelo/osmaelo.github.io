@@ -666,7 +666,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * Great personal page example: http://eegilbert.org/ (note: look for the previously saved Stanford professor one with great drawings)
 
-* WSJ short short article: http://archive.is/xbOuG + I Never Thought I’d Write This: I Am a Female Bodybuilder: http://archive.is/HhdeD
+* WSJ short short article: http://archive.is/xbOuG + I Never Thought I’d Write This: I Am a Female Bodybuilder: http://archive.is/HhdeD + http://archive.is/IkUbX
 
 * Mechanical Turing Machine in Wood: https://news.ycombinator.com/item?id=24259765 + https://www.youtube.com/watch?v=vo8izCKHiF0
 
