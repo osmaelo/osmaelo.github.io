@@ -685,3 +685,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Math Research: [Reddit](https://www.reddit.com/r/math/comments/ikoz8u/does_good_research_get_noticed/) + https://arxiv.org/
 
 * Raspberry Pi as a local server: https://news.ycombinator.com/item?id=24474309 + https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/
+
+* [How to Become a Licensed Electrician in California](https://www.sjvc.edu/blog/how-to-become-an-electrician-in-california/)
