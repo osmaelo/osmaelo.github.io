@@ -687,3 +687,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Raspberry Pi as a local server: https://news.ycombinator.com/item?id=24474309 + https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/
 
 * [How to Become a Licensed Electrician in California](https://www.sjvc.edu/blog/how-to-become-an-electrician-in-california/)
+
+* [Computer Scientists Break Traveling Salesperson Record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
