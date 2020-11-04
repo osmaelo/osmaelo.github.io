@@ -694,3 +694,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Solving 1.5 Factorial: [Reddit](https://www.reddit.com/r/math/comments/j5o2dw/how_would_i_go_about_solving_15_factorial/)
 
 * Complete Docker Course: [Reddit](https://www.reddit.com/r/webdev/comments/jhbkjs/complete_docker_course_3_hours_free/)
+
+* [Gravity is not a force](https://timhutton.github.io/GravityIsNotAForce/) + [HN](https://news.ycombinator.com/item?id=24821141)
+
+* [Data engineering learning path with recommended resources](https://awesomedataengineering.com/) + [HN](https://news.ycombinator.com/item?id=24817630)
