@@ -15,6 +15,7 @@ Online Photoshop Alternative, Photopea: [Reddit](https://www.reddit.com/r/IAmA/c
 
 CHECK ALL FORKED REPOSITORIES
 * **[Teach Yourself Computer Science](https://teachyourselfcs.com/)**
+* **[Foundations of Software Engineering cmu-313.github.io](https://cmu-313.github.io/) + [HN](https://news.ycombinator.com/item?id=24949322)**
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
