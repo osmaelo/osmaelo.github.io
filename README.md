@@ -698,3 +698,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Gravity is not a force](https://timhutton.github.io/GravityIsNotAForce/) + [HN](https://news.ycombinator.com/item?id=24821141)
 
 * [Data engineering learning path with recommended resources](https://awesomedataengineering.com/) + [HN](https://news.ycombinator.com/item?id=24817630)
+
+* Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
