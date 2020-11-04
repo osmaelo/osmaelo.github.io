@@ -692,3 +692,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Computer Scientists Break Traveling Salesperson Record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
 
 * Solving 1.5 Factorial: [Reddit](https://www.reddit.com/r/math/comments/j5o2dw/how_would_i_go_about_solving_15_factorial/)
+
+* Complete Docker Course: [Reddit](https://www.reddit.com/r/webdev/comments/jhbkjs/complete_docker_course_3_hours_free/)
