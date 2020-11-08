@@ -17,6 +17,7 @@ CHECK ALL FORKED REPOSITORIES
 * **[Teach Yourself Computer Science](https://teachyourselfcs.com/)**
 * **[Foundations of Software Engineering cmu-313.github.io](https://cmu-313.github.io/) + [HN](https://news.ycombinator.com/item?id=24949322)**
 * **[C++ Course (The Basics)](https://www.youtube.com/playlist?list=PLg4AoophFZWZ7Llifowo-1WGMVICq-mfw) + [HN](https://news.ycombinator.com/item?id=24863020)**
+* **[Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)**
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
 * [Key Python Words via Reddit](https://www.reddit.com/r/learnprogramming/comments/cj2qbn/if_youre_interested_in_learning_python_theres/)
@@ -701,3 +702,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Data engineering learning path with recommended resources](https://awesomedataengineering.com/) + [HN](https://news.ycombinator.com/item?id=24817630)
 
 * Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
+
+* [Puzzle Games](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
