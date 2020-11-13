@@ -704,3 +704,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
 
 * [Puzzle Games](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+
+* [Linux](https://linuxjourney.com/)
