@@ -707,3 +707,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Puzzle Games](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 
 * [Linux](https://linuxjourney.com/)
+
+* Paul's Math Notes: [Source](https://tutorial.math.lamar.edu/) + [HN](https://news.ycombinator.com/item?id=25081297)
