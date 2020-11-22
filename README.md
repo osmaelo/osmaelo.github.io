@@ -709,3 +709,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Linux](https://linuxjourney.com/)
 
 * Paul's Math Notes: [Source](https://tutorial.math.lamar.edu/) + [HN](https://news.ycombinator.com/item?id=25081297)
+
+* MacOS to Linux: https://monadical.com/posts/moving-to-linux-desktop.html + https://news.ycombinator.com/item?id=25163685
