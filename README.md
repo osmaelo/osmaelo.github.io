@@ -711,3 +711,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Paul's Math Notes: [Source](https://tutorial.math.lamar.edu/) + [HN](https://news.ycombinator.com/item?id=25081297)
 
 * MacOS to Linux: https://monadical.com/posts/moving-to-linux-desktop.html + https://news.ycombinator.com/item?id=25163685
+
+* The Math of Password Hashing Algorithms and Entropy: https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/ + https://news.ycombinator.com/item?id=25133061
