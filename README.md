@@ -18,6 +18,7 @@ CHECK ALL FORKED REPOSITORIES
 * **[Foundations of Software Engineering cmu-313.github.io](https://cmu-313.github.io/) + [HN](https://news.ycombinator.com/item?id=24949322)**
 * **[C++ Course (The Basics)](https://www.youtube.com/playlist?list=PLg4AoophFZWZ7Llifowo-1WGMVICq-mfw) + [HN](https://news.ycombinator.com/item?id=24863020)**
 * **[Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)**
+* Google Photos Migration: https://www.reddit.com/r/selfhosted/comments/k1i0bw/i_wrote_a_detailed_guide_to_help_people_get_their/ + https://robbie.antenesse.net/2020/11/25/exporting-google-photos.html
 * Internet options: https://www.hughesnet.com/get-started + https://unlimitedville.com/plans
 * Need to complete [projects!](https://www.reddit.com/r/learnprogramming/comments/cx5s3v/project_ideas_for_people_without_a_project/) and more from the [comments](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/) and here [too](https://docs.python.org/3/library/socket.html)
 * [Use Electron to build desktop apps with web technologies](https://electronjs.org/)
