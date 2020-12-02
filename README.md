@@ -716,3 +716,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * The Math of Password Hashing Algorithms and Entropy: https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/ + https://news.ycombinator.com/item?id=25133061
 
 * Course 18 straigt to grad school: https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
+
+* Why would you use Docker?: https://www.reddit.com/r/learnprogramming/comments/k46m23/why_would_you_use_docker/
