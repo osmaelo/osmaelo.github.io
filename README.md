@@ -718,3 +718,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Course 18 straigt to grad school: https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
 
 * Why would you use Docker?: https://www.reddit.com/r/learnprogramming/comments/k46m23/why_would_you_use_docker/
+
+* Slide Puzzles: http://www.kopf.com.br/kaplof/how-to-solve-any-slide-puzzle-regardless-of-its-size + https://im-a-puzzle.com/
