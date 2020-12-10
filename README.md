@@ -728,3 +728,8 @@ Regex Training: https://refrf.shreyasminocha.me/
 * CSS in GitHub Readmes (github.com/sindresorhus): https://news.ycombinator.com/item?id=25349068
 
 * Ask HN: What's the best paper you've read in 2020?: https://news.ycombinator.com/item?id=25346456 + https://www.pnas.org/content/pnas/113/47/13283.full.pdf
+
+* Jane Street Puzzles: https://www.janestreet.com/puzzles/current-puzzle/ + https://news.ycombinator.com/item?id=25201326
+
+* Spell Checker: https://news.ycombinator.com/item?id=25296900
+
