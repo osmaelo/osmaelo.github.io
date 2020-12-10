@@ -720,3 +720,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Why would you use Docker?: https://www.reddit.com/r/learnprogramming/comments/k46m23/why_would_you_use_docker/
 
 * Slide Puzzles: http://www.kopf.com.br/kaplof/how-to-solve-any-slide-puzzle-regardless-of-its-size + https://im-a-puzzle.com/
+
+* An Elderly Mathematician Hacked the Lottery for $26M (entrepreneurshandbook.co): https://news.ycombinator.com/item?id=25333148 + https://math.berkeley.edu/~kpmann/ellenberg.pdf
+
+* Why is Apple's M1 chip so fast? (erik-engheim.medium.com): https://news.ycombinator.com/item?id=25257932
