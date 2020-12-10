@@ -724,3 +724,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * An Elderly Mathematician Hacked the Lottery for $26M (entrepreneurshandbook.co): https://news.ycombinator.com/item?id=25333148 + https://math.berkeley.edu/~kpmann/ellenberg.pdf
 
 * Why is Apple's M1 chip so fast? (erik-engheim.medium.com): https://news.ycombinator.com/item?id=25257932
+
+* CSS in GitHub Readmes (github.com/sindresorhus): https://news.ycombinator.com/item?id=25349068
+
+* Ask HN: What's the best paper you've read in 2020?: https://news.ycombinator.com/item?id=25346456 + https://www.pnas.org/content/pnas/113/47/13283.full.pdf
