@@ -733,3 +733,8 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * Spell Checker: https://news.ycombinator.com/item?id=25296900
 
+* Optical Engineering: https://news.ycombinator.com/item?id=25357315 + https://ciechanow.ski/cameras-and-lenses/ + https://www.paulcarlisle.net/codedaperture/
+
+* Math Keeps Changing: https://news.ycombinator.com/item?id=25296652
+
+* Quant Articles: https://www.quantamagazine.org/mathematician-solves-centuries-old-grazing-goat-problem-exactly-20201209/ + https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/
