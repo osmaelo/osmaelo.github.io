@@ -740,3 +740,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Quant Articles: https://www.quantamagazine.org/mathematician-solves-centuries-old-grazing-goat-problem-exactly-20201209/ + https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/
 
 * Centering in CSS: https://news.ycombinator.com/item?id=25447511 + https://web.dev/centering-in-css/
+
+* Autism: https://news.ycombinator.com/item?id=25484160
