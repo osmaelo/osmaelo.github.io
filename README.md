@@ -742,3 +742,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Centering in CSS: https://news.ycombinator.com/item?id=25447511 + https://web.dev/centering-in-css/
 
 * Autism: https://news.ycombinator.com/item?id=25484160
+
+* Hell Yes CSS: https://news.ycombinator.com/item?id=25505212 + https://wizardzines.com/zines/css/
