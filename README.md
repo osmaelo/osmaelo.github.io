@@ -744,3 +744,9 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Autism: https://news.ycombinator.com/item?id=25484160
 
 * Hell Yes CSS: https://news.ycombinator.com/item?id=25505212 + https://wizardzines.com/zines/css/
+
+* Algorithm Book suggestion: [Algos](https://www.reddit.com/r/learnprogramming/comments/kqa1x7/best_booksways_to_learn_algorithms_big_o/) + https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+
+* [Quitting a New Job](https://news.ycombinator.com/item?id=25637922) + https://yolken.net/
+
+* Guide on C++: http://www.cplusplus.com/
