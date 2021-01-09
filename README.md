@@ -750,3 +750,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Quitting a New Job](https://news.ycombinator.com/item?id=25637922) + https://yolken.net/
 
 * Guide on C++: http://www.cplusplus.com/
+
+* App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
