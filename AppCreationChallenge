@@ -1,0 +1,19 @@
+Can you do this?
+
+Task: Create an Express app with the following APIs:
+
+• Signup
+• Login
+• Create a gallery
+• Store gallery info in MySQL: name, date, type
+• Upload bulk images with upload progress in the gallery
+• Resize the image to create a thumbnail
+• Store the images (thumbnail, original) in AWS S3 or Any cloud services
+• Store image information in MySQL: name, extension, orientation, image URLs
+• List all galleries
+• List all images in the gallery
+• Download all images in the gallery
+• Delete gallery
+• Expected Technologies: NodeJS, ExpressJS, MySQL, JWT authentication
+
+After completing, please push the code in Github and host the app in Netlify.
