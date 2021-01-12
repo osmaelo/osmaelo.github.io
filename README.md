@@ -754,3 +754,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
 
 * How to become data scientist: https://news.ycombinator.com/item?id=25728198 + https://khashtamov.com/en/how-to-become-a-data-engineer/
+
+* Wireless Networking in Developing World: http://wndw.net/book.html#readBook + https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/gibe436/
