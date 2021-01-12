@@ -752,3 +752,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Guide on C++: http://www.cplusplus.com/
 
 * App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
+
+* How to become data scientist: https://news.ycombinator.com/item?id=25728198 + https://khashtamov.com/en/how-to-become-a-data-engineer/
