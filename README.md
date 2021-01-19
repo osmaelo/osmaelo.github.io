@@ -163,6 +163,22 @@ CHECK ALL FORKED REPOSITORIES
 * [It's later than you think](https://www.linkedin.com/pulse/its-later-than-you-think-j-r-storment/) + [HN Source](https://news.ycombinator.com/item?id=20928570)
 * The Three Bootcamps: [FCC](https://www.freecodecamp.org/learn/), [FSO](https://fullstackopen.com/en/), [Odin](https://www.theodinproject.com/dashboard)
 * Algorithm Question Training: [HackerRank](https://www.hackerrank.com/dashboard), [Leetcode](https://leetcode.com)
+* AJ Ellison Workout: https://www.greatestphysiques.com/male-physiques/aj-ellison/
+
+### Cryptocurrencies:
+
+* https://en.wikipedia.org/wiki/Ethereum
+* https://ethereum.org/en/
+* How Bitcoin Mining works: https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+* Everything about X via Reddit: https://www.reddit.com/r/math/wiki/everythingaboutx
+* Bitcoin FAQ via Reddit: https://www.reddit.com/r/BitcoinWiki/wiki/faq
+* Monero Reddit: https://www.reddit.com/r/Monero/
+* Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf
+* https://en.wikipedia.org/wiki/SHA-2
+* https://en.wikipedia.org/wiki/One-way_compression_function#Davies%E2%80%93Meyer
+* https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
+* Crypto Class: https://haseebq.com/introduction-to-cryptocurrency/
+* https://en.wikipedia.org/wiki/Cryptography
 
 ***
 Make sure to document links from keep.google.com and to sort and organize Bookmarks
@@ -756,3 +772,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * How to become data scientist: https://news.ycombinator.com/item?id=25728198 + https://khashtamov.com/en/how-to-become-a-data-engineer/
 
 * Wireless Networking in Developing World: http://wndw.net/book.html#readBook + https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/gibe436/
+
+* The Paradox of Abundance: https://news.ycombinator.com/item?id=25746315
