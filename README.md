@@ -774,3 +774,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Wireless Networking in Developing World: http://wndw.net/book.html#readBook + https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/gibe436/
 
 * The Paradox of Abundance: https://news.ycombinator.com/item?id=25746315
+
+* VIM Tutorial (try VIM Tutor first): https://www.vim.so/#exercise + https://news.ycombinator.com/item?id=25846347
