@@ -173,7 +173,7 @@ CHECK ALL FORKED REPOSITORIES
 * Everything about X via Reddit: https://www.reddit.com/r/math/wiki/everythingaboutx
 * Bitcoin FAQ via Reddit: https://www.reddit.com/r/BitcoinWiki/wiki/faq
 * Monero Reddit: https://www.reddit.com/r/Monero/
-* Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf
+* Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf + https://www.miamigov.com/files/sharedassets/public/bitcoin.pdf
 * https://en.wikipedia.org/wiki/SHA-2
 * https://en.wikipedia.org/wiki/One-way_compression_function#Davies%E2%80%93Meyer
 * https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
