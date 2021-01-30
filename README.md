@@ -780,3 +780,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Vaccinate CA: https://www.vaccinateca.com/ + https://news.ycombinator.com/item?id=25854797
 
 * [List of various programming resources I gathered over the past year via Reddit](https://www.reddit.com/r/learnprogramming/comments/l0ipjo/list_of_various_programming_resources_i_gathered/)
+
+* OO in Python is mostly pointless: https://leontrolski.github.io/mostly-pointless.html + https://news.ycombinator.com/item?id=25933121
