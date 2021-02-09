@@ -788,3 +788,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Art of the Cover Letter](https://www.theparisreview.org/blog/2021/01/27/the-art-of-the-cover-letter/) + https://news.ycombinator.com/item?id=26071954
 
 * [I followed my dreams to get demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/) + https://news.ycombinator.com/item?id=26066918
+
+* [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) + https://news.ycombinator.com/item?id=26036790
