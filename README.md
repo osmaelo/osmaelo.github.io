@@ -784,3 +784,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * OO in Python is mostly pointless: https://leontrolski.github.io/mostly-pointless.html + https://news.ycombinator.com/item?id=25933121
 
 * The Hundred-Page Machine Learning Book: http://themlbook.com/ + https://news.ycombinator.com/item?id=25905899
+
+* [Art of the Cover Letter](https://www.theparisreview.org/blog/2021/01/27/the-art-of-the-cover-letter/) + https://news.ycombinator.com/item?id=26071954
