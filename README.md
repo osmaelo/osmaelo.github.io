@@ -790,3 +790,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [I followed my dreams to get demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/) + https://news.ycombinator.com/item?id=26066918
 
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) + https://news.ycombinator.com/item?id=26036790
+
+* [THE FEMININE PHYSIQUE How bodybuilding’s major federation reins in the size of female athletes](https://believermag.com/the-feminine-physique/) + https://news.ycombinator.com/item?id=26056934
