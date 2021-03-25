@@ -794,3 +794,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [THE FEMININE PHYSIQUE How bodybuilding’s major federation reins in the size of female athletes](https://believermag.com/the-feminine-physique/) + https://news.ycombinator.com/item?id=26056934
 
 * Detects image duplicates: https://github.com/idealo/imagededup and getting started with electronjs: https://www.electronjs.org/docs/tutorial/quick-start
+
+* OpenAI suggested reading: https://www.deeplearningbook.org/
+
+* An Interactive Guide To The Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
