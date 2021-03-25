@@ -792,3 +792,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) + https://news.ycombinator.com/item?id=26036790
 
 * [THE FEMININE PHYSIQUE How bodybuilding’s major federation reins in the size of female athletes](https://believermag.com/the-feminine-physique/) + https://news.ycombinator.com/item?id=26056934
+
+* Detects image duplicates: https://github.com/idealo/imagededup and getting started with electronjs: https://www.electronjs.org/docs/tutorial/quick-start
