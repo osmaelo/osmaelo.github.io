@@ -800,3 +800,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * An Interactive Guide To The Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 
 * Euler's FizzBuzz: http://philcrissman.net/posts/eulers-fizzbuzz/ + https://redd.it/m6bkop
+
+* Duolingo: https://duome.eu/tips/en
