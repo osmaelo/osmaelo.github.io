@@ -798,3 +798,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * OpenAI suggested reading: https://www.deeplearningbook.org/
 
 * An Interactive Guide To The Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+
+* Euler's FizzBuzz: http://philcrissman.net/posts/eulers-fizzbuzz/ + https://redd.it/m6bkop
