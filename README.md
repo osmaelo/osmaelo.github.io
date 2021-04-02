@@ -802,3 +802,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Euler's FizzBuzz: http://philcrissman.net/posts/eulers-fizzbuzz/ + https://redd.it/m6bkop
 
 * Duolingo: https://duome.eu/tips/en
+
+* Pi and Nasa: https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ + https://redd.it/m54hal
