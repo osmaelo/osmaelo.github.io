@@ -806,3 +806,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Pi and Nasa: https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ + https://redd.it/m54hal
 
 * Mobile Homes: https://www.lancecamper.com/ + https://forestriverinc.com/rvs/ + https://escapod.us/ + https://droplet-trailer.com/ + https://aliner.com/
+
+* when feynman met dirac: https://news.ycombinator.com/item?id=26697227
+
+* HTML to PDF: https://news.ycombinator.com/item?id=26691626
