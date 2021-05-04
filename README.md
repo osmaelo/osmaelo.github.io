@@ -810,3 +810,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * when feynman met dirac: https://news.ycombinator.com/item?id=26697227
 
 * HTML to PDF: https://news.ycombinator.com/item?id=26691626
+
+* Computer Science from the Bottom Up: https://www.bottomupcs.com/
