@@ -812,3 +812,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * HTML to PDF: https://news.ycombinator.com/item?id=26691626
 
 * Computer Science from the Bottom Up: https://www.bottomupcs.com/
+
+* WikiDot: http://scp-wiki.wikidot.com/scp-2521 + https://news.ycombinator.com/item?id=27120460 + https://en.wikipedia.org/wiki/Human_Interference_Task_Force
