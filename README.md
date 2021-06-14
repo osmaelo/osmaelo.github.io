@@ -816,3 +816,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * WikiDot: http://scp-wiki.wikidot.com/scp-2521 + https://news.ycombinator.com/item?id=27120460 + https://en.wikipedia.org/wiki/Human_Interference_Task_Force
 
 * AirTag Emulator: https://animalhousefitness.com/products/monkeyfeet#shopify-product-reviews
+
+* [Apple's Messages take GB of valuable space](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/) + https://news.ycombinator.com/item?id=27319099
