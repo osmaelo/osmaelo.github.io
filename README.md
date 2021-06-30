@@ -820,3 +820,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Apple's Messages take GB of valuable space](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/) + https://news.ycombinator.com/item?id=27319099
 
 * [Richard Feynman's Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c) + https://news.ycombinator.com/item?id=27517685
+
+* Data Structures and Algorithms practice: https://structy.net/
