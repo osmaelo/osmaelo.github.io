@@ -823,3 +823,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * Data Structures and Algorithms practice: https://structy.net/
 * [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation) + https://news.ycombinator.com/item?id=27748967
+
+* [Mental Poker [pdf] (csail.mit.edu)](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)  + https://news.ycombinator.com/item?id=27734693
