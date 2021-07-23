@@ -827,3 +827,9 @@ Regex Training: https://refrf.shreyasminocha.me/
 * [Mental Poker [pdf] (csail.mit.edu)](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)  + https://news.ycombinator.com/item?id=27734693
 
 * [This Website is hosted on an Casio fx-9750GII Calculator (as203478.net)](https://news.ycombinator.com/item?id=27814080)
+
+* Always be quitting: https://news.ycombinator.com/item?id=27456222
+
+* What Makes Quantum Computing So Hard to Explain?: https://news.ycombinator.com/item?id=27439839
+
+* Anti Procrastination Vids: https://news.ycombinator.com/item?id=27853855
