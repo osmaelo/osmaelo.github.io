@@ -833,3 +833,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * What Makes Quantum Computing So Hard to Explain?: https://news.ycombinator.com/item?id=27439839
 
 * Anti Procrastination Vids: https://news.ycombinator.com/item?id=27853855
+
+* [The Poincaré Conjecture, Explained](https://www.privatdozent.co/p/the-poincare-conjecture) + https://news.ycombinator.com/item?id=28021562
