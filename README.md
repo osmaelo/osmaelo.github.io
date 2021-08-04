@@ -836,4 +836,6 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * [The Poincaré Conjecture, Explained](https://www.privatdozent.co/p/the-poincare-conjecture) + https://news.ycombinator.com/item?id=28021562
 
-* Galois Groups and the Symmetries of Polynomials + https://news.ycombinator.com/item?id=28058742
+* Galois Groups and the Symmetries of Polynomials: https://news.ycombinator.com/item?id=28058742
+
+* Going Mouseless: https://news.ycombinator.com/item?id=28045342
