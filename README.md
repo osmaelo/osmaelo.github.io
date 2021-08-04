@@ -835,3 +835,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Anti Procrastination Vids: https://news.ycombinator.com/item?id=27853855
 
 * [The Poincaré Conjecture, Explained](https://www.privatdozent.co/p/the-poincare-conjecture) + https://news.ycombinator.com/item?id=28021562
+
+* Galois Groups and the Symmetries of Polynomials + https://news.ycombinator.com/item?id=28058742
