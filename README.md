@@ -841,3 +841,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Going Mouseless: https://news.ycombinator.com/item?id=28045342
 
 * https://threejs.org/
+
+* [Security Tokes](https://en.wikipedia.org/wiki/Security_token) and [How Does Token-Based Authentication Work?](https://www.n-able.com/blog/how-does-token-based-authentication-work)
