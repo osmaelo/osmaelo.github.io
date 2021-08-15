@@ -846,3 +846,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * [Twenty Lectures on Algorithmic Game Theory](https://www.amazon.com/Twenty-Lectures-Algorithmic-Game-Theory/dp/131662479X) + [COMS 4995: Incentives in Computer Science
 ](http://www.cs.columbia.edu/~tr/s20/s20.html) + https://news.ycombinator.com/item?id=28121870
+
+* React and Three.js: https://news.ycombinator.com/item?id=28189977
