@@ -848,3 +848,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 ](http://www.cs.columbia.edu/~tr/s20/s20.html) + https://news.ycombinator.com/item?id=28121870
 
 * React and Three.js: https://news.ycombinator.com/item?id=28189977
+
+* Building circuits online: https://www.flux.ai/p
