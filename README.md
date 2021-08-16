@@ -850,3 +850,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * React and Three.js: https://news.ycombinator.com/item?id=28189977
 
 * Building circuits online: https://www.flux.ai/p
+
+* Apple iPhone Charger teardown: http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html
