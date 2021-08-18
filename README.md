@@ -852,3 +852,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Building circuits online: https://www.flux.ai/p
 
 * Apple iPhone Charger teardown: http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html
+
+* Cool Personal Page Example: https://www.reddit.com/r/learnprogramming/comments/p56rln/30_year_old_beginner_with_doubts/h941a4c/ + https://archive.is/BYefU
