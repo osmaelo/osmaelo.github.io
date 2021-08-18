@@ -856,3 +856,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Cool Personal Page Example: https://www.reddit.com/r/learnprogramming/comments/p56rln/30_year_old_beginner_with_doubts/h941a4c/ + https://archive.is/BYefU
 
 * Widelands Game: https://news.ycombinator.com/item?id=28196178
+
+* How to avoid being hit by a laser in a room of mirrors: https://news.ycombinator.com/item?id=28194883
+
+* The best books on assassinations: https://news.ycombinator.com/item?id=28191609 + https://fivebooks.com/best-books/assassination-michael-burleigh/
