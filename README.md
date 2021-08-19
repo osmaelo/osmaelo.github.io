@@ -860,3 +860,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * How to avoid being hit by a laser in a room of mirrors: https://news.ycombinator.com/item?id=28194883
 
 * The best books on assassinations: https://news.ycombinator.com/item?id=28191609 + https://fivebooks.com/best-books/assassination-michael-burleigh/
+
+* Breaking down a ripple animation in JavaScript: https://news.ycombinator.com/item?id=28234779
