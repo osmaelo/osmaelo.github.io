@@ -864,3 +864,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Breaking down a ripple animation in JavaScript: https://news.ycombinator.com/item?id=28234779
 
 * How Facetime works: https://news.ycombinator.com/item?id=28230789
+
+* Doom on an office phone and other items: https://news.ycombinator.com/item?id=28327022 + https://www.vice.com/en/article/qkjv9x/a-catalogue-of-all-the-devices-that-can-somehow-run-doom
