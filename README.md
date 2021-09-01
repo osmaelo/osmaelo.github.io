@@ -868,3 +868,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Doom on an office phone and other items: https://news.ycombinator.com/item?id=28327022 + https://www.vice.com/en/article/qkjv9x/a-catalogue-of-all-the-devices-that-can-somehow-run-doom
 
 * US Digital Corps: https://news.ycombinator.com/item?id=28363758 + https://digitalcorps.gsa.gov/ + https://www.usds.gov/
+
+* No experience job in the bay area: https://www.reddit.com/r/bayarea/comments/pfgmmq/is_there_an_overall_worker_shortage_in_the_bay/hb4wbo2/
