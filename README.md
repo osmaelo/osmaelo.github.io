@@ -872,3 +872,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * No experience job in the bay area: https://www.reddit.com/r/bayarea/comments/pfgmmq/is_there_an_overall_worker_shortage_in_the_bay/hb4wbo2/
 
 * Youtube Math Channel Guide: https://news.ycombinator.com/item?id=28374769 + https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/
+
+* Switching from MacOS to Linux: https://news.ycombinator.com/item?id=28320404
+
+* Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
