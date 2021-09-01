@@ -870,3 +870,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * US Digital Corps: https://news.ycombinator.com/item?id=28363758 + https://digitalcorps.gsa.gov/ + https://www.usds.gov/
 
 * No experience job in the bay area: https://www.reddit.com/r/bayarea/comments/pfgmmq/is_there_an_overall_worker_shortage_in_the_bay/hb4wbo2/
+
+* Youtube Math Channel Guide: https://news.ycombinator.com/item?id=28374769 + https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/
