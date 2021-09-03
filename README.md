@@ -876,3 +876,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Switching from MacOS to Linux: https://news.ycombinator.com/item?id=28320404
 
 * Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
+
+* Hacking Tools: https://news.ycombinator.com/item?id=28394035
