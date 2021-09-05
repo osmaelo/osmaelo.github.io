@@ -878,3 +878,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
 
 * Hacking Tools: https://news.ycombinator.com/item?id=28394035
+
+* uBlock Origin: https://news.ycombinator.com/item?id=28410807
