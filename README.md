@@ -888,3 +888,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * More cool websites: https://www.reddit.com/r/learnprogramming/comments/pm762f/if_youre_looking_for_a_mentor_i_can_mentor_you/hcfspmi/ + https://www.samuelday.de/ + https://philippeneveu.com/ + https://www.kwokyinmak.com/
 
 * https://www.reddit.com/r/learnprogramming/comments/prevd1/am_i_wasting_my_time_learning_django_as_a/
+
+* Hacker News Book Recommendations: https://news.ycombinator.com/item?id=28595967 + https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/1
