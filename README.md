@@ -9,7 +9,7 @@
 
 [6 Bit Memory](https://www.youtube.com/watch?v=mD8bo7a3zF4)
 
-Online Photoshop Alternative, Photopea: [Reddit](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/) + [photopea.com](https://www.photopea.com/)
+Online Photoshop Alternative, Photopea: [Reddit](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/) + [photopea.com](https://www.photopea.com/)Hope you enjoy the book!
 
 ### Programming and Computer Science:
 
@@ -890,3 +890,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * https://www.reddit.com/r/learnprogramming/comments/prevd1/am_i_wasting_my_time_learning_django_as_a/
 
 * Hacker News Book Recommendations: https://news.ycombinator.com/item?id=28595967 + https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/1
+* Fourier Transforms: https://news.ycombinator.com/item?id=28632776 + https://bl.ocks.org/jinroh/7524988
