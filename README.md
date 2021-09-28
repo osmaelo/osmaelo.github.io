@@ -891,3 +891,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 
 * Hacker News Book Recommendations: https://news.ycombinator.com/item?id=28595967 + https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/1
 * Fourier Transforms: https://news.ycombinator.com/item?id=28632776 + https://bl.ocks.org/jinroh/7524988
+
+* Beware survivorship bias in advice on science careers: https://news.ycombinator.com/item?id=28678053
+* What John Von Neumann Really Did At Los Alamos: https://news.ycombinator.com/item?id=28673376
+* How I bricked my reMarkable 2: https://news.ycombinator.com/item?id=28671743
