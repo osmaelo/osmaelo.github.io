@@ -895,3 +895,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Beware survivorship bias in advice on science careers: https://news.ycombinator.com/item?id=28678053
 * What John Von Neumann Really Did At Los Alamos: https://news.ycombinator.com/item?id=28673376
 * How I bricked my reMarkable 2: https://news.ycombinator.com/item?id=28671743
+* The Art of Linear Algebra: https://news.ycombinator.com/item?id=28704164
