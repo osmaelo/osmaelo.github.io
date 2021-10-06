@@ -896,3 +896,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * What John Von Neumann Really Did At Los Alamos: https://news.ycombinator.com/item?id=28673376
 * How I bricked my reMarkable 2: https://news.ycombinator.com/item?id=28671743
 * The Art of Linear Algebra: https://news.ycombinator.com/item?id=28704164
+
+* Conterintuitive facts in mathematics, CS, and physics: https://news.ycombinator.com/item?id=28764416 + https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
