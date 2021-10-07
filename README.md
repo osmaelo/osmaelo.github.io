@@ -900,3 +900,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Conterintuitive facts in mathematics, CS, and physics: https://news.ycombinator.com/item?id=28764416 + https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
 
 * Is this the simplest (and most surprising) sorting algorithm? https://news.ycombinator.com/item?id=28758106
+
+* Build a solution to the Norwegian date pixe puzzle
