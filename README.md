@@ -902,3 +902,11 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Is this the simplest (and most surprising) sorting algorithm? https://news.ycombinator.com/item?id=28758106
 
 * Build a solution to the Norwegian date pixe puzzle
+
+* **Blind 75 Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU (https://redd.it/mx55az)** and **https://leetcode.com/explore/interview/card/top-interview-questions-medium/** and **https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions**
+* Advice on System Design: https://www.reddit.com/r/cscareerquestions/comments/q5vlfx/anybody_else_grinding_leetcode_in_their_late_20s/hg8f2wh/?context=1
+* Useful email list: https://quastor.org
+* Useful videos on System Design: https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+* System Design Interview book review (pragmaticengineer.com): https://news.ycombinator.com/item?id=25647025
+* DDIA: https://dataintensive.net
+* **The System Design Primer: https://github.com/donnemartin/system-design-primer**
