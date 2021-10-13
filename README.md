@@ -910,3 +910,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * System Design Interview book review (pragmaticengineer.com): https://news.ycombinator.com/item?id=25647025
 * DDIA: https://dataintensive.net
 * **The System Design Primer: https://github.com/donnemartin/system-design-primer**
+* John Urschel of mit and ias: https://math.mit.edu/~urschel/
