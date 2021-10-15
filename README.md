@@ -911,3 +911,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * DDIA: https://dataintensive.net
 * **The System Design Primer: https://github.com/donnemartin/system-design-primer**
 * John Urschel of mit and ias: https://math.mit.edu/~urschel/
+* Learn Blender: https://www.blender.org
