@@ -913,3 +913,9 @@ Regex Training: https://refrf.shreyasminocha.me/
 * John Urschel of mit and ias: https://math.mit.edu/~urschel/
 * Learn Blender: https://www.blender.org
 * State of Webscraping in 2021: https://news.ycombinator.com/item?id=28827509
+* 3 TypeScript Tricks I wish I knew when I learned TypeScript: https://news.ycombinator.com/item?id=28837181
+* Git Command Explorer: https://news.ycombinator.com/item?id=28888763
+* Tech Compensation in 2021: https://news.ycombinator.com/item?id=28870464
+* Learn electronics technology, IT and fiber optics technology (rsdacademy.net) for free: https://news.ycombinator.com/item?id=28826803
+* Ask HN: How can I get a tech job that's more social?: https://news.ycombinator.com/item?id=28839819
+* Why nobody hires junior developers and what happens next: https://news.ycombinator.com/item?id=28890910
