@@ -912,3 +912,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * **The System Design Primer: https://github.com/donnemartin/system-design-primer**
 * John Urschel of mit and ias: https://math.mit.edu/~urschel/
 * Learn Blender: https://www.blender.org
+* State of Webscraping in 2021: https://news.ycombinator.com/item?id=28827509
