@@ -919,3 +919,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Learn electronics technology, IT and fiber optics technology (rsdacademy.net) for free: https://news.ycombinator.com/item?id=28826803
 * Ask HN: How can I get a tech job that's more social?: https://news.ycombinator.com/item?id=28839819
 * Why nobody hires junior developers and what happens next: https://news.ycombinator.com/item?id=28890910
+* **Web Browser Engineering: https://news.ycombinator.com/item?id=28898157 + https://web.archive.org/web/20211020005157/https://browser.engineering/**
