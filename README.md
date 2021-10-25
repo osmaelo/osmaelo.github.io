@@ -926,3 +926,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Magit, the magical Git interface (2017) (emacsair.me): https://news.ycombinator.com/item?id=28954058
 * An Introduction to Probabilistic Programming (arxiv.org): https://news.ycombinator.com/item?id=28941145
 * The age of machine learning as code has arrived (huggingface.co): https://news.ycombinator.com/item?id=28960925
+* Pong using browser windows as the paddles and ball (2009) (stewd.io): https://news.ycombinator.com/item?id=28975135
