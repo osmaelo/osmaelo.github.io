@@ -922,3 +922,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Ask HN: How can I get a tech job that's more social?: https://news.ycombinator.com/item?id=28839819
 * Why nobody hires junior developers and what happens next: https://news.ycombinator.com/item?id=28890910
 * **Web Browser Engineering: https://news.ycombinator.com/item?id=28898157 + https://web.archive.org/web/20211020005157/https://browser.engineering/**
+* Setting up a static HTTPS website on your Raspberry Pi using Docker and Nginx (gist.github.com): https://news.ycombinator.com/item?id=28979665
+* Magit, the magical Git interface (2017) (emacsair.me): https://news.ycombinator.com/item?id=28954058
+* An Introduction to Probabilistic Programming (arxiv.org): https://news.ycombinator.com/item?id=28941145
+* The age of machine learning as code has arrived (huggingface.co): https://news.ycombinator.com/item?id=28960925
