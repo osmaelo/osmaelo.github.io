@@ -11,6 +11,8 @@
 
 Online Photoshop Alternative, Photopea: [Reddit](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/) + [photopea.com](https://www.photopea.com/)Hope you enjoy the book!
 
+* **Self studying the MIT applied math curriculum (2019) (smallstepcap.com): https://news.ycombinator.com/item?id=28979872 + https://www.smallstepcap.com + https://primerlabs.io/comics/introducing-primer-comics/ + https://primerlabs.io** 
+
 ### Programming and Computer Science:
 
 CHECK ALL FORKED REPOSITORIES
