@@ -930,4 +930,8 @@ Regex Training: https://refrf.shreyasminocha.me/
 * How we built a serverless SQL database (cockroachlabs.com): https://news.ycombinator.com/item?id=29001285
 * Lambda School leaked documents show poor performance over the last two years (businessinsider.com): https://news.ycombinator.com/item?id=28989092 + https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10
 * PiBox Mini – Modular Raspberry Pi Storage Server: https://news.ycombinator.com/item?id=28992873 + https://pibox.io/
-* 
+* A framework for grading your performance on programming interview problems: https://news.ycombinator.com/item?id=28896343
+* The Big Tech Coding Interview Framework - Pt 1. Inspect: https://archive.md/FJvpn
+* A framework for crushing Big Tech interviews: https://archive.md/XLtFw
+* Don't buy Cracking the Coding Interview for Big Tech Interviews: https://archive.md/0TsHB
+* Algorithm Grading Rubric: Look in Google Spreadsheet list
