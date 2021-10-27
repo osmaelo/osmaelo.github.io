@@ -927,3 +927,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * An Introduction to Probabilistic Programming (arxiv.org): https://news.ycombinator.com/item?id=28941145
 * The age of machine learning as code has arrived (huggingface.co): https://news.ycombinator.com/item?id=28960925
 * Pong using browser windows as the paddles and ball (2009) (stewd.io): https://news.ycombinator.com/item?id=28975135
+* How we built a serverless SQL database (cockroachlabs.com): https://news.ycombinator.com/item?id=29001285
+* Lambda School leaked documents show poor performance over the last two years (businessinsider.com): https://news.ycombinator.com/item?id=28989092 + https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10
+* PiBox Mini – Modular Raspberry Pi Storage Server: https://news.ycombinator.com/item?id=28992873 + https://pibox.io/
+* 
