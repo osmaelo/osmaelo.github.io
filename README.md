@@ -935,3 +935,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * A framework for crushing Big Tech interviews: https://archive.md/XLtFw
 * Don't buy Cracking the Coding Interview for Big Tech Interviews: https://archive.md/0TsHB
 * Algorithm Grading Rubric: Look in Google Spreadsheet list
+* 55 GiB/s FizzBuzz (stackexchange.com):  https://news.ycombinator.com/item?id=29031488 +   https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
+* 
