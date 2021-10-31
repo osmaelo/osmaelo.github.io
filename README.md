@@ -936,4 +936,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Don't buy Cracking the Coding Interview for Big Tech Interviews: https://archive.md/0TsHB
 * Algorithm Grading Rubric: Look in Google Spreadsheet list
 * 55 GiB/s FizzBuzz (stackexchange.com):  https://news.ycombinator.com/item?id=29031488 +   https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
-* 
+* Show HN: Running a simple local HTTP server in a web page (github.com/etherdream): https://news.ycombinator.com/item?id=29047269 + https://github.com/osmaelo/http-server-online
