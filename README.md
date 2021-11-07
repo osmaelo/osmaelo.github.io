@@ -939,3 +939,6 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Show HN: Running a simple local HTTP server in a web page (github.com/etherdream): https://news.ycombinator.com/item?id=29047269 + https://github.com/osmaelo/http-server-online
 * So you want to Scrape like the Big Boys? 🚀: https://news.ycombinator.com/item?id=29117022
 * Does having prime neighbors make you more composite?: https://news.ycombinator.com/item?id=29120073
+* The Arcane Algorithm Archive: https://www.algorithm-archive.org/ + https://news.ycombinator.com/item?id=29138991
+* **Learn TypeScript: https://news.ycombinator.com/item?id=29140062 + And look for other resources soon**
+* 
