@@ -942,3 +942,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * The Arcane Algorithm Archive: https://www.algorithm-archive.org/ + https://news.ycombinator.com/item?id=29138991
 * **Learn TypeScript: https://news.ycombinator.com/item?id=29140062 + And look for other resources soon**
 * Big Tech Coding Interview Framework – Pt 1. Inspect (fangprep.substack.com): https://news.ycombinator.com/item?id=29132196 + https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect
+* Don’t Do Interviews, Do Discussions!: https://news.ycombinator.com/item?id=29141983 + https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions
