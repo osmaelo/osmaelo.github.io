@@ -944,3 +944,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Big Tech Coding Interview Framework – Pt 1. Inspect (fangprep.substack.com): https://news.ycombinator.com/item?id=29132196 + https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect
 * Don’t Do Interviews, Do Discussions!: https://news.ycombinator.com/item?id=29141983 + https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions
 * Porting Doom to a USB Bluetooth Dongle (next-hack.com): https://news.ycombinator.com/item?id=29225855 + https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/
+* JPMorgan Chase Leet Code questions: https://leetcode.com/list/921m0l31/
