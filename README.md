@@ -946,3 +946,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Porting Doom to a USB Bluetooth Dongle (next-hack.com): https://news.ycombinator.com/item?id=29225855 + https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/
 * JPMorgan Chase Leet Code questions: https://leetcode.com/list/921m0l31/
 * Better touch for MacOS: https://www.macworld.com/article/551700/mac-gems-bettertouchtool-review.html
+* Google Summer of Code in 2022 – No longer limited to students (googleblog.com): https://news.ycombinator.com/item?id=29180285
