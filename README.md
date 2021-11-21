@@ -947,3 +947,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * JPMorgan Chase Leet Code questions: https://leetcode.com/list/921m0l31/
 * Better touch for MacOS: https://www.macworld.com/article/551700/mac-gems-bettertouchtool-review.html
 * Google Summer of Code in 2022 – No longer limited to students (googleblog.com): https://news.ycombinator.com/item?id=29180285
+* Ask HN: Looking for a book on algorithms and data structures: https://news.ycombinator.com/item?id=29217252 **(The Algorithm Design Manual by Steven Skiena)**
+* My Hacker News knowledge assimilation stack (abishekmuthian.com): https://news.ycombinator.com/item?id=29217485
+* https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html
+* https://www.google.com/search?q=how+to+set+up+a+Nintendo+switch+controller+for+anki
