@@ -951,3 +951,6 @@ Regex Training: https://refrf.shreyasminocha.me/
 * My Hacker News knowledge assimilation stack (abishekmuthian.com): https://news.ycombinator.com/item?id=29217485
 * https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html
 * https://www.google.com/search?q=how+to+set+up+a+Nintendo+switch+controller+for+anki
+* Where is Ruby Headed in 2021? (bignerdranch.com): https://news.ycombinator.com/item?id=29272682
+* An Introduction to Lagrange Multipliers (slimy.com): http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html
+* Learn RegEx step by step, from zero to advanced (regexlearn.com): https://regexlearn.com/ + https://news.ycombinator.com/item?id=29251702
