@@ -954,3 +954,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Where is Ruby Headed in 2021? (bignerdranch.com): https://news.ycombinator.com/item?id=29272682
 * An Introduction to Lagrange Multipliers (slimy.com): http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html
 * Learn RegEx step by step, from zero to advanced (regexlearn.com): https://regexlearn.com/ + https://news.ycombinator.com/item?id=29251702
+* Show HN: I made a Chrome extension that can automate any website (browserflow.app): https://news.ycombinator.com/item?id=29254147 + https://browserflow.app/ + https://zapier.com/
+* The Burnout Society (apposition.substack.com): https://news.ycombinator.com/item?id=29249793 +  https://apposition.substack.com/p/the-burnout-society
