@@ -954,7 +954,7 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Where is Ruby Headed in 2021? (bignerdranch.com): https://news.ycombinator.com/item?id=29272682
 * An Introduction to Lagrange Multipliers (slimy.com): http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html
 * Learn RegEx step by step, from zero to advanced (regexlearn.com): https://regexlearn.com/ + https://news.ycombinator.com/item?id=29251702
-* Show HN: I made a Chrome extension that can automate any website (browserflow.app): https://news.ycombinator.com/item?id=29254147 + https://browserflow.app/ + https://zapier.com/
+* **Show HN: I made a Chrome extension that can automate any website (browserflow.app): https://news.ycombinator.com/item?id=29254147 + https://browserflow.app/ + https://zapier.com/**
 * The Burnout Society (apposition.substack.com): https://news.ycombinator.com/item?id=29249793 +  https://apposition.substack.com/p/the-burnout-society
 * Learning containers from the bottom up (iximiuz.com): https://news.ycombinator.com/item?id=29265061 + https://iximiuz.com/en/posts/container-learning-path/
 * Amazon Leet Code questions: https://www.reddit.com/r/leetcode/comments/qz2atz/amazon_final_interview_questions_all_combined/ (https://archive.md/hK7Pz)
