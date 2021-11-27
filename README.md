@@ -960,3 +960,5 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Amazon Leet Code questions: https://www.reddit.com/r/leetcode/comments/qz2atz/amazon_final_interview_questions_all_combined/ (https://archive.md/hK7Pz)
 * Show HN: Run Python, Ruby, Node.js, C++, Lua in the Browser via x86 to WASM JIT (leaningtech.com): https://news.ycombinator.com/item?id=29305643 + https://repl.leaningtech.com/
 * 149244179's comment is a great idea on what to work on: https://www.reddit.com/r/learnprogramming/comments/r0sznz/what_are_10_programs_you_should_write_in_a/hlulihu/ (https://archive.md/GzSzc) and other suggestions from the wiki https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F
+* Open-source home cloud OS allows you to run Docker applications without coding (github.com/icewhaletech): https://news.ycombinator.com/item?id=29328473 + https://github.com/IceWhaleTech/CasaOS
+* Can you do anything on the internet without going through a major platform first?: https://freedomboxfoundation.org
