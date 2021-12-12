@@ -968,3 +968,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * Automation for MacOS: https://support.apple.com/guide/script-editor/welcome/mac
 * https://en.wikipedia.org/wiki/Millennium_Prize_Problems
 * Learn Next.js: https://en.wikipedia.org/wiki/Next.js
+* Leetcode Solutions: https://github.com/kamyu104/LeetCode-Solutions
