@@ -77,26 +77,26 @@
 * 
 * 
 * 
-* [Reddit, Google Engineer shares experiences](https://medium.com/@alexgolec)
-* [Site Reliability Engineer book by Google](https://landing.google.com/sre/sre-book/toc/) + [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/d1iq5w/can_someone_please_explain_understanding_of_the/)
-* Google Machine Learning Comic [Part 1](https://cloud.google.com/products/ai/ml-comic-1/) & [Reddit Source](https://www.reddit.com/r/learnmachinelearning/comments/d4ncpd/learning_machine_learning_an_online_comic_from/)
-* [Project Euler Projects](https://projecteuler.net) and [Reddit Source](https://www.reddit.com/r/math/comments/d6kdul/project_euler_is_a_website_with_a_series_of/)
-* [Introduction to DevOps](https://travis-ci.org/account/repositories) and [Reddit Source](https://www.reddit.com/r/webdev/comments/d3rjec/does_anyone_know_of_good_resources_to_understand/)
-* ["Self Coding" Website](https://www.strml.net) and [Reddit Source](https://www.reddit.com/r/programming/comments/d72nlb/a_website_coding_itself_live/)
-* [Excel xlookup function](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929) and [image](https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/excel.jpg)
-* AI in Africa: [Link](https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d) & [Source](https://news.ycombinator.com/item?id=21123142)
-* [List of recommended CS books from Reddit](https://www.reddit.com/r/learnprogramming/comments/dd6e0g/what_are_your_favorite_books_on_general_cs/f2f270w/)
-* Map API Tools: [Site](http://www.geocodezip.com) and [Source](https://www.reddit.com/r/webdev/comments/dkh47k/just_discovered_this_awesome_site_full_of_code/)
-* Physic Simulator: [Link](https://cemsim.com/) + [Source](https://www.reddit.com/r/Physics/comments/dmxgh3/i_made_a_webbased_interactive_simulator_for/)
-* DS and Algo Checklist and Review: [Reddit Source](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
-* [7 Offers](https://www.reddit.com/r/cscareerquestions/comments/e095pv/how_i_got_7_offers_heres_what_i_learned/)
-* [GS Advice](https://www.reddit.com/r/IAmA/comments/dwaa36/when_i_graduated_college_i_had_interviews_at/)
-* Personal Home and Webpage example: [Monokai](https://monokai.nl/) + [Reddit Source](https://www.reddit.com/r/web_design/comments/ei1b4s/monokai_a_trip_through_japan/)
-* Personal Home and Webpage example: [Stanford Professor](http://statweb.stanford.edu/~candes/)
-* [HN Source](https://news.ycombinator.com/item?id=20934347) + [Fourier Waves](http://www.jezzamon.com/fourier/index.html)
-* CSS Guide + Javascript + General Guide: [Reddit](https://www.reddit.com/r/web_design/comments/ekadas/use_this_website_if_you_want_to_explore_all_css/) + [CSS](http://overapi.com/css) + [Javascript](http://overapi.com/javascript) + [General](http://overapi.com/) + [CSS Properties List](https://www.web4college.com/css-play/index.php)
-* TLDR Pages: [HN](https://news.ycombinator.com/item?id=22117237) + [Source](https://tldr.sh/) + [Online](http://cht.sh/)
-* Float Toy: [HN]() + [Source](http://evanw.github.io/float-toy/)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Mathematics and Physics:
 
