@@ -2,7 +2,7 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-### Mathematics and Physics:
+### Mathematics and Physics: 
 
 * [Numberphile](https://www.youtube.com/user/numberphile)
 * [List of Mathematical Symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
