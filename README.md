@@ -972,3 +972,4 @@ Regex Training: https://refrf.shreyasminocha.me/
 * How I'm able to take notes in mathematics lectures using LaTeX and Vim: https://castel.dev/post/lecture-notes-1/
 * Alter user interface of HN: https://news.ycombinator.com/item?id=29494475
 * Dracula theme for dozens of apps: https://draculatheme.com
+* use https://pages.github.com
