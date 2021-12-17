@@ -2,38 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-### Mathematics and Physics: 
-
-* [Numberphile](https://www.youtube.com/user/numberphile)
-* [List of Mathematical Symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
-* Books to start/continue/finish: [KK](http://a.co/5fyKlFx), [Strang's LA](http://math.mit.edu/~gs/linearalgebra/) and [Nuts...](http://a.co/hhdp36v)
-* Undergrad Path: [Course 18](http://math.mit.edu/academics/undergrad/major/index.php)
-* 18.100A [via OCW](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/index.htm)
-* Berkeley Professor's [Past Coursework](http://people.eecs.berkeley.edu/~alexch/coursework.html)
-* Advice [via Reddit](https://redd.it/2kuntb)
-* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-* Interactive 18.06 Book: http://immersivemath.com/ila/index.html
-* [Code for America](https://www.codeforamerica.org/programs/fellowship)
-* Whatch out for RSI: [YComb News Link](https://news.ycombinator.com/item?id=20662232) & [Wikipedia](https://en.wikipedia.org/wiki/Repetitive_strain_injury). Remember to stretch and take breaks!
-* [Quantum Computing's Internals Demystified](https://medium.com/dataseries/quantum-computings-internals-demystified-53326d6c3098)
-* [Leetcode Study Guide](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
-* [Math Napkin](http://web.evanchen.cc/napkin.html)
-* [The Riemann Hypothesis](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html) + [via hn](https://news.ycombinator.com/item?id=20912380)
-* [Quantum Computing](https://www.reddit.com/r/Physics/comments/d24vl7/thank_you_rphysics_for_the_support/) + [Textbook](https://community.qiskit.org/textbook/)
-* [Course 8](http://catalog.mit.edu/degree-charts/physics-course-8/)
-* [Course 18](http://catalog.mit.edu/degree-charts/mathematics-course-18/)
-* One more Canvas: [Stanford site](http://web.stanford.edu/~iolea/) and [Instructions 1](https://uit.stanford.edu/service/web/centralhosting/howto_user), [Instructions 2](https://uit.stanford.edu/service/stanfordsites)
-* Interesting Math Blog: [Site](https://golem.ph.utexas.edu/category/2019/10/jaynes_on_clever_tricks.html) and [Source](https://www.reddit.com/r/math/comments/dkf9j0/jaynes_on_clever_tricks_section_8124_of_the_book/)
-* Topology Notes from [University of Toronto](http://www.math.toronto.edu/ivan/mat327/?resources) + [Source](https://www.reddit.com/r/math/comments/dpdq39/a_nice_intro_to_topology_from_u_of_toronto/)
-* [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-* [6.854J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
-* [6.851](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
-* [Teach Yourself Logic via Reddit](https://www.reddit.com/r/math/comments/e9w52l/teach_yourself_logic_2020_edition_an_annotated/)
-* CSS Games: [Flexbox Froggy](https://flexboxfroggy.com/) + [Grid Garden](https://cssgridgarden.com/) + [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
-* Tracking a card through a shuffle: [Reddit](https://www.reddit.com/r/math/comments/eky67a/tracking_a_card_through_a_shuffled_deck_response/) + [Source](https://possiblywrong.wordpress.com/2020/01/06/tracking-a-card-through-a-shuffled-deck/)
-* Doughnut Packing Problem: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/en08ka/square_donuts_have_27_more_donut_in_each_one_and/) + [Source](https://canmom.github.io/physics/donut-packing)
-
-
 ### Business and Finance:
 
 * Accounting [via Reddit](https://www.reddit.com/r/Accounting/wiki/index)
