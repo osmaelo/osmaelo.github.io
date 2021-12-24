@@ -78,7 +78,9 @@
 * [Gravity is not a force](https://timhutton.github.io/GravityIsNotAForce/) + [HN](https://news.ycombinator.com/item?id=24821141)
 
 * [Data engineering learning path with recommended resources](https://awesomedataengineering.com/) + [HN](https://news.ycombinator.com/item?id=24817630)
+
 ---
+
 * Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
 
 * [Puzzle Games](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
@@ -124,7 +126,9 @@
 * Algorithm Book suggestion: [Algos](https://www.reddit.com/r/learnprogramming/comments/kqa1x7/best_booksways_to_learn_algorithms_big_o/) + https://justin.abrah.ms/computer-science/big-o-notation-explained.html
 
 * [Quitting a New Job](https://news.ycombinator.com/item?id=25637922) + https://yolken.net/
+
 ---
+
 * Guide on C++: http://www.cplusplus.com/
 
 * App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
@@ -162,7 +166,9 @@
 * Euler's FizzBuzz: http://philcrissman.net/posts/eulers-fizzbuzz/ + https://redd.it/m6bkop
 
 * Duolingo: https://duome.eu/tips/en
+
 ---
+
 * Pi and Nasa: https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ + https://redd.it/m54hal
 
 * Mobile Homes: https://www.lancecamper.com/ + https://forestriverinc.com/rvs/ + https://escapod.us/ + https://droplet-trailer.com/ + https://aliner.com/
@@ -232,7 +238,9 @@
 * No experience job in the bay area: https://www.reddit.com/r/bayarea/comments/pfgmmq/is_there_an_overall_worker_shortage_in_the_bay/hb4wbo2/
 
 * Youtube Math Channel Guide: https://news.ycombinator.com/item?id=28374769 + https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/
+
 ---
+
 * Switching from MacOS to Linux: https://news.ycombinator.com/item?id=28320404
 
 * Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
@@ -303,7 +311,9 @@
 * Don’t Do Interviews, Do Discussions!: https://news.ycombinator.com/item?id=29141983 + https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions
 * Porting Doom to a USB Bluetooth Dongle (next-hack.com): https://news.ycombinator.com/item?id=29225855 + https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/
 * JPMorgan Chase Leet Code questions: https://leetcode.com/list/921m0l31/
+
 ---
+
 * Better touch for MacOS: https://www.macworld.com/article/551700/mac-gems-bettertouchtool-review.html
 * Google Summer of Code in 2022 – No longer limited to students (googleblog.com): https://news.ycombinator.com/item?id=29180285
 * Ask HN: Looking for a book on algorithms and data structures: https://news.ycombinator.com/item?id=29217252 **(The Algorithm Design Manual by Steven Skiena)**
