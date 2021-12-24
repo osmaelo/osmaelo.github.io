@@ -2,37 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-
-
-
-
-
-* Concentric Circle Calendar: [YN](https://news.ycombinator.com/item?id=22591818) + [Source](https://twitter.com/Vector_GL/status/1239512837325758464)
-
-* Outbreak Simulation: [YN](https://news.ycombinator.com/item?id=22596158) + [Source](https://meltingasphalt.com/interactive/outbreak/)
-
-* Introductory Physics Material: Physics Travel Guide [HN](https://news.ycombinator.com/item?id=22757466) + [Source](https://physicstravelguide.com/)
-
-* how to manage HTML DOM [HN](https://news.ycombinator.com/item?id=22758218) + [Source](https://htmldom.dev/)
-
-* Stanford's Susskind's The Theoretical Minimum: [HN](https://news.ycombinator.com/item?id=22682837) + [Source](http://theoreticalminimum.com/home)
-
-* Mathematical Concepts - [HN](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians) + [Source](https://www.edge.org/conversation/verena_huber_dyson-on-the-nature-of-mathematical-concepts-why-and-how-do-mathematicians)
-
-* When Einstein was just another physicist - [HN](https://news.ycombinator.com/item?id=22681773) + [Source](https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/)
-
-* How to actually learn CS [Reddit](https://www.reddit.com/r/learnprogramming/comments/fnxyq7/how_to_actually_learn_cs/)
-
-* Math Text Book Source [Reddit](https://www.reddit.com/r/math/comments/fqfyce/i_have_made_a_website_aggregating_free/) + [Source](https://realnotcomplex.com/)
-
-* Set up your own Kubernetes Cluster: [HN](https://news.ycombinator.com/item?id=22661029) + [Source 1](https://k3s.io/) + [Source 2](https://microk8s.io/)
-
-* Three Typefaces for math: [HN](https://news.ycombinator.com/item?id=22660733) + [Source](http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf)
-
-* Beer Distribution Game: [HN](https://news.ycombinator.com/item?id=22663332) + [Wikipedia Source](https://en.wikipedia.org/wiki/Beer_distribution_game)
-
-* **Cambridge University Math Books: [Reddit](https://www.reddit.com/r/math/comments/fkbzac/psa_all_cambridge_university_texts_textbooks_are/) + [Source](https://www.cambridge.org/core/what-we-publish/textbooks)**
-
 * [Math 83N Fall 2019](http://web.stanford.edu/~lsauerma/83N.html)
 
 * Understanding Maxwell's Theory: [HN](https://news.ycombinator.com/item?id=22810867) + [Source](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
