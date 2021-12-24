@@ -2,30 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-* [Math 83N Fall 2019](http://web.stanford.edu/~lsauerma/83N.html)
-
-* Understanding Maxwell's Theory: [HN](https://news.ycombinator.com/item?id=22810867) + [Source](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
-
-* CSS Grid: https://cssgrid.io/
-
-* Introduction to Logic: [Reddit](https://www.reddit.com/r/math/comments/fymg3p/introduction_to_logic/) + [Stanford Source](http://logic.stanford.edu/intrologic/homepage/index.html)
-
-* MIT How to Speak: [HN](https://news.ycombinator.com/item?id=22848034) + [MIT Source](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
-
-* Does Time Really Flow? [HN](https://news.ycombinator.com/item?id=22848766) + [Quant Magazine Source](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
-
-* The New Math Bridge Beyond Fermat’s Last Theorem: [HN1](https://news.ycombinator.com/item?id=22854582) + [HN2](https://news.ycombinator.com/item?id=22809632) + [Wired Source](https://www.wired.com/story/the-new-math-bridge-beyond-fermats-last-theorem/) + [Quant Source](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
-
-* Codepen for Bezier Curve: https://codepen.io/enotix364/pen/jONmQrE
-
-* The Wolfram Physics Project: https://www.wolframphysics.org/ + https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/ + https://news.ycombinator.com/item?id=22866284
-
-* What to know about React: https://bitsofco.de/what-i-wish-i-knew-about-react/ + https://news.ycombinator.com/item?id=23005929
-
-* https://www.linkedin.com/learning/learning-the-python-3-standard-library/welcome?u=2968794
-
-* [The Tech Article on journey of student, grad student then professor at MIT](https://thetech.com/2020/05/14/jason-ku-reflects)
-
 Surviving D: https://news.ycombinator.com/item?id=23250234
 
 Tips for the D: https://news.ycombinator.com/item?id=22536437
