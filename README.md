@@ -2,58 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-Surviving D: https://news.ycombinator.com/item?id=23250234
-
-Tips for the D: https://news.ycombinator.com/item?id=22536437
-
-Corporate Research Labs and their death: https://news.ycombinator.com/item?id=23246672
-
-Small Website Steps: https://www.reddit.com/r/learnprogramming/comments/gmbkif/a_nononsense_guide_how_to_code_and_launch_your/
-
-Conway Knot Problem Solved: [Quanta Magazine](https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/) + [Reddit](https://www.reddit.com/r/math/comments/gmxm3i/graduate_student_solves_decadesold_conway_knot/) + [HN](https://news.ycombinator.com/item?id=23236599)
-
-Regex Training: https://refrf.shreyasminocha.me/
-
-* Research in the days past: [Source](https://threadreaderapp.com/thread/1262489387767480322.html) + [Reddit](https://www.reddit.com/r/math/comments/gs9s8d/how_did_research_get_done_before_latex/)
-
-* NandGame: [Source](http://nandgame.com/) + [Reddit](https://www.reddit.com/r/gifs/comments/gtegtc/logic_gates_using_fluid/)
-
-* Reddit's [ThePlace](https://www.reddit.com/r/place/comments/66bwda/rplace_has_been_archived/)
-
-* Codepen: [Heart](https://codepen.io/chrisgannon/pen/BaNoGMN), [Squares](https://codepen.io/soju22/pen/jOErGWO)
-
-* [Readme Advice](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/)
-
-* [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) + [HN](https://news.ycombinator.com/item?id=23474846) + [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
-
-* [PhD at 66](https://news.ycombinator.com/item?id=23453087)
-
-* [How not to do Cryptography via Brown](https://news.ycombinator.com/item?id=23384227)
-
-* [MIT Theoretical Physics Olympiad](https://thetech.com/2020/05/29/mit-team-wins-itpo-2020)
-
-* [Learn more about the terminal](https://astrobiomike.github.io/unix/modifying_your_path)!!!
-
-* [Webcamp in 2020?](https://pi.reddit.com/r/learnprogramming/comments/fjgcya/the_odin_project_still_worth_to_go_through_in_2020/)
-
-* [Ghosn Escape](https://www.bloomberg.com/news/features/2020-01-14/how-nissan-s-carlos-ghosn-was-smuggled-out-of-japan)
-
-* Simple CSS: [HN](https://news.ycombinator.com/item?id=23220081) + [Source](https://newcss.net) +[Github](https://github.com/dohliam/dropin-minimal-css)
-
-* CSS Hexagon: [HN](https://news.ycombinator.com/item?id=23577061) + [Source](https://ninjarockstar.dev/css-hex-grids/)
-
-* [Copenhagen](https://energymachines.com/en/contact/)
-
-* [Math Geneology via Reddit](https://www.reddit.com/r/math/comments/hdkv34/the_mathematics_geneology_project_website_is_down/)
-
-* [HN Security Cam](https://news.ycombinator.com/item?id=23593439)
-
-* [Wikipedia SPARQL](https://news.ycombinator.com/item?id=23639090)
-
-* [A Physicist Trying to Fix Quantum Mechanics via nytimes](https://news.ycombinator.com/item?id=23648753)
-
-* [SVG Patterns with JS](https://news.ycombinator.com/item?id=23673534) + [Source](https://riccardoscalco.it/textures/)
-
 * Poker API: [Source](https://www.pokerapi.dev/) + [AI](https://news.ycombinator.com/item?id=23741229)
 
 * Ridiculous Math Problems: [Brown](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html) + [HN](https://news.ycombinator.com/item?id=23739243)
