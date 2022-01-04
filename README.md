@@ -2,39 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-
-* Portfolio Example: https://www.reddit.com/r/web_design/comments/huiiyf/one_of_the_best_portfolios_ive_seen/
-
-* New Multiplication: [HN](https://news.ycombinator.com/item?id=23919869) + [Quant Magazine](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-
-* Prime Numbers: [HN](https://news.ycombinator.com/item?id=23917367) + [Quant Magazine](https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/)
-
-* Quantum Toolbox in Python QuTiP: http://qutip.org/
-
-* Law of UX for the Web: https://redd.it/i2l0gg and https://redd.it/i2fp1e
-
-* Homepage Example: https://gkoberger.com/ + [Source](https://news.ycombinator.com/item?id=24135032)
-
-* Write your own virtual machine: [HN](https://news.ycombinator.com/item?id=24166137) + [Source](https://justinmeiners.github.io/lc3-vm/)
-
-* Unicode in Five Minutes: [HN](https://news.ycombinator.com/item?id=24157201) + [Source](https://richardjharris.github.io/unicode-in-five-minutes.html)
-
-* Fogg Model Behavior for Procrastination: https://news.ycombinator.com/item?id=24120275
-
-* Simon's Algorithm: [HN](https://news.ycombinator.com/item?id=24072037) + [Source](https://leimao.github.io/blog/Simon-Algorithm/)
-
-* Oh Sh!t, Git: https://news.ycombinator.com/item?id=24173238 + https://ohshitgit.com/
-
-* MicroPython for embedded systems: https://news.ycombinator.com/item?id=24166861 + https://micropython.org/
-
-* Work from Home Advice: https://news.ycombinator.com/item?id=24196433
-
-* Video Game Systems Architecture: https://www.copetti.org/projects/consoles/ + https://news.ycombinator.com/item?id=24195751
-
-* Kindergarden Quantum Mechanics:  https://news.ycombinator.com/item?id=24130443
-
----
-
 * German Self Taught Developer: https://www.reddit.com/r/cscareerquestionsEU/comments/hv4uuc/selftaught_developer_from_germany_can_i_have_some/ + https://larapollehn.de/
 
 * Learn C++: https://www.learncpp.com/ + https://www.codecademy.com/learn/learn-c-plus-plus
