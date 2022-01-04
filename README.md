@@ -2,50 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-* German Self Taught Developer: https://www.reddit.com/r/cscareerquestionsEU/comments/hv4uuc/selftaught_developer_from_germany_can_i_have_some/ + https://larapollehn.de/
-
-* Learn C++: https://www.learncpp.com/ + https://www.codecademy.com/learn/learn-c-plus-plus
-
-* [Source to Encourage Learning Python Learning](https://www.reddit.com/r/learnprogramming/comments/ic8hls/why_this_sub_is_so_important_take_advantage_people/) + [Python Learning Source](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
-
-* Minimal Web Development: https://news.ycombinator.com/item?id=24294171 + https://meiert.com/en/blog/minimal-web-development/
-
-* Syllabus for Eric's PhD Students: https://news.ycombinator.com/item?id=24274699
-
-* Great personal page example: http://eegilbert.org/ (note: look for the previously saved Stanford professor one with great drawings)
-
-* WSJ short short article: http://archive.is/xbOuG + I Never Thought I’d Write This: I Am a Female Bodybuilder: http://archive.is/HhdeD + http://archive.is/IkUbX
-
-* Mechanical Turing Machine in Wood: https://news.ycombinator.com/item?id=24259765 + https://www.youtube.com/watch?v=vo8izCKHiF0
-
-* Remembering what you Read: Zettelkasten vs. P.A.R.A: https://news.ycombinator.com/item?id=24251068 + https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/
-
-* Why You Will Marry the Wrong Person: http://archive.is/aa6wF + https://news.ycombinator.com/item?id=24260004
-
-* Fourteen Eyes: https://news.ycombinator.com/item?id=24272244 + https://www.privacytools.io/providers/#ukusa
-
-* Loading a URL: https://news.ycombinator.com/item?id=24270093 + https://danluu.com/navigate-url/
-
-* I've reviewed thousands of applications for university recruiting at a startup. Here’s a bit of what I look for when reviewing an application. [Part 1](https://www.reddit.com/r/cscareerquestions/comments/inrex1/ive_reviewed_thousands_of_applications_for/) [Part 2](https://www.reddit.com/r/cscareerquestions/comments/irjodn/ive_reviewed_thousands_of_applications_for/)
-
-* Euclid Numbers: [reddit](https://www.reddit.com/r/math/comments/ip69e7/just_discovered_an_interesting_number_that_was/) + [prime factors](https://www.integers.co/questions-answers/what-is-the-prime-factorization-of-the-number-30031.html)
-
-* Math Research: [Reddit](https://www.reddit.com/r/math/comments/ikoz8u/does_good_research_get_noticed/) + https://arxiv.org/
-
-* Raspberry Pi as a local server: https://news.ycombinator.com/item?id=24474309 + https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/
-
-* [How to Become a Licensed Electrician in California](https://www.sjvc.edu/blog/how-to-become-an-electrician-in-california/)
-
-* [Computer Scientists Break Traveling Salesperson Record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
-
-* Solving 1.5 Factorial: [Reddit](https://www.reddit.com/r/math/comments/j5o2dw/how_would_i_go_about_solving_15_factorial/)
-
-* Complete Docker Course: [Reddit](https://www.reddit.com/r/webdev/comments/jhbkjs/complete_docker_course_3_hours_free/)
-
-* [Gravity is not a force](https://timhutton.github.io/GravityIsNotAForce/) + [HN](https://news.ycombinator.com/item?id=24821141)
-
-* [Data engineering learning path with recommended resources](https://awesomedataengineering.com/) + [HN](https://news.ycombinator.com/item?id=24817630)
-
 ---
 
 * Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
