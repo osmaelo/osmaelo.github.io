@@ -1,25 +1,4 @@
 # [Ismael's Github Homepage](http://osmaelo.github.io/), click here to [edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
-
-* Switching from MacOS to Linux: https://news.ycombinator.com/item?id=28320404
-* Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
-* Hacking Tools: https://news.ycombinator.com/item?id=28394035
-* uBlock Origin: https://news.ycombinator.com/item?id=28410807
-* Deploying a website on imgur: https://news.ycombinator.com/item?id=28431716
-* 9/11 Site: https://news.ycombinator.com/item?id=28492719
-* More cool websites: https://www.reddit.com/r/learnprogramming/comments/pm762f/if_youre_looking_for_a_mentor_i_can_mentor_you/hcfspmi/ + https://www.samuelday.de/ + https://philippeneveu.com/ + https://www.kwokyinmak.com/
-* https://www.reddit.com/r/learnprogramming/comments/prevd1/am_i_wasting_my_time_learning_django_as_a/
-* Hacker News Book Recommendations: https://news.ycombinator.com/item?id=28595967 + https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/1
-* Fourier Transforms: https://news.ycombinator.com/item?id=28632776 + https://bl.ocks.org/jinroh/7524988
-* Beware survivorship bias in advice on science careers: https://news.ycombinator.com/item?id=28678053
-* What John Von Neumann Really Did At Los Alamos: https://news.ycombinator.com/item?id=28673376
-* How I bricked my reMarkable 2: https://news.ycombinator.com/item?id=28671743
-* The Art of Linear Algebra: https://news.ycombinator.com/item?id=28704164
-* Conterintuitive facts in mathematics, CS, and physics: https://news.ycombinator.com/item?id=28764416 + https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
-* Is this the simplest (and most surprising) sorting algorithm? https://news.ycombinator.com/item?id=28758106
-* Build a solution to the Norwegian date pixe puzzle
-
----
-
 * **Blind 75 Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU (https://redd.it/mx55az)** and **https://leetcode.com/explore/interview/card/top-interview-questions-medium/** and **https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions**
 * Advice on System Design: https://www.reddit.com/r/cscareerquestions/comments/q5vlfx/anybody_else_grinding_leetcode_in_their_late_20s/hg8f2wh/?context=1
 * Useful email list: https://quastor.org
