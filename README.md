@@ -2,56 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
----
-
-* Ability to remember: [HN](https://news.ycombinator.com/item?id=24917721)
-
-* [Puzzle Games](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-
-* [Linux](https://linuxjourney.com/)
-
-* Paul's Math Notes: [Source](https://tutorial.math.lamar.edu/) + [HN](https://news.ycombinator.com/item?id=25081297)
-
-* MacOS to Linux: https://monadical.com/posts/moving-to-linux-desktop.html + https://news.ycombinator.com/item?id=25163685
-
-* The Math of Password Hashing Algorithms and Entropy: https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/ + https://news.ycombinator.com/item?id=25133061
-
-* Course 18 straigt to grad school: https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
-
-* Why would you use Docker?: https://www.reddit.com/r/learnprogramming/comments/k46m23/why_would_you_use_docker/
-
-* Slide Puzzles: http://www.kopf.com.br/kaplof/how-to-solve-any-slide-puzzle-regardless-of-its-size + https://im-a-puzzle.com/
-
-* An Elderly Mathematician Hacked the Lottery for $26M (entrepreneurshandbook.co): https://news.ycombinator.com/item?id=25333148 + https://math.berkeley.edu/~kpmann/ellenberg.pdf
-
-* Why is Apple's M1 chip so fast? (erik-engheim.medium.com): https://news.ycombinator.com/item?id=25257932
-
-* CSS in GitHub Readmes (github.com/sindresorhus): https://news.ycombinator.com/item?id=25349068
-
-* Ask HN: What's the best paper you've read in 2020?: https://news.ycombinator.com/item?id=25346456 + https://www.pnas.org/content/pnas/113/47/13283.full.pdf
-
-* Jane Street Puzzles: https://www.janestreet.com/puzzles/current-puzzle/ + https://news.ycombinator.com/item?id=25201326
-
-* Spell Checker: https://news.ycombinator.com/item?id=25296900
-
-* Optical Engineering: https://news.ycombinator.com/item?id=25357315 + https://ciechanow.ski/cameras-and-lenses/ + https://www.paulcarlisle.net/codedaperture/
-
-* Math Keeps Changing: https://news.ycombinator.com/item?id=25296652
-
-* Quant Articles: https://www.quantamagazine.org/mathematician-solves-centuries-old-grazing-goat-problem-exactly-20201209/ + https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/
-
-* Centering in CSS: https://news.ycombinator.com/item?id=25447511 + https://web.dev/centering-in-css/
-
-* Autism: https://news.ycombinator.com/item?id=25484160
-
-* Hell Yes CSS: https://news.ycombinator.com/item?id=25505212 + https://wizardzines.com/zines/css/
-
-* Algorithm Book suggestion: [Algos](https://www.reddit.com/r/learnprogramming/comments/kqa1x7/best_booksways_to_learn_algorithms_big_o/) + https://justin.abrah.ms/computer-science/big-o-notation-explained.html
-
-* [Quitting a New Job](https://news.ycombinator.com/item?id=25637922) + https://yolken.net/
-
----
-
 * Guide on C++: http://www.cplusplus.com/
 
 * App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
