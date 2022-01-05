@@ -2,46 +2,6 @@
 
 [Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
 
-* Guide on C++: http://www.cplusplus.com/
-
-* App Challenge: https://raw.githubusercontent.com/osmaelo/osmaelo.github.io/master/AppCreationChallenge
-
-* How to become data scientist: https://news.ycombinator.com/item?id=25728198 + https://khashtamov.com/en/how-to-become-a-data-engineer/
-
-* Wireless Networking in Developing World: http://wndw.net/book.html#readBook + https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/gibe436/
-
-* The Paradox of Abundance: https://news.ycombinator.com/item?id=25746315
-
-* VIM Tutorial (try VIM Tutor first): https://www.vim.so/#exercise + https://news.ycombinator.com/item?id=25846347
-
-* Vaccinate CA: https://www.vaccinateca.com/ + https://news.ycombinator.com/item?id=25854797
-
-* [List of various programming resources I gathered over the past year via Reddit](https://www.reddit.com/r/learnprogramming/comments/l0ipjo/list_of_various_programming_resources_i_gathered/)
-
-* OO in Python is mostly pointless: https://leontrolski.github.io/mostly-pointless.html + https://news.ycombinator.com/item?id=25933121
-
-* The Hundred-Page Machine Learning Book: http://themlbook.com/ + https://news.ycombinator.com/item?id=25905899
-
-* [Art of the Cover Letter](https://www.theparisreview.org/blog/2021/01/27/the-art-of-the-cover-letter/) + https://news.ycombinator.com/item?id=26071954
-
-* [I followed my dreams to get demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/) + https://news.ycombinator.com/item?id=26066918
-
-* [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) + https://news.ycombinator.com/item?id=26036790
-
-* [THE FEMININE PHYSIQUE How bodybuilding’s major federation reins in the size of female athletes](https://believermag.com/the-feminine-physique/) + https://news.ycombinator.com/item?id=26056934
-
-* Detects image duplicates: https://github.com/idealo/imagededup and getting started with electronjs: https://www.electronjs.org/docs/tutorial/quick-start
-
-* OpenAI suggested reading: https://www.deeplearningbook.org/
-
-* An Interactive Guide To The Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
-
-* Euler's FizzBuzz: http://philcrissman.net/posts/eulers-fizzbuzz/ + https://redd.it/m6bkop
-
-* Duolingo: https://duome.eu/tips/en
-
----
-
 * Pi and Nasa: https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ + https://redd.it/m54hal
 
 * Mobile Homes: https://www.lancecamper.com/ + https://forestriverinc.com/rvs/ + https://escapod.us/ + https://droplet-trailer.com/ + https://aliner.com/
