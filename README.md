@@ -1,79 +1,5 @@
 # [Ismael's Github Homepage](http://osmaelo.github.io/)
 
-[Link to edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
-
-* Pi and Nasa: https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/ + https://redd.it/m54hal
-
-* Mobile Homes: https://www.lancecamper.com/ + https://forestriverinc.com/rvs/ + https://escapod.us/ + https://droplet-trailer.com/ + https://aliner.com/
-
-* when feynman met dirac: https://news.ycombinator.com/item?id=26697227
-
-* HTML to PDF: https://news.ycombinator.com/item?id=26691626
-
-* Computer Science from the Bottom Up: https://www.bottomupcs.com/
-
-* WikiDot: http://scp-wiki.wikidot.com/scp-2521 + https://news.ycombinator.com/item?id=27120460 + https://en.wikipedia.org/wiki/Human_Interference_Task_Force
-
-* AirTag Emulator: https://animalhousefitness.com/products/monkeyfeet#shopify-product-reviews
-
-* [Apple's Messages take GB of valuable space](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/) + https://news.ycombinator.com/item?id=27319099
-
-* [Richard Feynman's Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c) + https://news.ycombinator.com/item?id=27517685
-
-* Data Structures and Algorithms practice: https://structy.net/
-* [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation) + https://news.ycombinator.com/item?id=27748967
-
-* [Mental Poker [pdf] (csail.mit.edu)](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)  + https://news.ycombinator.com/item?id=27734693
-
-* [This Website is hosted on an Casio fx-9750GII Calculator (as203478.net)](https://news.ycombinator.com/item?id=27814080)
-
-* Always be quitting: https://news.ycombinator.com/item?id=27456222
-
-* What Makes Quantum Computing So Hard to Explain?: https://news.ycombinator.com/item?id=27439839
-
-* Anti Procrastination Vids: https://news.ycombinator.com/item?id=27853855
-
-* [The Poincaré Conjecture, Explained](https://www.privatdozent.co/p/the-poincare-conjecture) + https://news.ycombinator.com/item?id=28021562
-
-* Galois Groups and the Symmetries of Polynomials: https://news.ycombinator.com/item?id=28058742
-
-* Going Mouseless: https://news.ycombinator.com/item?id=28045342
-
-* https://threejs.org/
-
-* [Security Tokes](https://en.wikipedia.org/wiki/Security_token) and [How Does Token-Based Authentication Work?](https://www.n-able.com/blog/how-does-token-based-authentication-work) + https://news.ycombinator.com/item?id=28249977
-
-* [Twenty Lectures on Algorithmic Game Theory](https://www.amazon.com/Twenty-Lectures-Algorithmic-Game-Theory/dp/131662479X) + [COMS 4995: Incentives in Computer Science
-](http://www.cs.columbia.edu/~tr/s20/s20.html) + https://news.ycombinator.com/item?id=28121870
-
-* React and Three.js: https://news.ycombinator.com/item?id=28189977
-
-* Building circuits online: https://www.flux.ai/p
-
-* Apple iPhone Charger teardown: http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html
-
-* Cool Personal Page Example: https://www.reddit.com/r/learnprogramming/comments/p56rln/30_year_old_beginner_with_doubts/h941a4c/ + https://archive.is/BYefU
-
-* Widelands Game: https://news.ycombinator.com/item?id=28196178
-
-* How to avoid being hit by a laser in a room of mirrors: https://news.ycombinator.com/item?id=28194883
-
-* The best books on assassinations: https://news.ycombinator.com/item?id=28191609 + https://fivebooks.com/best-books/assassination-michael-burleigh/
-
-* Breaking down a ripple animation in JavaScript: https://news.ycombinator.com/item?id=28234779
-
-* How Facetime works: https://news.ycombinator.com/item?id=28230789
-
-* Doom on an office phone and other items: https://news.ycombinator.com/item?id=28327022 + https://www.vice.com/en/article/qkjv9x/a-catalogue-of-all-the-devices-that-can-somehow-run-doom
-
-* US Digital Corps: https://news.ycombinator.com/item?id=28363758 + https://digitalcorps.gsa.gov/ + https://www.usds.gov/
-
-* No experience job in the bay area: https://www.reddit.com/r/bayarea/comments/pfgmmq/is_there_an_overall_worker_shortage_in_the_bay/hb4wbo2/
-
-* Youtube Math Channel Guide: https://news.ycombinator.com/item?id=28374769 + https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/
-
----
-
 * Switching from MacOS to Linux: https://news.ycombinator.com/item?id=28320404
 
 * Look into buying Effective JavaScript, Learn Python the Hard Way (and its variations)
@@ -104,6 +30,8 @@
 
 * Build a solution to the Norwegian date pixe puzzle
 
+---
+
 * **Blind 75 Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU (https://redd.it/mx55az)** and **https://leetcode.com/explore/interview/card/top-interview-questions-medium/** and **https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions**
 * Advice on System Design: https://www.reddit.com/r/cscareerquestions/comments/q5vlfx/anybody_else_grinding_leetcode_in_their_late_20s/hg8f2wh/?context=1
 * Useful email list: https://quastor.org
@@ -117,6 +45,9 @@
 * 3 TypeScript Tricks I wish I knew when I learned TypeScript: https://news.ycombinator.com/item?id=28837181
 * Git Command Explorer: https://news.ycombinator.com/item?id=28888763
 * Tech Compensation in 2021: https://news.ycombinator.com/item?id=28870464
+
+---
+
 * Learn electronics technology, IT and fiber optics technology (rsdacademy.net) for free: https://news.ycombinator.com/item?id=28826803
 * Ask HN: How can I get a tech job that's more social?: https://news.ycombinator.com/item?id=28839819
 * Why nobody hires junior developers and what happens next: https://news.ycombinator.com/item?id=28890910
@@ -135,6 +66,9 @@
 * Don't buy Cracking the Coding Interview for Big Tech Interviews: https://archive.md/0TsHB
 * Algorithm Grading Rubric: Look in Google Spreadsheet list
 * 55 GiB/s FizzBuzz (stackexchange.com):  https://news.ycombinator.com/item?id=29031488 +   https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
+
+---
+
 * Show HN: Running a simple local HTTP server in a web page (github.com/etherdream): https://news.ycombinator.com/item?id=29047269 + https://github.com/osmaelo/http-server-online
 * So you want to Scrape like the Big Boys? 🚀: https://news.ycombinator.com/item?id=29117022
 * Does having prime neighbors make you more composite?: https://news.ycombinator.com/item?id=29120073
@@ -161,6 +95,9 @@
 * Learning containers from the bottom up (iximiuz.com): https://news.ycombinator.com/item?id=29265061 + https://iximiuz.com/en/posts/container-learning-path/
 * Amazon Leet Code questions: https://www.reddit.com/r/leetcode/comments/qz2atz/amazon_final_interview_questions_all_combined/ (https://archive.md/hK7Pz)
 * Show HN: Run Python, Ruby, Node.js, C++, Lua in the Browser via x86 to WASM JIT (leaningtech.com): https://news.ycombinator.com/item?id=29305643 + https://repl.leaningtech.com/
+
+---
+
 * 149244179's comment is a great idea on what to work on: https://www.reddit.com/r/learnprogramming/comments/r0sznz/what_are_10_programs_you_should_write_in_a/hlulihu/ (https://archive.md/GzSzc) and other suggestions from the wiki https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F
 * Open-source home cloud OS allows you to run Docker applications without coding (github.com/icewhaletech): https://news.ycombinator.com/item?id=29328473 + https://github.com/IceWhaleTech/CasaOS
 * Can you do anything on the internet without going through a major platform first?: https://freedomboxfoundation.org
@@ -169,6 +106,9 @@
 * Glitch effect on text in pure CSS (dustri.org): https://news.ycombinator.com/item?id=29412775
 * Automation for MacOS: https://support.apple.com/guide/script-editor/welcome/mac
 * https://en.wikipedia.org/wiki/Millennium_Prize_Problems
+
+---
+
 * Learn Next.js: https://en.wikipedia.org/wiki/Next.js
 * Leetcode Solutions: https://github.com/kamyu104/LeetCode-Solutions
 * How I'm able to take notes in mathematics lectures using LaTeX and Vim: https://castel.dev/post/lecture-notes-1/
