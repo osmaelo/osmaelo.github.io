@@ -1,17 +1,4 @@
 # [Ismael's Github Homepage](http://osmaelo.github.io/), click here to [edit page](https://github.com/osmaelo/osmaelo.github.io/edit/master/README.md)
-* **Blind 75 Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU (https://redd.it/mx55az)** and **https://leetcode.com/explore/interview/card/top-interview-questions-medium/** and **https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions**
-* Advice on System Design: https://www.reddit.com/r/cscareerquestions/comments/q5vlfx/anybody_else_grinding_leetcode_in_their_late_20s/hg8f2wh/?context=1
-* Useful email list: https://quastor.org
-* Useful videos on System Design: https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
-* System Design Interview book review (pragmaticengineer.com): https://news.ycombinator.com/item?id=25647025
-* DDIA: https://dataintensive.net
-* **The System Design Primer: https://github.com/donnemartin/system-design-primer**
-* John Urschel of mit and ias: https://math.mit.edu/~urschel/
-* Learn Blender: https://www.blender.org
-* State of Webscraping in 2021: https://news.ycombinator.com/item?id=28827509
-* 3 TypeScript Tricks I wish I knew when I learned TypeScript: https://news.ycombinator.com/item?id=28837181
-* Git Command Explorer: https://news.ycombinator.com/item?id=28888763
-* Tech Compensation in 2021: https://news.ycombinator.com/item?id=28870464
 
 ---
 
