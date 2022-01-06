@@ -2,27 +2,6 @@
 
 ---
 
-* Learn electronics technology, IT and fiber optics technology (rsdacademy.net) for free: https://news.ycombinator.com/item?id=28826803
-* Ask HN: How can I get a tech job that's more social?: https://news.ycombinator.com/item?id=28839819
-* Why nobody hires junior developers and what happens next: https://news.ycombinator.com/item?id=28890910
-* **Web Browser Engineering: https://news.ycombinator.com/item?id=28898157 + https://web.archive.org/web/20211020005157/https://browser.engineering/**
-* Setting up a static HTTPS website on your Raspberry Pi using Docker and Nginx (gist.github.com): https://news.ycombinator.com/item?id=28979665
-* Magit, the magical Git interface (2017) (emacsair.me): https://news.ycombinator.com/item?id=28954058
-* An Introduction to Probabilistic Programming (arxiv.org): https://news.ycombinator.com/item?id=28941145
-* The age of machine learning as code has arrived (huggingface.co): https://news.ycombinator.com/item?id=28960925
-* Pong using browser windows as the paddles and ball (2009) (stewd.io): https://news.ycombinator.com/item?id=28975135
-* How we built a serverless SQL database (cockroachlabs.com): https://news.ycombinator.com/item?id=29001285
-* Lambda School leaked documents show poor performance over the last two years (businessinsider.com): https://news.ycombinator.com/item?id=28989092 + https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10
-* PiBox Mini – Modular Raspberry Pi Storage Server: https://news.ycombinator.com/item?id=28992873 + https://pibox.io/
-* A framework for grading your performance on programming interview problems: https://news.ycombinator.com/item?id=28896343
-* The Big Tech Coding Interview Framework - Pt 1. Inspect: https://archive.md/FJvpn
-* A framework for crushing Big Tech interviews: https://archive.md/XLtFw
-* Don't buy Cracking the Coding Interview for Big Tech Interviews: https://archive.md/0TsHB
-* Algorithm Grading Rubric: Look in Google Spreadsheet list
-* 55 GiB/s FizzBuzz (stackexchange.com):  https://news.ycombinator.com/item?id=29031488 +   https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
-
----
-
 * Show HN: Running a simple local HTTP server in a web page (github.com/etherdream): https://news.ycombinator.com/item?id=29047269 + https://github.com/osmaelo/http-server-online
 * So you want to Scrape like the Big Boys? 🚀: https://news.ycombinator.com/item?id=29117022
 * Does having prime neighbors make you more composite?: https://news.ycombinator.com/item?id=29120073
