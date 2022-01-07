@@ -2,18 +2,6 @@
 
 ---
 
-* Show HN: Running a simple local HTTP server in a web page (github.com/etherdream): https://news.ycombinator.com/item?id=29047269 + https://github.com/osmaelo/http-server-online
-* So you want to Scrape like the Big Boys? 🚀: https://news.ycombinator.com/item?id=29117022
-* Does having prime neighbors make you more composite?: https://news.ycombinator.com/item?id=29120073
-* The Arcane Algorithm Archive: https://www.algorithm-archive.org/ + https://news.ycombinator.com/item?id=29138991
-* **Learn TypeScript: https://news.ycombinator.com/item?id=29140062 + And look for other resources soon**
-* Big Tech Coding Interview Framework – Pt 1. Inspect (fangprep.substack.com): https://news.ycombinator.com/item?id=29132196 + https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect
-* Don’t Do Interviews, Do Discussions!: https://news.ycombinator.com/item?id=29141983 + https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions
-* Porting Doom to a USB Bluetooth Dongle (next-hack.com): https://news.ycombinator.com/item?id=29225855 + https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/
-* JPMorgan Chase Leet Code questions: https://leetcode.com/list/921m0l31/
-
----
-
 * Better touch for MacOS: https://www.macworld.com/article/551700/mac-gems-bettertouchtool-review.html
 * Google Summer of Code in 2022 – No longer limited to students (googleblog.com): https://news.ycombinator.com/item?id=29180285
 * Ask HN: Looking for a book on algorithms and data structures: https://news.ycombinator.com/item?id=29217252 **(The Algorithm Design Manual by Steven Skiena)**
